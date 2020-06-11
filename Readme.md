@@ -75,9 +75,9 @@
 ### <a id="e390d017c1017bd46d5b8f507f4fd3d4"></a>工具
 
 
-- [**1688**星][28d] [C++] [jmpews/dobby](https://github.com/jmpews/Dobby) 轻量级，多平台，多体系结构的Hook框架（曾用名：HookZz）
-- [**316**星][4m] [ObjC] [jmpews/hookzzmodules](https://github.com/jmpews/hookzzmodules) modules deps on HookZz framework.
-- [**67**星][30d] [C] [luoyanbei/testhookzz](https://github.com/luoyanbei/testhookzz) iOS逆向：使用HookZz框架hook游戏“我的战争”，进入上帝模式
+- ![](https://img.shields.io/github/stars/jmpews/dobby)![](https://img.shields.io/github/last-commit/jmpews/dobby)![](https://img.shields.io/github/languages/top/jmpews/dobby)[jmpews/dobby](https://github.com/jmpews/Dobby) 轻量级，多平台，多体系结构的Hook框架（曾用名：HookZz）
+- ![](https://img.shields.io/github/stars/jmpews/hookzzmodules)![](https://img.shields.io/github/last-commit/jmpews/hookzzmodules)![](https://img.shields.io/github/languages/top/jmpews/hookzzmodules)[jmpews/hookzzmodules](https://github.com/jmpews/hookzzmodules) modules deps on HookZz framework.
+- ![](https://img.shields.io/github/stars/luoyanbei/testhookzz)![](https://img.shields.io/github/last-commit/luoyanbei/testhookzz)![](https://img.shields.io/github/languages/top/luoyanbei/testhookzz)[luoyanbei/testhookzz](https://github.com/luoyanbei/testhookzz) iOS逆向：使用HookZz框架hook游戏“我的战争”，进入上帝模式
 
 
 ### <a id="a6d72ef4ede162a0e30a685e175f2826"></a>文章
@@ -97,7 +97,7 @@
 ### <a id="f89154bf4fc7bf4ac333dee2e5607daf"></a>工具
 
 
-- [**283**星][28d] [C] [kubo/plthook](https://github.com/kubo/plthook) 修改ELF文件的PLT、PE文件的IAT，实现的函数Hook
+- ![](https://img.shields.io/github/stars/kubo/plthook)![](https://img.shields.io/github/last-commit/kubo/plthook)![](https://img.shields.io/github/languages/top/kubo/plthook)[kubo/plthook](https://github.com/kubo/plthook) 修改ELF文件的PLT、PE文件的IAT，实现的函数Hook
 
 
 
@@ -111,7 +111,7 @@
 ### <a id="c7bfc210dbe57d25b9baf46192752a01"></a>工具
 
 
-- [**385**星][1m] [C] [zeex/subhook](https://github.com/zeex/subhook) 简易的跨平台Hook框架，针对C/C++，只支持x86。无依赖
+- ![](https://img.shields.io/github/stars/zeex/subhook)![](https://img.shields.io/github/last-commit/zeex/subhook)![](https://img.shields.io/github/languages/top/zeex/subhook)[zeex/subhook](https://github.com/zeex/subhook) 简易的跨平台Hook框架，针对C/C++，只支持x86。无依赖
 
 
 
@@ -125,7 +125,7 @@
 ### <a id="3a82377770a448ca429284ae19705f26"></a>工具
 
 
-- [**917**星][26d] [C++] [aslody/whale](https://github.com/aslody/whale) Hook Framework for Android/IOS/Linux/MacOS
+- ![](https://img.shields.io/github/stars/aslody/whale)![](https://img.shields.io/github/last-commit/aslody/whale)![](https://img.shields.io/github/languages/top/aslody/whale)[aslody/whale](https://github.com/aslody/whale) Hook Framework for Android/IOS/Linux/MacOS
 
 
 ### <a id="629a4ee63f97fce67c975b8233abe80e"></a>文章
@@ -145,14 +145,14 @@
 ## <a id="48300d28294339433ac82b8bf4d4e92d"></a>工具
 
 
-- [**203**星][28d] [C++] [rebzzel/kiero](https://github.com/rebzzel/kiero) Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
-- [**59**星][2m] [C++] [codereversing/directx9hook](https://github.com/codereversing/directx9hook) Runtime DirectX9 Hooking
-- [**52**星][11m] [C++] [gaypig/directx11-hook-with-discord](https://github.com/gaypig/directx11-hook-with-discord) DirectX11 hook with discord
-- [**40**星][4m] [C++] [rebzzel/universal-d3d11-hook](https://github.com/rebzzel/universal-d3d11-hook) Universal hook for DX11 based games written in C++
-- [**37**星][4m] [C++] [niemand-sec/directx11hook](https://github.com/niemand-sec/directx11hook) Hooking Game Graphic Engines!
-- [**11**星][4m] [C++] [guided-hacking/gh_d3d11_hook](https://github.com/guided-hacking/gh_d3d11_hook) Barebones D3D11 hook.
-- [**5**星][1y] [C++] [nexus-devs/nexus-hook](https://github.com/nexus-devs/nexus-hook) Hooking functionality for DirectX11 applications
-- [**0**星][3m] [Lua] [yungtry/gtasa-d3dhook](https://github.com/yungtry/gtasa-d3dhook) Directx hook GTA:SA via Cheat Engine
+- ![](https://img.shields.io/github/stars/rebzzel/kiero)![](https://img.shields.io/github/last-commit/rebzzel/kiero)![](https://img.shields.io/github/languages/top/rebzzel/kiero)[rebzzel/kiero](https://github.com/rebzzel/kiero) Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
+- ![](https://img.shields.io/github/stars/codereversing/directx9hook)![](https://img.shields.io/github/last-commit/codereversing/directx9hook)![](https://img.shields.io/github/languages/top/codereversing/directx9hook)[codereversing/directx9hook](https://github.com/codereversing/directx9hook) Runtime DirectX9 Hooking
+- ![](https://img.shields.io/github/stars/gaypig/directx11-hook-with-discord)![](https://img.shields.io/github/last-commit/gaypig/directx11-hook-with-discord)![](https://img.shields.io/github/languages/top/gaypig/directx11-hook-with-discord)[gaypig/directx11-hook-with-discord](https://github.com/gaypig/directx11-hook-with-discord) DirectX11 hook with discord
+- ![](https://img.shields.io/github/stars/rebzzel/universal-d3d11-hook)![](https://img.shields.io/github/last-commit/rebzzel/universal-d3d11-hook)![](https://img.shields.io/github/languages/top/rebzzel/universal-d3d11-hook)[rebzzel/universal-d3d11-hook](https://github.com/rebzzel/universal-d3d11-hook) Universal hook for DX11 based games written in C++
+- ![](https://img.shields.io/github/stars/niemand-sec/directx11hook)![](https://img.shields.io/github/last-commit/niemand-sec/directx11hook)![](https://img.shields.io/github/languages/top/niemand-sec/directx11hook)[niemand-sec/directx11hook](https://github.com/niemand-sec/directx11hook) Hooking Game Graphic Engines!
+- ![](https://img.shields.io/github/stars/guided-hacking/gh_d3d11_hook)![](https://img.shields.io/github/last-commit/guided-hacking/gh_d3d11_hook)![](https://img.shields.io/github/languages/top/guided-hacking/gh_d3d11_hook)[guided-hacking/gh_d3d11_hook](https://github.com/guided-hacking/gh_d3d11_hook) Barebones D3D11 hook.
+- ![](https://img.shields.io/github/stars/nexus-devs/nexus-hook)![](https://img.shields.io/github/last-commit/nexus-devs/nexus-hook)![](https://img.shields.io/github/languages/top/nexus-devs/nexus-hook)[nexus-devs/nexus-hook](https://github.com/nexus-devs/nexus-hook) Hooking functionality for DirectX11 applications
+- ![](https://img.shields.io/github/stars/yungtry/gtasa-d3dhook)![](https://img.shields.io/github/last-commit/yungtry/gtasa-d3dhook)![](https://img.shields.io/github/languages/top/yungtry/gtasa-d3dhook)[yungtry/gtasa-d3dhook](https://github.com/yungtry/gtasa-d3dhook) Directx hook GTA:SA via Cheat Engine
 
 
 ***
@@ -178,7 +178,7 @@
 ## <a id="cb77f15c966122a0eb36fe507c30aaad"></a>工具
 
 
-- [**76**星][2m] [Py] [hamz-a/jeb2frida](https://github.com/hamz-a/jeb2frida) Automated Frida hook generation with JEB
+- ![](https://img.shields.io/github/stars/hamz-a/jeb2frida)![](https://img.shields.io/github/last-commit/hamz-a/jeb2frida)![](https://img.shields.io/github/languages/top/hamz-a/jeb2frida)[hamz-a/jeb2frida](https://github.com/hamz-a/jeb2frida) Automated Frida hook generation with JEB
 
 
 ***
@@ -216,7 +216,7 @@
 ### <a id="0817c7b6f8e2736c66ac897160dc5261"></a>工具
 
 
-- [**269**星][30d] [C#] [misaka-mikoto-tech/monohook](https://github.com/Misaka-Mikoto-Tech/MonoHook) hook C# method at runtime without modify dll file (such as UnityEditor.dll)
+- ![](https://img.shields.io/github/stars/misaka-mikoto-tech/monohook)![](https://img.shields.io/github/last-commit/misaka-mikoto-tech/monohook)![](https://img.shields.io/github/languages/top/misaka-mikoto-tech/monohook)[misaka-mikoto-tech/monohook](https://github.com/Misaka-Mikoto-Tech/MonoHook) hook C# method at runtime without modify dll file (such as UnityEditor.dll)
 
 
 
@@ -230,7 +230,7 @@
 ### <a id="cf17acbb8d83d3aeab4fed2cf014b472"></a>工具
 
 
-- [**423**星][1y] [C] [darthton/hyperbone](https://github.com/darthton/hyperbone) 极简的带Hook的VT-x hypervisor
+- ![](https://img.shields.io/github/stars/darthton/hyperbone)![](https://img.shields.io/github/last-commit/darthton/hyperbone)![](https://img.shields.io/github/languages/top/darthton/hyperbone)[darthton/hyperbone](https://github.com/darthton/hyperbone) 极简的带Hook的VT-x hypervisor
 
 
 
@@ -244,7 +244,7 @@
 ### <a id="de81c2eee0069fbb8fe9f5f7a3ce0c27"></a>工具
 
 
-- [**512**星][2y] [C++] [tandasat/ddimon](https://github.com/tandasat/ddimon) 通过使用扩展页表(EPT)，执行内联hook的hypervisor，对访客(即除DdiMon之外的任何代码)是不可见的
+- ![](https://img.shields.io/github/stars/tandasat/ddimon)![](https://img.shields.io/github/last-commit/tandasat/ddimon)![](https://img.shields.io/github/languages/top/tandasat/ddimon)[tandasat/ddimon](https://github.com/tandasat/ddimon) 通过使用扩展页表(EPT)，执行内联hook的hypervisor，对访客(即除DdiMon之外的任何代码)是不可见的
 
 
 
@@ -258,7 +258,7 @@
 ### <a id="11194fc0dfeb5506639f48de0126e5d0"></a>工具
 
 
-- [**512**星][30d] [C] [martona/mhook](https://github.com/martona/mhook) A Windows API hooking library
+- ![](https://img.shields.io/github/stars/martona/mhook)![](https://img.shields.io/github/last-commit/martona/mhook)![](https://img.shields.io/github/languages/top/martona/mhook)[martona/mhook](https://github.com/martona/mhook) A Windows API hooking library
 
 
 ### <a id="36cb78dc5ece1c2e8a2bba7a2b0a1bd1"></a>文章
@@ -279,8 +279,8 @@
 ### <a id="eaca31f967862193af27a292a1959525"></a>工具
 
 
-- [**646**星][9m] [C++] [stevemk14ebr/polyhook](https://github.com/stevemk14ebr/polyhook) x86/x64 C++ Hooking Library
-- [**515**星][27d] [C++] [stevemk14ebr/polyhook_2_0](https://github.com/stevemk14ebr/polyhook_2_0) C++17, x86/x64 Hooking Libary v2.0
+- ![](https://img.shields.io/github/stars/stevemk14ebr/polyhook)![](https://img.shields.io/github/last-commit/stevemk14ebr/polyhook)![](https://img.shields.io/github/languages/top/stevemk14ebr/polyhook)[stevemk14ebr/polyhook](https://github.com/stevemk14ebr/polyhook) x86/x64 C++ Hooking Library
+- ![](https://img.shields.io/github/stars/stevemk14ebr/polyhook_2_0)![](https://img.shields.io/github/last-commit/stevemk14ebr/polyhook_2_0)![](https://img.shields.io/github/languages/top/stevemk14ebr/polyhook_2_0)[stevemk14ebr/polyhook_2_0](https://github.com/stevemk14ebr/polyhook_2_0) C++17, x86/x64 Hooking Libary v2.0
 
 
 
@@ -294,7 +294,7 @@
 ### <a id="1844eec4bf3a1b4a68744703c1c202bd"></a>工具
 
 
-- [**1079**星][4m] [C++] [everdox/infinityhook](https://github.com/everdox/infinityhook) Hook system calls, context switches, page faults and more.
+- ![](https://img.shields.io/github/stars/everdox/infinityhook)![](https://img.shields.io/github/last-commit/everdox/infinityhook)![](https://img.shields.io/github/languages/top/everdox/infinityhook)[everdox/infinityhook](https://github.com/everdox/infinityhook) Hook system calls, context switches, page faults and more.
 
 
 
@@ -308,8 +308,8 @@
 ### <a id="4c9a8a35ade52fd64f16972e8a68e7a1"></a>工具
 
 
-- [**1364**星][28d] [C] [tsudakageyu/minhook](https://github.com/tsudakageyu/minhook) 最小化的x86/x64 API Hook 库
-- [**28**星][2y] [C] [sentinel-one/minhook](https://github.com/sentinel-one/minhook) The Minimalistic x86/x64 API Hooking Library for Windows
+- ![](https://img.shields.io/github/stars/tsudakageyu/minhook)![](https://img.shields.io/github/last-commit/tsudakageyu/minhook)![](https://img.shields.io/github/languages/top/tsudakageyu/minhook)[tsudakageyu/minhook](https://github.com/tsudakageyu/minhook) 最小化的x86/x64 API Hook 库
+- ![](https://img.shields.io/github/stars/sentinel-one/minhook)![](https://img.shields.io/github/last-commit/sentinel-one/minhook)![](https://img.shields.io/github/languages/top/sentinel-one/minhook)[sentinel-one/minhook](https://github.com/sentinel-one/minhook) The Minimalistic x86/x64 API Hooking Library for Windows
 
 
 ### <a id="ea2742d39ff1bed30b7ce35ad808092f"></a>文章
@@ -331,9 +331,9 @@
 ### <a id="26f3fd90e7a78bbaf089137ef7901377"></a>工具
 
 
-- [**1707**星][1y] [C] [easyhook/easyhook](https://github.com/easyhook/easyhook) 重新发明了Windows API挂钩
-- [**67**星][27d] [C#] [easyhook/easyhook-tutorials](https://github.com/easyhook/easyhook-tutorials) Contains the source code for the EasyHook tutorials found at
-- [**14**星][5m] [C#] [ulysseswu/vinjex](https://github.com/ulysseswu/vinjex) A simple DLL injection lib using Easyhook, inspired by VInj.
+- ![](https://img.shields.io/github/stars/easyhook/easyhook)![](https://img.shields.io/github/last-commit/easyhook/easyhook)![](https://img.shields.io/github/languages/top/easyhook/easyhook)[easyhook/easyhook](https://github.com/easyhook/easyhook) 重新发明了Windows API挂钩
+- ![](https://img.shields.io/github/stars/easyhook/easyhook-tutorials)![](https://img.shields.io/github/last-commit/easyhook/easyhook-tutorials)![](https://img.shields.io/github/languages/top/easyhook/easyhook-tutorials)[easyhook/easyhook-tutorials](https://github.com/easyhook/easyhook-tutorials) Contains the source code for the EasyHook tutorials found at
+- ![](https://img.shields.io/github/stars/ulysseswu/vinjex)![](https://img.shields.io/github/last-commit/ulysseswu/vinjex)![](https://img.shields.io/github/languages/top/ulysseswu/vinjex)[ulysseswu/vinjex](https://github.com/ulysseswu/vinjex) A simple DLL injection lib using Easyhook, inspired by VInj.
 
 
 ### <a id="4a7346bc13f522e8bd1894839c0c4c0c"></a>文章
@@ -354,14 +354,14 @@
 ### <a id="857e1dfab2c44af2da91032978f0e96e"></a>工具
 
 
-- [**117**星][2y] [C#] [tandasat/dotnethooking](https://github.com/tandasat/dotnethooking) Sample use cases of the .NET native code hooking technique
-- [**60**星][2y] [C#] [wledfor2/playhooky](https://github.com/wledfor2/playhooky) C# Runtime Hooking Library for .NET/Mono/Unity.
-- [**34**星][4m] [C#] [dangbee/dotnethook](https://github.com/dangbee/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
-- [**31**星][1y] [C#] [thaisenpm/loader2](https://github.com/thaisenpm/loader2) Nova Hook is an open source C# cheat loader currently built for CS:GO
-- [**16**星][6m] [C#] [lontivero/open.winkeyboardhook](https://github.com/lontivero/open.winkeyboardhook) A simple and easy-to-use .NET managed wrapper for Low Level Keyboard hooking.
-- [**15**星][2m] [Visual Basic .NET] [thaisenpm/loader1](https://github.com/thaisenpm/loader1) Nova Hook is an open source VB.NET cheat loader currently built for CS:GO
-- [**11**星][6m] [C#] [20chan/globalhook](https://github.com/20chan/GlobalHook) Simple global keyboard, mouse hook and simulation library written C#
-- [**None**星][C#] [elliesaur/dotnethook](https://github.com/elliesaur/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
+- ![](https://img.shields.io/github/stars/tandasat/dotnethooking)![](https://img.shields.io/github/last-commit/tandasat/dotnethooking)![](https://img.shields.io/github/languages/top/tandasat/dotnethooking)[tandasat/dotnethooking](https://github.com/tandasat/dotnethooking) Sample use cases of the .NET native code hooking technique
+- ![](https://img.shields.io/github/stars/wledfor2/playhooky)![](https://img.shields.io/github/last-commit/wledfor2/playhooky)![](https://img.shields.io/github/languages/top/wledfor2/playhooky)[wledfor2/playhooky](https://github.com/wledfor2/playhooky) C# Runtime Hooking Library for .NET/Mono/Unity.
+- ![](https://img.shields.io/github/stars/dangbee/dotnethook)![](https://img.shields.io/github/last-commit/dangbee/dotnethook)![](https://img.shields.io/github/languages/top/dangbee/dotnethook)[dangbee/dotnethook](https://github.com/dangbee/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
+- ![](https://img.shields.io/github/stars/thaisenpm/loader2)![](https://img.shields.io/github/last-commit/thaisenpm/loader2)![](https://img.shields.io/github/languages/top/thaisenpm/loader2)[thaisenpm/loader2](https://github.com/thaisenpm/loader2) Nova Hook is an open source C# cheat loader currently built for CS:GO
+- ![](https://img.shields.io/github/stars/lontivero/open.winkeyboardhook)![](https://img.shields.io/github/last-commit/lontivero/open.winkeyboardhook)![](https://img.shields.io/github/languages/top/lontivero/open.winkeyboardhook)[lontivero/open.winkeyboardhook](https://github.com/lontivero/open.winkeyboardhook) A simple and easy-to-use .NET managed wrapper for Low Level Keyboard hooking.
+- ![](https://img.shields.io/github/stars/thaisenpm/loader1)![](https://img.shields.io/github/last-commit/thaisenpm/loader1)![](https://img.shields.io/github/languages/top/thaisenpm/loader1)[thaisenpm/loader1](https://github.com/thaisenpm/loader1) Nova Hook is an open source VB.NET cheat loader currently built for CS:GO
+- ![](https://img.shields.io/github/stars/20chan/globalhook)![](https://img.shields.io/github/last-commit/20chan/globalhook)![](https://img.shields.io/github/languages/top/20chan/globalhook)[20chan/globalhook](https://github.com/20chan/GlobalHook) Simple global keyboard, mouse hook and simulation library written C#
+- ![](https://img.shields.io/github/stars/elliesaur/dotnethook)![](https://img.shields.io/github/last-commit/elliesaur/dotnethook)![](https://img.shields.io/github/languages/top/elliesaur/dotnethook)[elliesaur/dotnethook](https://github.com/elliesaur/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
 
 
 
@@ -375,12 +375,12 @@
 ### <a id="da32ea71d0410c1420a86770a9fb1f0e"></a>工具
 
 
-- [**58**星][3y] [C++] [int0/processisolator](https://github.com/int0/processisolator) Utility to hook SSDT of specific process and transfer control to a service (usermode app) for handling to determine action allow/deny API call etc.
-- [**12**星][5y] [C] [s18leoare/hackshield-driver-bypass](https://github.com/s18leoare/hackshield-driver-bypass) Bypass HackShield several specific SSDT hook in Ring0
-- [**8**星][3m] [C] [papadp/shd](https://github.com/papadp/shd) Ssdt Hook Detection tool
-- [**7**星][11m] [C] [cherryzy/process_protect_module](https://github.com/cherryzy/process_protect_module) Monitor and protect processes use "PsSetCreateProcessNotifyRoutineEx" and kernel ssdt hook.
-- [**6**星][6y] [C++] [wyrover/hkkerneldbg](https://github.com/wyrover/hkkerneldbg) F**k ssdt hook in np, tp, hs
-- [**3**星][2y] [C] [sqdwr/64-bits-inserthook](https://github.com/sqdwr/64-bits-inserthook) insert a ssdt table to hook
+- ![](https://img.shields.io/github/stars/int0/processisolator)![](https://img.shields.io/github/last-commit/int0/processisolator)![](https://img.shields.io/github/languages/top/int0/processisolator)[int0/processisolator](https://github.com/int0/processisolator) Utility to hook SSDT of specific process and transfer control to a service (usermode app) for handling to determine action allow/deny API call etc.
+- ![](https://img.shields.io/github/stars/s18leoare/hackshield-driver-bypass)![](https://img.shields.io/github/last-commit/s18leoare/hackshield-driver-bypass)![](https://img.shields.io/github/languages/top/s18leoare/hackshield-driver-bypass)[s18leoare/hackshield-driver-bypass](https://github.com/s18leoare/hackshield-driver-bypass) Bypass HackShield several specific SSDT hook in Ring0
+- ![](https://img.shields.io/github/stars/papadp/shd)![](https://img.shields.io/github/last-commit/papadp/shd)![](https://img.shields.io/github/languages/top/papadp/shd)[papadp/shd](https://github.com/papadp/shd) Ssdt Hook Detection tool
+- ![](https://img.shields.io/github/stars/cherryzy/process_protect_module)![](https://img.shields.io/github/last-commit/cherryzy/process_protect_module)![](https://img.shields.io/github/languages/top/cherryzy/process_protect_module)[cherryzy/process_protect_module](https://github.com/cherryzy/process_protect_module) Monitor and protect processes use "PsSetCreateProcessNotifyRoutineEx" and kernel ssdt hook.
+- ![](https://img.shields.io/github/stars/wyrover/hkkerneldbg)![](https://img.shields.io/github/last-commit/wyrover/hkkerneldbg)![](https://img.shields.io/github/languages/top/wyrover/hkkerneldbg)[wyrover/hkkerneldbg](https://github.com/wyrover/hkkerneldbg) F**k ssdt hook in np, tp, hs
+- ![](https://img.shields.io/github/stars/sqdwr/64-bits-inserthook)![](https://img.shields.io/github/last-commit/sqdwr/64-bits-inserthook)![](https://img.shields.io/github/languages/top/sqdwr/64-bits-inserthook)[sqdwr/64-bits-inserthook](https://github.com/sqdwr/64-bits-inserthook) insert a ssdt table to hook
 
 
 ### <a id="72b0e23ec112768033b81f42656993ab"></a>文章
@@ -430,54 +430,54 @@
 ## <a id="ef463ddf9e70b545120d01849ef666a6"></a>工具
 
 
-- [**1866**星][27d] [Py] [boppreh/keyboard](https://github.com/boppreh/keyboard) 在Windows和Linux上挂钩和模拟全局键盘事件
-- [**787**星][4m] [C++] [ysc3839/fontmod](https://github.com/ysc3839/fontmod) 修改 Win32 程序字体的简单的 hook 工具。可用于一些基于 GDI 或者 Qt 的程序
-- [**546**星][5m] [C#] [crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
-- [**310**星][29d] [C] [gbps/gbhv](https://github.com/gbps/gbhv) Simple x86-64 VT-x Hypervisor with EPT Hooking
-- [**193**星][26d] [C#] [justcoding121/windows-user-action-hook](https://github.com/justcoding121/windows-user-action-hook) A .NET library to subscribe for Windows operating system global user actions such mouse, keyboard, clipboard & print events
-- [**92**星][3y] [C++] [shmuelyr/captainhook](https://github.com/shmuelyr/captainhook) CaptainHook is perfect x86/x64 hook environment
-- [**88**星][2m] [C] [tinysec/iathook](https://github.com/tinysec/iathook) windows内核模式和用户模式IAT hook
-- [**79**星][3y] [C] [stevemk14ebr/unihook](https://github.com/stevemk14ebr/unihook) Intercept arbitrary functions at run-time, without knowing their typedefs
-- [**76**星][24d] [C] [danielkrupinski/vac-hooks](https://github.com/danielkrupinski/vac-hooks) Hook WinAPI functions used by Valve Anti-Cheat. Log calls and intercept arguments & return values. DLL written in C.
-- [**45**星][10m] [C#] [userr00t/universalunityhooks](https://github.com/userr00t/universalunityhooks) A framework designed to hook into and modify methods in unity games via dlls
-- [**44**星][7m] [C++] [wopss/renhook](https://github.com/wopss/renhook) An open-source x86 / x86-64 hooking library for Windows.
-- [**42**星][1m] [Rust] [verideth/dll_hook-rs](https://github.com/verideth/dll_hook-rs) Rust code to show how hooking in rust with a dll works.
-- [**40**星][1m] [C++] [prekageo/winhook](https://github.com/prekageo/winhook) 
-- [**38**星][1m] [C++] [rolfrolles/wbdeshook](https://github.com/rolfrolles/wbdeshook) DLL-injection based solution to Brecht Wyseur's wbDES challenge (based on SysK's Phrack article)
-- [**38**星][1m] [Assembly] [muffins/rookit_playground](https://github.com/muffins/rookit_playground) Educational repository for learning about rootkits and Windows Kernel Hooks.
-- [**35**星][2m] [C++] [codereversing/wow64syscall](https://github.com/codereversing/wow64syscall) WoW64 Syscall Hooking
-- [**34**星][3y] [C++] [menooker/fishhook](https://github.com/menooker/fishhook) An inline hook platform for Windows x86/x64
-- [**34**星][30d] [Py] [byzero512/winpwn](https://github.com/byzero512/winpwn) for CTF windows pwn and IAT/EAT hook
-- [**32**星][2m] [C++] [netdex/twinject](https://github.com/netdex/twinject) Automated player and hooking framework for bullet hell games from the Touhou Project
-- [**30**星][2m] [C] [deroko/activationcontexthook](https://github.com/deroko/activationcontexthook) Hook 进程，强制进程加载重定向的 DLL
-- [**29**星][4m] [C++] [m-r-j-o-h-n/swh-injector](https://github.com/m-r-j-o-h-n/swh-injector) An Injector that can inject dll into game process protected by anti cheat using SetWindowsHookEx.
-- [**27**星][6m] [HTML] [flyrabbit/winproject](https://github.com/flyrabbit/winproject) Hook, DLLInject, PE_Tool
-- [**27**星][3m] [C] [tinysec/runwithdll](https://github.com/tinysec/runwithdll) windows create process with a dll load first time via LdrHook
-- [**24**星][3m] [C] [david-reguera-garcia-dreg/phook](https://github.com/david-reguera-garcia-dreg/phook) Full DLL Hooking, phrack 65
-- [**24**星][5m] [C] [maikel233/x-hook-for-csgo](https://github.com/maikel233/x-hook-for-csgo) Aimtux for Windows.
-- [**22**星][1m] [Go] [castaneai/hinako](https://github.com/castaneai/hinako) x86 WinAPI hook written in pure Go
-- [**22**星][29d] [C++] [xbased/xhook](https://github.com/xbased/xhook) Hook Windows API. supports Win7/8/10 x86 and x64 platform.
-- [**21**星][2m] [C] [adrianyy/kernelhook](https://github.com/adrianyy/kernelhook) Windows inline hooking tool.
-- [**21**星][5m] [C] [xiaofen9/ssdthook](https://github.com/xiaofen9/ssdthook) An SSDT hook for Windows
-- [**19**星][5m] [Java] [col-e/simplified-jna](https://github.com/col-e/simplified-jna) Multi-threaded JNA hooks and simplified library access to window/key/mouse functions.
-- [**18**星][11m] [Assembly] [egebalci/hook_api](https://github.com/egebalci/hook_api) Assembly block for hooking windows API functions.
-- [**16**星][5m] [C] [sin5678/hidedir](https://github.com/sin5678/hidedir) 使用SSDT HOOK 在windows上隐藏指定文件或者文件夹
-- [**14**星][3m] [C++] [hmihaidavid/hooks](https://github.com/hmihaidavid/hooks) A DLL that performs IAT hooking
-- [**13**星][4y] [C++] [jonasblunck/dp](https://github.com/jonasblunck/dp) Win32 API and COM hooking/tracing.
-- [**13**星][7m] [C#] [kanegovaert/unknown-logger](https://github.com/kanegovaert/unknown-logger) An advanced Windows Keylogger with features like (Disable CMD, Screenshotter, Client Stub Builder, Low Level Keyhooks, Hide Application, Respawner, Delete Chrome and Firefox data, and more!)
-- [**12**星][8m] [C++] [sin5678/wow64hook](https://github.com/sin5678/wow64hook) wow64 syscall filter
-- [**11**星][6m] [Py] [debasishm89/qhook](https://github.com/debasishm89/qhook) qHooK is very simple python script (dependent on pydbg) which hooks user defined Win32 APIs in any process and monitor then while process is running and at last prepare a CSV report with various interesting information which can help reverse engineer to track down / analyse unknown exploit samples / shellcode.
-- [**11**星][1y] [C++] [therena/findthestupidwindow](https://github.com/therena/findthestupidwindow) Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
-- [**11**星][6y] [weixu8/registrymonitor](https://github.com/weixu8/registrymonitor) Formely KMon, a Windows Kernel Driver designed to prevent malware attacks by monitoring the creation of registry keys in common autorun locations and prompting the user whether they want to allow the creation of the key. More of an experiment into Kernel level SSDT hooks but a fun project nonetheless
-- [**10**星][7y] [Py] [nitram2342/spooky-hook](https://github.com/nitram2342/spooky-hook) WinAppDbg helper script to catch API calls
-- [**9**星][6m] [C++] [windy32/win32-console-hook-lib](https://github.com/windy32/win32-console-hook-lib) A light-weight console hook library for convenient console interactions
-- [**8**星][6m] [C++] [mgostih/snifferih](https://github.com/mgostih/snifferih) DLL Hooking Packet Sniffer
-- [**8**星][27d] [C++] [ivan-sincek/keylogger](https://github.com/ivan-sincek/keylogger) Windows OS keylogger with a hook mechanism (i.e. with a keyboard hook procedure).
-- [**7**星][2y] [Go] [nanitefactory/hookwin10calc](https://github.com/nanitefactory/hookwin10calc) Reverse engineered Windows 10 Calculator.exe (UWP application) hacker. 한글/漢文을 배운 윈도우 계산기 패치.
-- [**5**星][2y] [C++] [wanttobeno/window_keyandmousehook](https://github.com/wanttobeno/window_keyandmousehook) Window Key And Mouse Hook
-- [**4**星][10m] [C++] [aschrein/apiparse](https://github.com/aschrein/apiparse) Small project to learn windows dll hooking techniques based on sources of renderdoc and apitrace
-- [**4**星][2y] [C#] [trojaner/rocketplus](https://github.com/trojaner/rocketplus) Adding extra functionality to RocketMod API by using method hooking [Windows x64 only]. Also provides an API for .NET Method detouring
-- [**0**星][2y] [C] [vallejocc/poc-find-chrome-ktlsprotocolmethod](https://github.com/vallejocc/poc-find-chrome-ktlsprotocolmethod) Proof of Concept code to download chrome.dll symbols from chromium symbols store and find the bssl::kTLSProtocolMethod table of pointers (usually hooked by malware)
+- ![](https://img.shields.io/github/stars/boppreh/keyboard)![](https://img.shields.io/github/last-commit/boppreh/keyboard)![](https://img.shields.io/github/languages/top/boppreh/keyboard)[boppreh/keyboard](https://github.com/boppreh/keyboard) 在Windows和Linux上挂钩和模拟全局键盘事件
+- ![](https://img.shields.io/github/stars/ysc3839/fontmod)![](https://img.shields.io/github/last-commit/ysc3839/fontmod)![](https://img.shields.io/github/languages/top/ysc3839/fontmod)[ysc3839/fontmod](https://github.com/ysc3839/fontmod) 修改 Win32 程序字体的简单的 hook 工具。可用于一些基于 GDI 或者 Qt 的程序
+- ![](https://img.shields.io/github/stars/crosire/scripthookvdotnet)![](https://img.shields.io/github/last-commit/crosire/scripthookvdotnet)![](https://img.shields.io/github/languages/top/crosire/scripthookvdotnet)[crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
+- ![](https://img.shields.io/github/stars/gbps/gbhv)![](https://img.shields.io/github/last-commit/gbps/gbhv)![](https://img.shields.io/github/languages/top/gbps/gbhv)[gbps/gbhv](https://github.com/gbps/gbhv) Simple x86-64 VT-x Hypervisor with EPT Hooking
+- ![](https://img.shields.io/github/stars/justcoding121/windows-user-action-hook)![](https://img.shields.io/github/last-commit/justcoding121/windows-user-action-hook)![](https://img.shields.io/github/languages/top/justcoding121/windows-user-action-hook)[justcoding121/windows-user-action-hook](https://github.com/justcoding121/windows-user-action-hook) A .NET library to subscribe for Windows operating system global user actions such mouse, keyboard, clipboard & print events
+- ![](https://img.shields.io/github/stars/shmuelyr/captainhook)![](https://img.shields.io/github/last-commit/shmuelyr/captainhook)![](https://img.shields.io/github/languages/top/shmuelyr/captainhook)[shmuelyr/captainhook](https://github.com/shmuelyr/captainhook) CaptainHook is perfect x86/x64 hook environment
+- ![](https://img.shields.io/github/stars/tinysec/iathook)![](https://img.shields.io/github/last-commit/tinysec/iathook)![](https://img.shields.io/github/languages/top/tinysec/iathook)[tinysec/iathook](https://github.com/tinysec/iathook) windows内核模式和用户模式IAT hook
+- ![](https://img.shields.io/github/stars/stevemk14ebr/unihook)![](https://img.shields.io/github/last-commit/stevemk14ebr/unihook)![](https://img.shields.io/github/languages/top/stevemk14ebr/unihook)[stevemk14ebr/unihook](https://github.com/stevemk14ebr/unihook) Intercept arbitrary functions at run-time, without knowing their typedefs
+- ![](https://img.shields.io/github/stars/danielkrupinski/vac-hooks)![](https://img.shields.io/github/last-commit/danielkrupinski/vac-hooks)![](https://img.shields.io/github/languages/top/danielkrupinski/vac-hooks)[danielkrupinski/vac-hooks](https://github.com/danielkrupinski/vac-hooks) Hook WinAPI functions used by Valve Anti-Cheat. Log calls and intercept arguments & return values. DLL written in C.
+- ![](https://img.shields.io/github/stars/userr00t/universalunityhooks)![](https://img.shields.io/github/last-commit/userr00t/universalunityhooks)![](https://img.shields.io/github/languages/top/userr00t/universalunityhooks)[userr00t/universalunityhooks](https://github.com/userr00t/universalunityhooks) A framework designed to hook into and modify methods in unity games via dlls
+- ![](https://img.shields.io/github/stars/wopss/renhook)![](https://img.shields.io/github/last-commit/wopss/renhook)![](https://img.shields.io/github/languages/top/wopss/renhook)[wopss/renhook](https://github.com/wopss/renhook) An open-source x86 / x86-64 hooking library for Windows.
+- ![](https://img.shields.io/github/stars/verideth/dll_hook-rs)![](https://img.shields.io/github/last-commit/verideth/dll_hook-rs)![](https://img.shields.io/github/languages/top/verideth/dll_hook-rs)[verideth/dll_hook-rs](https://github.com/verideth/dll_hook-rs) Rust code to show how hooking in rust with a dll works.
+- ![](https://img.shields.io/github/stars/prekageo/winhook)![](https://img.shields.io/github/last-commit/prekageo/winhook)![](https://img.shields.io/github/languages/top/prekageo/winhook)[prekageo/winhook](https://github.com/prekageo/winhook) 
+- ![](https://img.shields.io/github/stars/rolfrolles/wbdeshook)![](https://img.shields.io/github/last-commit/rolfrolles/wbdeshook)![](https://img.shields.io/github/languages/top/rolfrolles/wbdeshook)[rolfrolles/wbdeshook](https://github.com/rolfrolles/wbdeshook) DLL-injection based solution to Brecht Wyseur's wbDES challenge (based on SysK's Phrack article)
+- ![](https://img.shields.io/github/stars/muffins/rookit_playground)![](https://img.shields.io/github/last-commit/muffins/rookit_playground)![](https://img.shields.io/github/languages/top/muffins/rookit_playground)[muffins/rookit_playground](https://github.com/muffins/rookit_playground) Educational repository for learning about rootkits and Windows Kernel Hooks.
+- ![](https://img.shields.io/github/stars/codereversing/wow64syscall)![](https://img.shields.io/github/last-commit/codereversing/wow64syscall)![](https://img.shields.io/github/languages/top/codereversing/wow64syscall)[codereversing/wow64syscall](https://github.com/codereversing/wow64syscall) WoW64 Syscall Hooking
+- ![](https://img.shields.io/github/stars/menooker/fishhook)![](https://img.shields.io/github/last-commit/menooker/fishhook)![](https://img.shields.io/github/languages/top/menooker/fishhook)[menooker/fishhook](https://github.com/menooker/fishhook) An inline hook platform for Windows x86/x64
+- ![](https://img.shields.io/github/stars/byzero512/winpwn)![](https://img.shields.io/github/last-commit/byzero512/winpwn)![](https://img.shields.io/github/languages/top/byzero512/winpwn)[byzero512/winpwn](https://github.com/byzero512/winpwn) for CTF windows pwn and IAT/EAT hook
+- ![](https://img.shields.io/github/stars/netdex/twinject)![](https://img.shields.io/github/last-commit/netdex/twinject)![](https://img.shields.io/github/languages/top/netdex/twinject)[netdex/twinject](https://github.com/netdex/twinject) Automated player and hooking framework for bullet hell games from the Touhou Project
+- ![](https://img.shields.io/github/stars/deroko/activationcontexthook)![](https://img.shields.io/github/last-commit/deroko/activationcontexthook)![](https://img.shields.io/github/languages/top/deroko/activationcontexthook)[deroko/activationcontexthook](https://github.com/deroko/activationcontexthook) Hook 进程，强制进程加载重定向的 DLL
+- ![](https://img.shields.io/github/stars/m-r-j-o-h-n/swh-injector)![](https://img.shields.io/github/last-commit/m-r-j-o-h-n/swh-injector)![](https://img.shields.io/github/languages/top/m-r-j-o-h-n/swh-injector)[m-r-j-o-h-n/swh-injector](https://github.com/m-r-j-o-h-n/swh-injector) An Injector that can inject dll into game process protected by anti cheat using SetWindowsHookEx.
+- ![](https://img.shields.io/github/stars/flyrabbit/winproject)![](https://img.shields.io/github/last-commit/flyrabbit/winproject)![](https://img.shields.io/github/languages/top/flyrabbit/winproject)[flyrabbit/winproject](https://github.com/flyrabbit/winproject) Hook, DLLInject, PE_Tool
+- ![](https://img.shields.io/github/stars/tinysec/runwithdll)![](https://img.shields.io/github/last-commit/tinysec/runwithdll)![](https://img.shields.io/github/languages/top/tinysec/runwithdll)[tinysec/runwithdll](https://github.com/tinysec/runwithdll) windows create process with a dll load first time via LdrHook
+- ![](https://img.shields.io/github/stars/david-reguera-garcia-dreg/phook)![](https://img.shields.io/github/last-commit/david-reguera-garcia-dreg/phook)![](https://img.shields.io/github/languages/top/david-reguera-garcia-dreg/phook)[david-reguera-garcia-dreg/phook](https://github.com/david-reguera-garcia-dreg/phook) Full DLL Hooking, phrack 65
+- ![](https://img.shields.io/github/stars/maikel233/x-hook-for-csgo)![](https://img.shields.io/github/last-commit/maikel233/x-hook-for-csgo)![](https://img.shields.io/github/languages/top/maikel233/x-hook-for-csgo)[maikel233/x-hook-for-csgo](https://github.com/maikel233/x-hook-for-csgo) Aimtux for Windows.
+- ![](https://img.shields.io/github/stars/castaneai/hinako)![](https://img.shields.io/github/last-commit/castaneai/hinako)![](https://img.shields.io/github/languages/top/castaneai/hinako)[castaneai/hinako](https://github.com/castaneai/hinako) x86 WinAPI hook written in pure Go
+- ![](https://img.shields.io/github/stars/xbased/xhook)![](https://img.shields.io/github/last-commit/xbased/xhook)![](https://img.shields.io/github/languages/top/xbased/xhook)[xbased/xhook](https://github.com/xbased/xhook) Hook Windows API. supports Win7/8/10 x86 and x64 platform.
+- ![](https://img.shields.io/github/stars/adrianyy/kernelhook)![](https://img.shields.io/github/last-commit/adrianyy/kernelhook)![](https://img.shields.io/github/languages/top/adrianyy/kernelhook)[adrianyy/kernelhook](https://github.com/adrianyy/kernelhook) Windows inline hooking tool.
+- ![](https://img.shields.io/github/stars/xiaofen9/ssdthook)![](https://img.shields.io/github/last-commit/xiaofen9/ssdthook)![](https://img.shields.io/github/languages/top/xiaofen9/ssdthook)[xiaofen9/ssdthook](https://github.com/xiaofen9/ssdthook) An SSDT hook for Windows
+- ![](https://img.shields.io/github/stars/col-e/simplified-jna)![](https://img.shields.io/github/last-commit/col-e/simplified-jna)![](https://img.shields.io/github/languages/top/col-e/simplified-jna)[col-e/simplified-jna](https://github.com/col-e/simplified-jna) Multi-threaded JNA hooks and simplified library access to window/key/mouse functions.
+- ![](https://img.shields.io/github/stars/egebalci/hook_api)![](https://img.shields.io/github/last-commit/egebalci/hook_api)![](https://img.shields.io/github/languages/top/egebalci/hook_api)[egebalci/hook_api](https://github.com/egebalci/hook_api) Assembly block for hooking windows API functions.
+- ![](https://img.shields.io/github/stars/sin5678/hidedir)![](https://img.shields.io/github/last-commit/sin5678/hidedir)![](https://img.shields.io/github/languages/top/sin5678/hidedir)[sin5678/hidedir](https://github.com/sin5678/hidedir) 使用SSDT HOOK 在windows上隐藏指定文件或者文件夹
+- ![](https://img.shields.io/github/stars/hmihaidavid/hooks)![](https://img.shields.io/github/last-commit/hmihaidavid/hooks)![](https://img.shields.io/github/languages/top/hmihaidavid/hooks)[hmihaidavid/hooks](https://github.com/hmihaidavid/hooks) A DLL that performs IAT hooking
+- ![](https://img.shields.io/github/stars/jonasblunck/dp)![](https://img.shields.io/github/last-commit/jonasblunck/dp)![](https://img.shields.io/github/languages/top/jonasblunck/dp)[jonasblunck/dp](https://github.com/jonasblunck/dp) Win32 API and COM hooking/tracing.
+- ![](https://img.shields.io/github/stars/kanegovaert/unknown-logger)![](https://img.shields.io/github/last-commit/kanegovaert/unknown-logger)![](https://img.shields.io/github/languages/top/kanegovaert/unknown-logger)[kanegovaert/unknown-logger](https://github.com/kanegovaert/unknown-logger) An advanced Windows Keylogger with features like (Disable CMD, Screenshotter, Client Stub Builder, Low Level Keyhooks, Hide Application, Respawner, Delete Chrome and Firefox data, and more!)
+- ![](https://img.shields.io/github/stars/sin5678/wow64hook)![](https://img.shields.io/github/last-commit/sin5678/wow64hook)![](https://img.shields.io/github/languages/top/sin5678/wow64hook)[sin5678/wow64hook](https://github.com/sin5678/wow64hook) wow64 syscall filter
+- ![](https://img.shields.io/github/stars/debasishm89/qhook)![](https://img.shields.io/github/last-commit/debasishm89/qhook)![](https://img.shields.io/github/languages/top/debasishm89/qhook)[debasishm89/qhook](https://github.com/debasishm89/qhook) qHooK is very simple python script (dependent on pydbg) which hooks user defined Win32 APIs in any process and monitor then while process is running and at last prepare a CSV report with various interesting information which can help reverse engineer to track down / analyse unknown exploit samples / shellcode.
+- ![](https://img.shields.io/github/stars/therena/findthestupidwindow)![](https://img.shields.io/github/last-commit/therena/findthestupidwindow)![](https://img.shields.io/github/languages/top/therena/findthestupidwindow)[therena/findthestupidwindow](https://github.com/therena/findthestupidwindow) Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
+- ![](https://img.shields.io/github/stars/weixu8/registrymonitor)![](https://img.shields.io/github/last-commit/weixu8/registrymonitor)![](https://img.shields.io/github/languages/top/weixu8/registrymonitor)[weixu8/registrymonitor](https://github.com/weixu8/registrymonitor) Formely KMon, a Windows Kernel Driver designed to prevent malware attacks by monitoring the creation of registry keys in common autorun locations and prompting the user whether they want to allow the creation of the key. More of an experiment into Kernel level SSDT hooks but a fun project nonetheless
+- ![](https://img.shields.io/github/stars/nitram2342/spooky-hook)![](https://img.shields.io/github/last-commit/nitram2342/spooky-hook)![](https://img.shields.io/github/languages/top/nitram2342/spooky-hook)[nitram2342/spooky-hook](https://github.com/nitram2342/spooky-hook) WinAppDbg helper script to catch API calls
+- ![](https://img.shields.io/github/stars/windy32/win32-console-hook-lib)![](https://img.shields.io/github/last-commit/windy32/win32-console-hook-lib)![](https://img.shields.io/github/languages/top/windy32/win32-console-hook-lib)[windy32/win32-console-hook-lib](https://github.com/windy32/win32-console-hook-lib) A light-weight console hook library for convenient console interactions
+- ![](https://img.shields.io/github/stars/mgostih/snifferih)![](https://img.shields.io/github/last-commit/mgostih/snifferih)![](https://img.shields.io/github/languages/top/mgostih/snifferih)[mgostih/snifferih](https://github.com/mgostih/snifferih) DLL Hooking Packet Sniffer
+- ![](https://img.shields.io/github/stars/ivan-sincek/keylogger)![](https://img.shields.io/github/last-commit/ivan-sincek/keylogger)![](https://img.shields.io/github/languages/top/ivan-sincek/keylogger)[ivan-sincek/keylogger](https://github.com/ivan-sincek/keylogger) Windows OS keylogger with a hook mechanism (i.e. with a keyboard hook procedure).
+- ![](https://img.shields.io/github/stars/nanitefactory/hookwin10calc)![](https://img.shields.io/github/last-commit/nanitefactory/hookwin10calc)![](https://img.shields.io/github/languages/top/nanitefactory/hookwin10calc)[nanitefactory/hookwin10calc](https://github.com/nanitefactory/hookwin10calc) Reverse engineered Windows 10 Calculator.exe (UWP application) hacker. 한글/漢文을 배운 윈도우 계산기 패치.
+- ![](https://img.shields.io/github/stars/wanttobeno/window_keyandmousehook)![](https://img.shields.io/github/last-commit/wanttobeno/window_keyandmousehook)![](https://img.shields.io/github/languages/top/wanttobeno/window_keyandmousehook)[wanttobeno/window_keyandmousehook](https://github.com/wanttobeno/window_keyandmousehook) Window Key And Mouse Hook
+- ![](https://img.shields.io/github/stars/aschrein/apiparse)![](https://img.shields.io/github/last-commit/aschrein/apiparse)![](https://img.shields.io/github/languages/top/aschrein/apiparse)[aschrein/apiparse](https://github.com/aschrein/apiparse) Small project to learn windows dll hooking techniques based on sources of renderdoc and apitrace
+- ![](https://img.shields.io/github/stars/trojaner/rocketplus)![](https://img.shields.io/github/last-commit/trojaner/rocketplus)![](https://img.shields.io/github/languages/top/trojaner/rocketplus)[trojaner/rocketplus](https://github.com/trojaner/rocketplus) Adding extra functionality to RocketMod API by using method hooking [Windows x64 only]. Also provides an API for .NET Method detouring
+- ![](https://img.shields.io/github/stars/vallejocc/poc-find-chrome-ktlsprotocolmethod)![](https://img.shields.io/github/last-commit/vallejocc/poc-find-chrome-ktlsprotocolmethod)![](https://img.shields.io/github/languages/top/vallejocc/poc-find-chrome-ktlsprotocolmethod)[vallejocc/poc-find-chrome-ktlsprotocolmethod](https://github.com/vallejocc/poc-find-chrome-ktlsprotocolmethod) Proof of Concept code to download chrome.dll symbols from chromium symbols store and find the bssl::kTLSProtocolMethod table of pointers (usually hooked by malware)
 
 
 ***
@@ -542,15 +542,15 @@
 ## <a id="eecd435d6139119987877979e29bdb2f"></a>工具
 
 
-- [**140**星][7m] [C] [davidbuchanan314/tardis](https://github.com/davidbuchanan314/tardis) Trace And Rewrite Delays In Syscalls: Hooking time-related Linux syscalls to warp a process's perspective of time, using ptrace.
-- [**134**星][1m] [C] [poliva/ldpreloadhook](https://github.com/poliva/ldpreloadhook) a quick open/close/ioctl/read/write/free function hooker
-- [**94**星][30d] [C] [milabs/khook](https://github.com/milabs/khook) Linux Kernel hooking engine (x86)
-- [**68**星][1m] [C] [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook) Using ftrace for function hooking in Linux kernel
-- [**45**星][2m] [C] [jmpews/evilelf](https://github.com/jmpews/evilelf) Malicious use of ELF such as .so inject, func hook and so on.
-- [**35**星][3y] [C] [jordan9001/superhide](https://github.com/jordan9001/superhide) Example of hooking a linux systemcall
-- [**8**星][2m] [C] [rafael-santiago/kook](https://github.com/rafael-santiago/kook) A syscall hooking system for FreeBSD, NetBSD and also Linux.
-- [**6**星][2y] [C] [sizet/lkm_parse_dns_packet](https://github.com/sizet/lkm_parse_dns_packet) linux 核心模組, 使用 netfilter IPv4 hook 監聽和分析 DNS 請求和回應封包.
-- [**5**星][3m] [C] [deb0ch/toorkit](https://github.com/deb0ch/toorkit) A simple useless rootkit for the linux kernel. It is a kernel module which hooks up the open() syscall (or potentially any syscall) to replace it with a custom function.
+- ![](https://img.shields.io/github/stars/davidbuchanan314/tardis)![](https://img.shields.io/github/last-commit/davidbuchanan314/tardis)![](https://img.shields.io/github/languages/top/davidbuchanan314/tardis)[davidbuchanan314/tardis](https://github.com/davidbuchanan314/tardis) Trace And Rewrite Delays In Syscalls: Hooking time-related Linux syscalls to warp a process's perspective of time, using ptrace.
+- ![](https://img.shields.io/github/stars/poliva/ldpreloadhook)![](https://img.shields.io/github/last-commit/poliva/ldpreloadhook)![](https://img.shields.io/github/languages/top/poliva/ldpreloadhook)[poliva/ldpreloadhook](https://github.com/poliva/ldpreloadhook) a quick open/close/ioctl/read/write/free function hooker
+- ![](https://img.shields.io/github/stars/milabs/khook)![](https://img.shields.io/github/last-commit/milabs/khook)![](https://img.shields.io/github/languages/top/milabs/khook)[milabs/khook](https://github.com/milabs/khook) Linux Kernel hooking engine (x86)
+- ![](https://img.shields.io/github/stars/ilammy/ftrace-hook)![](https://img.shields.io/github/last-commit/ilammy/ftrace-hook)![](https://img.shields.io/github/languages/top/ilammy/ftrace-hook)[ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook) Using ftrace for function hooking in Linux kernel
+- ![](https://img.shields.io/github/stars/jmpews/evilelf)![](https://img.shields.io/github/last-commit/jmpews/evilelf)![](https://img.shields.io/github/languages/top/jmpews/evilelf)[jmpews/evilelf](https://github.com/jmpews/evilelf) Malicious use of ELF such as .so inject, func hook and so on.
+- ![](https://img.shields.io/github/stars/jordan9001/superhide)![](https://img.shields.io/github/last-commit/jordan9001/superhide)![](https://img.shields.io/github/languages/top/jordan9001/superhide)[jordan9001/superhide](https://github.com/jordan9001/superhide) Example of hooking a linux systemcall
+- ![](https://img.shields.io/github/stars/rafael-santiago/kook)![](https://img.shields.io/github/last-commit/rafael-santiago/kook)![](https://img.shields.io/github/languages/top/rafael-santiago/kook)[rafael-santiago/kook](https://github.com/rafael-santiago/kook) A syscall hooking system for FreeBSD, NetBSD and also Linux.
+- ![](https://img.shields.io/github/stars/sizet/lkm_parse_dns_packet)![](https://img.shields.io/github/last-commit/sizet/lkm_parse_dns_packet)![](https://img.shields.io/github/languages/top/sizet/lkm_parse_dns_packet)[sizet/lkm_parse_dns_packet](https://github.com/sizet/lkm_parse_dns_packet) linux 核心模組, 使用 netfilter IPv4 hook 監聽和分析 DNS 請求和回應封包.
+- ![](https://img.shields.io/github/stars/deb0ch/toorkit)![](https://img.shields.io/github/last-commit/deb0ch/toorkit)![](https://img.shields.io/github/languages/top/deb0ch/toorkit)[deb0ch/toorkit](https://github.com/deb0ch/toorkit) A simple useless rootkit for the linux kernel. It is a kernel module which hooks up the open() syscall (or potentially any syscall) to replace it with a custom function.
 
 
 ***
@@ -592,7 +592,7 @@
 ### <a id="dff0566feeb6e321cd31dacf9478d6a4"></a>工具
 
 
-- [**538**星][2y] [Objective-C++] [davidgoldman/inspectivec](https://github.com/davidgoldman/inspectivec) objc_msgSend hook for debugging/inspection purposes.
+- ![](https://img.shields.io/github/stars/davidgoldman/inspectivec)![](https://img.shields.io/github/last-commit/davidgoldman/inspectivec)![](https://img.shields.io/github/languages/top/davidgoldman/inspectivec)[davidgoldman/inspectivec](https://github.com/davidgoldman/inspectivec) objc_msgSend hook for debugging/inspection purposes.
 
 
 
@@ -606,7 +606,7 @@
 ### <a id="04bfe6387f61b8e07170308f8e20c115"></a>工具
 
 
-- [**577**星][1y] [ObjC] [rpetrich/captainhook](https://github.com/rpetrich/captainhook) Common hooking/monkey patching headers for Objective-C on Mac OS X and iPhone OS. MIT licensed
+- ![](https://img.shields.io/github/stars/rpetrich/captainhook)![](https://img.shields.io/github/last-commit/rpetrich/captainhook)![](https://img.shields.io/github/languages/top/rpetrich/captainhook)[rpetrich/captainhook](https://github.com/rpetrich/captainhook) Common hooking/monkey patching headers for Objective-C on Mac OS X and iPhone OS. MIT licensed
 
 
 
@@ -620,7 +620,7 @@
 ### <a id="8cd390f72bbe10e26acde30ec42a6ddc"></a>工具
 
 
-- [**581**星][5m] [C] [yulingtianxia/blockhook](https://github.com/yulingtianxia/blockhook) Hook Objective-C blocks. A powerful AOP tool.
+- ![](https://img.shields.io/github/stars/yulingtianxia/blockhook)![](https://img.shields.io/github/last-commit/yulingtianxia/blockhook)![](https://img.shields.io/github/languages/top/yulingtianxia/blockhook)[yulingtianxia/blockhook](https://github.com/yulingtianxia/blockhook) Hook Objective-C blocks. A powerful AOP tool.
 
 
 
@@ -631,14 +631,14 @@
 ## <a id="676bba5c840ee8156270bfcfc7d3b8d7"></a>工具
 
 
-- [**2032**星][3y] [Swift] [urinx/iosapphook](https://github.com/urinx/iosapphook) 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
-- [**1122**星][2y] [ObjC] [yulingtianxia/fishchat](https://github.com/yulingtianxia/fishchat) Hook WeChat.app on non-jailbroken devices.
-- [**129**星][6m] [C] [rodionovd/rd_route](https://github.com/rodionovd/rd_route) Function hooking for macOS
-- [**123**星][4m] [ObjC] [smilezxlee/zxhookdetection](https://github.com/smilezxlee/zxhookdetection) 【iOS应用安全】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议示例)
-- [**68**星][3y] [ObjC] [alayshchen/xcodeappplugintemplate](https://github.com/alayshchen/xcodeappplugintemplate) App Plugin Project Template For iOS App And Mac App. Make it easy to hook app.
-- [**66**星][5m] [ObjC] [yulingtianxia/blocktracker](https://github.com/yulingtianxia/blocktracker) Tracking block args of Objective-C method based on BlockHook
-- [**54**星][1m] [Perl] [theos/logos](https://github.com/theos/logos) Preprocessor that simplifies Objective-C hooking.
-- [**53**星][4m] [ObjC] [smilezxlee/zxhookutil](https://github.com/smilezxlee/zxhookutil) 【iOS逆向】Tweak工具函数集，基于theos、monkeyDev
+- ![](https://img.shields.io/github/stars/urinx/iosapphook)![](https://img.shields.io/github/last-commit/urinx/iosapphook)![](https://img.shields.io/github/languages/top/urinx/iosapphook)[urinx/iosapphook](https://github.com/urinx/iosapphook) 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
+- ![](https://img.shields.io/github/stars/yulingtianxia/fishchat)![](https://img.shields.io/github/last-commit/yulingtianxia/fishchat)![](https://img.shields.io/github/languages/top/yulingtianxia/fishchat)[yulingtianxia/fishchat](https://github.com/yulingtianxia/fishchat) Hook WeChat.app on non-jailbroken devices.
+- ![](https://img.shields.io/github/stars/rodionovd/rd_route)![](https://img.shields.io/github/last-commit/rodionovd/rd_route)![](https://img.shields.io/github/languages/top/rodionovd/rd_route)[rodionovd/rd_route](https://github.com/rodionovd/rd_route) Function hooking for macOS
+- ![](https://img.shields.io/github/stars/smilezxlee/zxhookdetection)![](https://img.shields.io/github/last-commit/smilezxlee/zxhookdetection)![](https://img.shields.io/github/languages/top/smilezxlee/zxhookdetection)[smilezxlee/zxhookdetection](https://github.com/smilezxlee/zxhookdetection) 【iOS应用安全】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议示例)
+- ![](https://img.shields.io/github/stars/alayshchen/xcodeappplugintemplate)![](https://img.shields.io/github/last-commit/alayshchen/xcodeappplugintemplate)![](https://img.shields.io/github/languages/top/alayshchen/xcodeappplugintemplate)[alayshchen/xcodeappplugintemplate](https://github.com/alayshchen/xcodeappplugintemplate) App Plugin Project Template For iOS App And Mac App. Make it easy to hook app.
+- ![](https://img.shields.io/github/stars/yulingtianxia/blocktracker)![](https://img.shields.io/github/last-commit/yulingtianxia/blocktracker)![](https://img.shields.io/github/languages/top/yulingtianxia/blocktracker)[yulingtianxia/blocktracker](https://github.com/yulingtianxia/blocktracker) Tracking block args of Objective-C method based on BlockHook
+- ![](https://img.shields.io/github/stars/theos/logos)![](https://img.shields.io/github/last-commit/theos/logos)![](https://img.shields.io/github/languages/top/theos/logos)[theos/logos](https://github.com/theos/logos) Preprocessor that simplifies Objective-C hooking.
+- ![](https://img.shields.io/github/stars/smilezxlee/zxhookutil)![](https://img.shields.io/github/last-commit/smilezxlee/zxhookutil)![](https://img.shields.io/github/languages/top/smilezxlee/zxhookutil)[smilezxlee/zxhookutil](https://github.com/smilezxlee/zxhookutil) 【iOS逆向】Tweak工具函数集，基于theos、monkeyDev
 
 
 ***
@@ -670,7 +670,7 @@
 ##### <a id="ec2ec694a999a8a6adaf029a8214482b"></a>工具
 
 
-- [**332**星][4m] [Java] [mar-v-in/arthook](https://github.com/mar-v-in/arthook) Library for hooking on ART
+- ![](https://img.shields.io/github/stars/mar-v-in/arthook)![](https://img.shields.io/github/last-commit/mar-v-in/arthook)![](https://img.shields.io/github/languages/top/mar-v-in/arthook)[mar-v-in/arthook](https://github.com/mar-v-in/arthook) Library for hooking on ART
 
 
 ##### <a id="8b82f2cb117fe12ab5b8549cda424ead"></a>文章
@@ -687,8 +687,8 @@
 ##### <a id="53605f8fe273227cfce6efb53f03ca5e"></a>工具
 
 
-- [**376**星][4m] [C] [turing-technician/fasthook](https://github.com/turing-technician/fasthook) Android ART Hook
-- [**129**星][4m] [Java] [turing-technician/virtualfasthook](https://github.com/turing-technician/virtualfasthook) Android application hooking tool based on FastHook + VirtualApp
+- ![](https://img.shields.io/github/stars/turing-technician/fasthook)![](https://img.shields.io/github/last-commit/turing-technician/fasthook)![](https://img.shields.io/github/languages/top/turing-technician/fasthook)[turing-technician/fasthook](https://github.com/turing-technician/fasthook) Android ART Hook
+- ![](https://img.shields.io/github/stars/turing-technician/virtualfasthook)![](https://img.shields.io/github/last-commit/turing-technician/virtualfasthook)![](https://img.shields.io/github/languages/top/turing-technician/virtualfasthook)[turing-technician/virtualfasthook](https://github.com/turing-technician/virtualfasthook) Android application hooking tool based on FastHook + VirtualApp
 
 
 
@@ -699,7 +699,7 @@
 ##### <a id="b59634d15e0ff36530f26ea15ea14140"></a>工具
 
 
-- [**2236**星][4m] [Java] [elderdrivers/edxposed](https://github.com/elderdrivers/edxposed) Riru模块，试图提供一个ART挂钩框架(最初用于Android Pie)，它提供与OG xpose一致的api，利用YAHFA(或SandHook)挂钩框架，支持Android 8.0 ~ 10。
+- ![](https://img.shields.io/github/stars/elderdrivers/edxposed)![](https://img.shields.io/github/last-commit/elderdrivers/edxposed)![](https://img.shields.io/github/languages/top/elderdrivers/edxposed)[elderdrivers/edxposed](https://github.com/elderdrivers/edxposed) Riru模块，试图提供一个ART挂钩框架(最初用于Android Pie)，它提供与OG xpose一致的api，利用YAHFA(或SandHook)挂钩框架，支持Android 8.0 ~ 10。
 
 
 
@@ -710,8 +710,8 @@
 ##### <a id="617d992e3d5935e3f073489a6865f5bd"></a>工具
 
 
-- [**764**星][25d] [Java] [pagalaxylab/yahfa](https://github.com/PAGalaxyLab/YAHFA) Yet Another Hook Framework for ART
-- [**128**星][2y] [Java] [bmax121/budhook](https://github.com/bmax121/budhook) An Android hook framework written like Xposed,based on YAHFA.
+- ![](https://img.shields.io/github/stars/pagalaxylab/yahfa)![](https://img.shields.io/github/last-commit/pagalaxylab/yahfa)![](https://img.shields.io/github/languages/top/pagalaxylab/yahfa)[pagalaxylab/yahfa](https://github.com/PAGalaxyLab/YAHFA) Yet Another Hook Framework for ART
+- ![](https://img.shields.io/github/stars/bmax121/budhook)![](https://img.shields.io/github/last-commit/bmax121/budhook)![](https://img.shields.io/github/languages/top/bmax121/budhook)[bmax121/budhook](https://github.com/bmax121/budhook) An Android hook framework written like Xposed,based on YAHFA.
 
 
 ##### <a id="ff04a5c958e269af7eda93865680b8bf"></a>文章
@@ -733,7 +733,7 @@
 ##### <a id="9cc593bb0fe4379f156c960ed57ddefc"></a>工具
 
 
-- [**372**星][29d] [Py] [androidhooker/hooker](https://github.com/androidhooker/hooker) Android应用程序动态分析。自动拦截和修改目标应用程序发出的任何API调用（利用Substrate ）
+- ![](https://img.shields.io/github/stars/androidhooker/hooker)![](https://img.shields.io/github/last-commit/androidhooker/hooker)![](https://img.shields.io/github/languages/top/androidhooker/hooker)[androidhooker/hooker](https://github.com/androidhooker/hooker) Android应用程序动态分析。自动拦截和修改目标应用程序发出的任何API调用（利用Substrate ）
 
 
 
@@ -751,8 +751,8 @@
 ### <a id="dc029a697388c8dd11166dc05b480af9"></a>工具
 
 
-- [**571**星][25d] [Java] [pagalaxylab/virtualhook](https://github.com/PAGalaxyLab/VirtualHook) 基于VirtualApp的Android应用Hook工具
-- [**58**星][8m] [Java] [nightoftwelve/virtualhookex](https://github.com/nightoftwelve/virtualhookex) Android application hooking tool based on VirtualHook/VirtualApp
+- ![](https://img.shields.io/github/stars/pagalaxylab/virtualhook)![](https://img.shields.io/github/last-commit/pagalaxylab/virtualhook)![](https://img.shields.io/github/languages/top/pagalaxylab/virtualhook)[pagalaxylab/virtualhook](https://github.com/PAGalaxyLab/VirtualHook) 基于VirtualApp的Android应用Hook工具
+- ![](https://img.shields.io/github/stars/nightoftwelve/virtualhookex)![](https://img.shields.io/github/last-commit/nightoftwelve/virtualhookex)![](https://img.shields.io/github/languages/top/nightoftwelve/virtualhookex)[nightoftwelve/virtualhookex](https://github.com/nightoftwelve/virtualhookex) Android application hooking tool based on VirtualHook/VirtualApp
 
 
 ### <a id="e1069bd619235ef63f0368c80dafe8a2"></a>文章
@@ -772,7 +772,7 @@
 ### <a id="dd815766c5929bf9c831a10b0536b71e"></a>工具
 
 
-- [**708**星][4m] [Java] [ganyao114/sandhook](https://github.com/ganyao114/sandhook) Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 10.0 32/64 bit - Xposed API Compat
+- ![](https://img.shields.io/github/stars/ganyao114/sandhook)![](https://img.shields.io/github/last-commit/ganyao114/sandhook)![](https://img.shields.io/github/languages/top/ganyao114/sandhook)[ganyao114/sandhook](https://github.com/ganyao114/sandhook) Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 10.0 32/64 bit - Xposed API Compat
 
 
 
@@ -786,7 +786,7 @@
 ### <a id="34f6f6cbec589ef696d862b8dd0b65f2"></a>工具
 
 
-- [**1463**星][1m] [Java] [aslody/legend](https://github.com/aslody/legend) (Android)无需Root即可Hook Java方法的框架, 支持Dalvik和Art环境
+- ![](https://img.shields.io/github/stars/aslody/legend)![](https://img.shields.io/github/last-commit/aslody/legend)![](https://img.shields.io/github/languages/top/aslody/legend)[aslody/legend](https://github.com/aslody/legend) (Android)无需Root即可Hook Java方法的框架, 支持Dalvik和Art环境
 
 
 
@@ -800,7 +800,7 @@
 ### <a id="4b802273fcf67d94de34201135d7cf89"></a>工具
 
 
-- [**1741**星][25d] [C] [iqiyi/xhook](https://github.com/iqiyi/xhook) a PLT (Procedure Linkage Table) hook library for Android native ELF 
+- ![](https://img.shields.io/github/stars/iqiyi/xhook)![](https://img.shields.io/github/last-commit/iqiyi/xhook)![](https://img.shields.io/github/languages/top/iqiyi/xhook)[iqiyi/xhook](https://github.com/iqiyi/xhook) a PLT (Procedure Linkage Table) hook library for Android native ELF 
 
 
 
@@ -814,7 +814,7 @@
 ### <a id="a1419c0af296c66e60c2a5dff3d7beca"></a>工具
 
 
-- [**429**星][4y] [Makefile] [mindmac/androideagleeye](https://github.com/mindmac/androideagleeye) 一个基于xposed和adbi的模块，能够Hook Android操作系统的Java和原生方法
+- ![](https://img.shields.io/github/stars/mindmac/androideagleeye)![](https://img.shields.io/github/last-commit/mindmac/androideagleeye)![](https://img.shields.io/github/languages/top/mindmac/androideagleeye)[mindmac/androideagleeye](https://github.com/mindmac/androideagleeye) 一个基于xposed和adbi的模块，能够Hook Android操作系统的Java和原生方法
 
 
 
@@ -825,41 +825,41 @@
 ## <a id="b7f01a8ca7061e6830e56a6e7edd30c3"></a>工具
 
 
-- [**1990**星][27d] [Java] [tiann/epic](https://github.com/tiann/epic) 动态java方法AOP钩子用于Android(Dexposed on ART的延续)，支持4.0~10.0
-- [**1763**星][2y] [Java] [ac-pm/inspeckage](https://github.com/ac-pm/inspeckage) 使用api钩子进行动态分析，启动未导出的活动等等。(Xposed模块)
-- [**789**星][2y] [C] [ele7enxxh/android-inline-hook](https://github.com/ele7enxxh/android-inline-hook) thumb16 thumb32 arm32 inlineHook in Android
-- [**575**星][27d] [Java] [aslody/andhook](https://github.com/asLody/AndHook) Android dynamic instrumentation framework
-- [**541**星][4m] [Java] [windysha/xpatch](https://github.com/windysha/xpatch) 个重新打包apk文件的工具，然后apk可以加载安装在设备中的任何xposed模块
-- [**448**星][5y] [C++] [boyliang/allhookinone](https://github.com/boyliang/allhookinone)  all method hook approachs for android such as dalvik hook, art hook, elf hook and inline hook
-- [**401**星][5m] [Java] [pqpo/inputmethodholder](https://github.com/pqpo/inputmethodholder) 通过hook（InputMethodManager）监听系统键盘显示（Android）
-- [**291**星][1m] [Py] [antojoseph/frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) Lets you hook Method Calls in Frida ( Android )
-- [**220**星][2y] [C] [gtoad/android_inline_hook](https://github.com/gtoad/android_inline_hook) 构建一个so文件来自动执行android_native_hook工作
-- [**216**星][3y] [Java] [zhengmin1989/wechatsportcheat](https://github.com/zhengmin1989/wechatsportcheat) 手把手教你当微信运动第一名 – 利用Android Hook进行微信运动作弊
-- [**195**星][6m] [Java] [panhongwei/androidmethodhook](https://github.com/panhongwei/androidmethodhook) android art hook like Sophix
-- [**190**星][5m] [C++] [aslody/elfhook](https://github.com/aslody/elfhook) modify PLT to hook api, supported android 5\6.
-- [**179**星][1m] [Java] [546669204/wechatbot-xposed](https://github.com/546669204/wechatbot-xposed) A WeChat robot unit ,based on the android xposed framework hook to implement WeChat app robot functions
-- [**148**星][5m] [Java] [zhouat/inject-hook](https://github.com/zhouat/inject-hook) for android
-- [**120**星][4m] [C++] [melonwxd/elfhooker](https://github.com/melonwxd/elfhooker) 兼容Android 32位和64位。基于EFL文件格式Hook的demo，hook了SurfaceFlinger进程的eglSwapBuffers函数，替换为new_eglSwapBuffers
-- [**104**星][5y] [Java] [rednaga/dexhook](https://github.com/rednaga/dexhook) DexHook is a xposed module for capturing dynamically loaded dex files.
-- [**99**星][2y] [Java] [piasy/fridaandroidtracer](https://github.com/piasy/fridaandroidtracer) A runnable jar that generate Javascript hook script to hook Android classes.
-- [**99**星][4m] [C++] [woxihuannisja/stormhook](https://github.com/woxihuannisja/stormhook) StormHook is a Android Hook Framework for Dalvik and Art
-- [**63**星][28d] [JS] [northwavenl/fridax](https://github.com/northwavenl/fridax) Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
-- [**56**星][1m] [Rust] [nccgroup/assethook](https://github.com/nccgroup/assethook) LD_PRELOAD magic for Android's AssetManager
-- [**51**星][2m] [Py] [hrkfdn/deckard](https://github.com/hrkfdn/deckard) Deckard performs static and dynamic binary analysis on Android APKs to extract Xposed hooks
-- [**51**星][5y] [C++] [ikoz/androidsubstrate_hookingc_examples](https://github.com/ikoz/androidsubstrate_hookingc_examples) AndroidSubstrate_hookingC_examples
-- [**48**星][5m] [C] [shunix/androidgothook](https://github.com/shunix/androidgothook) GOT Hook implemented in Android
-- [**42**星][29d] [C++] [chickenhook/chickenhook](https://github.com/chickenhook/chickenhook) A linux / android / MacOS hooking framework
-- [**34**星][2m] [TS] [igio90/frida-onload](https://github.com/igio90/frida-onload) Frida module to hook module initializations on android
-- [**25**星][3m] [C++] [dodola/dinlinehook](https://github.com/dodola/dinlinehook) simple art inline hook
-- [**23**星][6m] [C++] [legendl3n/smarthooker](https://github.com/legendl3n/smarthooker) The smartest hooking library.
-- [**17**星][29d] [Py] [margular/frida-skeleton](https://github.com/margular/frida-skeleton) 本项目旨在帮助安卓测试工程师更方便地hook apk，并且自带证书绑定绕过功能
-- [**17**星][25d] [C++] [vito11/camerahook](https://github.com/vito11/camerahook) An prototype to hook android camera preview data of third-party and system apps
-- [**15**星][2m] [Java] [pnfsoftware/jeb2-andhook](https://github.com/pnfsoftware/jeb2-andhook) 
-- [**2**星][4y] [Java] [nodoraiz/latchhooks](https://github.com/nodoraiz/latchhooks) Hack for Android app hooking using latch
-- [**0**星][4y] [serval-snt-uni-lu/hookranker](https://github.com/serval-snt-uni-lu/hookranker) Automatically Locating Malicious Payload in Piggybacked Android Apps (A Hook Ranking Approach)
-- [**None**星][C] [gtoad/android_inline_hook_arm64](https://github.com/gtoad/android_inline_hook_arm64) Build an .so file to automatically do the android_native_hook work. Supports ARM64 ! With this, tools like Xposed can do android native hook.
-- [**None**星][C++] [rprop/and64inlinehook](https://github.com/rprop/and64inlinehook) Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
-- [**None**星][Py] [fanxs-t/android-ssl_read-write-hook](https://github.com/fanxs-t/android-ssl_read-write-hook) Hook SSL_read and SSL_write functions in the Android application with Frida.
+- ![](https://img.shields.io/github/stars/tiann/epic)![](https://img.shields.io/github/last-commit/tiann/epic)![](https://img.shields.io/github/languages/top/tiann/epic)[tiann/epic](https://github.com/tiann/epic) 动态java方法AOP钩子用于Android(Dexposed on ART的延续)，支持4.0~10.0
+- ![](https://img.shields.io/github/stars/ac-pm/inspeckage)![](https://img.shields.io/github/last-commit/ac-pm/inspeckage)![](https://img.shields.io/github/languages/top/ac-pm/inspeckage)[ac-pm/inspeckage](https://github.com/ac-pm/inspeckage) 使用api钩子进行动态分析，启动未导出的活动等等。(Xposed模块)
+- ![](https://img.shields.io/github/stars/ele7enxxh/android-inline-hook)![](https://img.shields.io/github/last-commit/ele7enxxh/android-inline-hook)![](https://img.shields.io/github/languages/top/ele7enxxh/android-inline-hook)[ele7enxxh/android-inline-hook](https://github.com/ele7enxxh/android-inline-hook) thumb16 thumb32 arm32 inlineHook in Android
+- ![](https://img.shields.io/github/stars/aslody/andhook)![](https://img.shields.io/github/last-commit/aslody/andhook)![](https://img.shields.io/github/languages/top/aslody/andhook)[aslody/andhook](https://github.com/asLody/AndHook) Android dynamic instrumentation framework
+- ![](https://img.shields.io/github/stars/windysha/xpatch)![](https://img.shields.io/github/last-commit/windysha/xpatch)![](https://img.shields.io/github/languages/top/windysha/xpatch)[windysha/xpatch](https://github.com/windysha/xpatch) 个重新打包apk文件的工具，然后apk可以加载安装在设备中的任何xposed模块
+- ![](https://img.shields.io/github/stars/boyliang/allhookinone)![](https://img.shields.io/github/last-commit/boyliang/allhookinone)![](https://img.shields.io/github/languages/top/boyliang/allhookinone)[boyliang/allhookinone](https://github.com/boyliang/allhookinone)  all method hook approachs for android such as dalvik hook, art hook, elf hook and inline hook
+- ![](https://img.shields.io/github/stars/pqpo/inputmethodholder)![](https://img.shields.io/github/last-commit/pqpo/inputmethodholder)![](https://img.shields.io/github/languages/top/pqpo/inputmethodholder)[pqpo/inputmethodholder](https://github.com/pqpo/inputmethodholder) 通过hook（InputMethodManager）监听系统键盘显示（Android）
+- ![](https://img.shields.io/github/stars/antojoseph/frida-android-hooks)![](https://img.shields.io/github/last-commit/antojoseph/frida-android-hooks)![](https://img.shields.io/github/languages/top/antojoseph/frida-android-hooks)[antojoseph/frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) Lets you hook Method Calls in Frida ( Android )
+- ![](https://img.shields.io/github/stars/gtoad/android_inline_hook)![](https://img.shields.io/github/last-commit/gtoad/android_inline_hook)![](https://img.shields.io/github/languages/top/gtoad/android_inline_hook)[gtoad/android_inline_hook](https://github.com/gtoad/android_inline_hook) 构建一个so文件来自动执行android_native_hook工作
+- ![](https://img.shields.io/github/stars/zhengmin1989/wechatsportcheat)![](https://img.shields.io/github/last-commit/zhengmin1989/wechatsportcheat)![](https://img.shields.io/github/languages/top/zhengmin1989/wechatsportcheat)[zhengmin1989/wechatsportcheat](https://github.com/zhengmin1989/wechatsportcheat) 手把手教你当微信运动第一名 – 利用Android Hook进行微信运动作弊
+- ![](https://img.shields.io/github/stars/panhongwei/androidmethodhook)![](https://img.shields.io/github/last-commit/panhongwei/androidmethodhook)![](https://img.shields.io/github/languages/top/panhongwei/androidmethodhook)[panhongwei/androidmethodhook](https://github.com/panhongwei/androidmethodhook) android art hook like Sophix
+- ![](https://img.shields.io/github/stars/aslody/elfhook)![](https://img.shields.io/github/last-commit/aslody/elfhook)![](https://img.shields.io/github/languages/top/aslody/elfhook)[aslody/elfhook](https://github.com/aslody/elfhook) modify PLT to hook api, supported android 5\6.
+- ![](https://img.shields.io/github/stars/546669204/wechatbot-xposed)![](https://img.shields.io/github/last-commit/546669204/wechatbot-xposed)![](https://img.shields.io/github/languages/top/546669204/wechatbot-xposed)[546669204/wechatbot-xposed](https://github.com/546669204/wechatbot-xposed) A WeChat robot unit ,based on the android xposed framework hook to implement WeChat app robot functions
+- ![](https://img.shields.io/github/stars/zhouat/inject-hook)![](https://img.shields.io/github/last-commit/zhouat/inject-hook)![](https://img.shields.io/github/languages/top/zhouat/inject-hook)[zhouat/inject-hook](https://github.com/zhouat/inject-hook) for android
+- ![](https://img.shields.io/github/stars/melonwxd/elfhooker)![](https://img.shields.io/github/last-commit/melonwxd/elfhooker)![](https://img.shields.io/github/languages/top/melonwxd/elfhooker)[melonwxd/elfhooker](https://github.com/melonwxd/elfhooker) 兼容Android 32位和64位。基于EFL文件格式Hook的demo，hook了SurfaceFlinger进程的eglSwapBuffers函数，替换为new_eglSwapBuffers
+- ![](https://img.shields.io/github/stars/rednaga/dexhook)![](https://img.shields.io/github/last-commit/rednaga/dexhook)![](https://img.shields.io/github/languages/top/rednaga/dexhook)[rednaga/dexhook](https://github.com/rednaga/dexhook) DexHook is a xposed module for capturing dynamically loaded dex files.
+- ![](https://img.shields.io/github/stars/piasy/fridaandroidtracer)![](https://img.shields.io/github/last-commit/piasy/fridaandroidtracer)![](https://img.shields.io/github/languages/top/piasy/fridaandroidtracer)[piasy/fridaandroidtracer](https://github.com/piasy/fridaandroidtracer) A runnable jar that generate Javascript hook script to hook Android classes.
+- ![](https://img.shields.io/github/stars/woxihuannisja/stormhook)![](https://img.shields.io/github/last-commit/woxihuannisja/stormhook)![](https://img.shields.io/github/languages/top/woxihuannisja/stormhook)[woxihuannisja/stormhook](https://github.com/woxihuannisja/stormhook) StormHook is a Android Hook Framework for Dalvik and Art
+- ![](https://img.shields.io/github/stars/northwavenl/fridax)![](https://img.shields.io/github/last-commit/northwavenl/fridax)![](https://img.shields.io/github/languages/top/northwavenl/fridax)[northwavenl/fridax](https://github.com/northwavenl/fridax) Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+- ![](https://img.shields.io/github/stars/nccgroup/assethook)![](https://img.shields.io/github/last-commit/nccgroup/assethook)![](https://img.shields.io/github/languages/top/nccgroup/assethook)[nccgroup/assethook](https://github.com/nccgroup/assethook) LD_PRELOAD magic for Android's AssetManager
+- ![](https://img.shields.io/github/stars/hrkfdn/deckard)![](https://img.shields.io/github/last-commit/hrkfdn/deckard)![](https://img.shields.io/github/languages/top/hrkfdn/deckard)[hrkfdn/deckard](https://github.com/hrkfdn/deckard) Deckard performs static and dynamic binary analysis on Android APKs to extract Xposed hooks
+- ![](https://img.shields.io/github/stars/ikoz/androidsubstrate_hookingc_examples)![](https://img.shields.io/github/last-commit/ikoz/androidsubstrate_hookingc_examples)![](https://img.shields.io/github/languages/top/ikoz/androidsubstrate_hookingc_examples)[ikoz/androidsubstrate_hookingc_examples](https://github.com/ikoz/androidsubstrate_hookingc_examples) AndroidSubstrate_hookingC_examples
+- ![](https://img.shields.io/github/stars/shunix/androidgothook)![](https://img.shields.io/github/last-commit/shunix/androidgothook)![](https://img.shields.io/github/languages/top/shunix/androidgothook)[shunix/androidgothook](https://github.com/shunix/androidgothook) GOT Hook implemented in Android
+- ![](https://img.shields.io/github/stars/chickenhook/chickenhook)![](https://img.shields.io/github/last-commit/chickenhook/chickenhook)![](https://img.shields.io/github/languages/top/chickenhook/chickenhook)[chickenhook/chickenhook](https://github.com/chickenhook/chickenhook) A linux / android / MacOS hooking framework
+- ![](https://img.shields.io/github/stars/igio90/frida-onload)![](https://img.shields.io/github/last-commit/igio90/frida-onload)![](https://img.shields.io/github/languages/top/igio90/frida-onload)[igio90/frida-onload](https://github.com/igio90/frida-onload) Frida module to hook module initializations on android
+- ![](https://img.shields.io/github/stars/dodola/dinlinehook)![](https://img.shields.io/github/last-commit/dodola/dinlinehook)![](https://img.shields.io/github/languages/top/dodola/dinlinehook)[dodola/dinlinehook](https://github.com/dodola/dinlinehook) simple art inline hook
+- ![](https://img.shields.io/github/stars/legendl3n/smarthooker)![](https://img.shields.io/github/last-commit/legendl3n/smarthooker)![](https://img.shields.io/github/languages/top/legendl3n/smarthooker)[legendl3n/smarthooker](https://github.com/legendl3n/smarthooker) The smartest hooking library.
+- ![](https://img.shields.io/github/stars/margular/frida-skeleton)![](https://img.shields.io/github/last-commit/margular/frida-skeleton)![](https://img.shields.io/github/languages/top/margular/frida-skeleton)[margular/frida-skeleton](https://github.com/margular/frida-skeleton) 本项目旨在帮助安卓测试工程师更方便地hook apk，并且自带证书绑定绕过功能
+- ![](https://img.shields.io/github/stars/vito11/camerahook)![](https://img.shields.io/github/last-commit/vito11/camerahook)![](https://img.shields.io/github/languages/top/vito11/camerahook)[vito11/camerahook](https://github.com/vito11/camerahook) An prototype to hook android camera preview data of third-party and system apps
+- ![](https://img.shields.io/github/stars/pnfsoftware/jeb2-andhook)![](https://img.shields.io/github/last-commit/pnfsoftware/jeb2-andhook)![](https://img.shields.io/github/languages/top/pnfsoftware/jeb2-andhook)[pnfsoftware/jeb2-andhook](https://github.com/pnfsoftware/jeb2-andhook) 
+- ![](https://img.shields.io/github/stars/nodoraiz/latchhooks)![](https://img.shields.io/github/last-commit/nodoraiz/latchhooks)![](https://img.shields.io/github/languages/top/nodoraiz/latchhooks)[nodoraiz/latchhooks](https://github.com/nodoraiz/latchhooks) Hack for Android app hooking using latch
+- ![](https://img.shields.io/github/stars/serval-snt-uni-lu/hookranker)![](https://img.shields.io/github/last-commit/serval-snt-uni-lu/hookranker)![](https://img.shields.io/github/languages/top/serval-snt-uni-lu/hookranker)[serval-snt-uni-lu/hookranker](https://github.com/serval-snt-uni-lu/hookranker) Automatically Locating Malicious Payload in Piggybacked Android Apps (A Hook Ranking Approach)
+- ![](https://img.shields.io/github/stars/gtoad/android_inline_hook_arm64)![](https://img.shields.io/github/last-commit/gtoad/android_inline_hook_arm64)![](https://img.shields.io/github/languages/top/gtoad/android_inline_hook_arm64)[gtoad/android_inline_hook_arm64](https://github.com/gtoad/android_inline_hook_arm64) Build an .so file to automatically do the android_native_hook work. Supports ARM64 ! With this, tools like Xposed can do android native hook.
+- ![](https://img.shields.io/github/stars/rprop/and64inlinehook)![](https://img.shields.io/github/last-commit/rprop/and64inlinehook)![](https://img.shields.io/github/languages/top/rprop/and64inlinehook)[rprop/and64inlinehook](https://github.com/rprop/and64inlinehook) Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
+- ![](https://img.shields.io/github/stars/fanxs-t/android-ssl_read-write-hook)![](https://img.shields.io/github/last-commit/fanxs-t/android-ssl_read-write-hook)![](https://img.shields.io/github/languages/top/fanxs-t/android-ssl_read-write-hook)[fanxs-t/android-ssl_read-write-hook](https://github.com/fanxs-t/android-ssl_read-write-hook) Hook SSL_read and SSL_write functions in the Android application with Frida.
 
 
 ***
@@ -924,14 +924,14 @@
 ### <a id="68ea699ec15a70060fc9c55191338622"></a>工具
 
 
-- [**277**星][3y] [C++] [gellin/teamviewer_permissions_hook_v1](https://github.com/gellin/teamviewer_permissions_hook_v1) 可注入的c++ dll，它使用裸内联连接和直接内存修改来更改您的TeamViewer权限
-- [**212**星][3y] [C] [silvermoonsecurity/passivefuzzframeworkosx](https://github.com/silvermoonsecurity/passivefuzzframeworkosx) This framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.
-- [**75**星][2y] [C] [chinatiny/inlinehooklib](https://github.com/chinatiny/inlinehooklib) 同时支持用户和内核模式的Inlinehook库
-- [**67**星][5y] [C] [malwaretech/basichook](https://github.com/malwaretech/basichook) x86 Inline hooking engine (using trampolines)
-- [**15**星][3m] [C] [zzy590/basiclibpp](https://github.com/zzy590/basiclibpp) A powerful library for inline-hook,lock,compress etc,and it is useful for anti-virus software.
-- [**14**星][2y] [C] [gtoad/android_inline_hook_arm_example](https://github.com/gtoad/android_inline_hook_arm_example) 
-- [**10**星][2y] [C] [gtoad/android_inline_hook_thumb_example](https://github.com/gtoad/android_inline_hook_thumb_example) 
-- [**4**星][2y] [C++] [wanttobeno/ade32_inlinehook](https://github.com/wanttobeno/ade32_inlinehook) 基于ADE32的inlineHook
+- ![](https://img.shields.io/github/stars/gellin/teamviewer_permissions_hook_v1)![](https://img.shields.io/github/last-commit/gellin/teamviewer_permissions_hook_v1)![](https://img.shields.io/github/languages/top/gellin/teamviewer_permissions_hook_v1)[gellin/teamviewer_permissions_hook_v1](https://github.com/gellin/teamviewer_permissions_hook_v1) 可注入的c++ dll，它使用裸内联连接和直接内存修改来更改您的TeamViewer权限
+- ![](https://img.shields.io/github/stars/silvermoonsecurity/passivefuzzframeworkosx)![](https://img.shields.io/github/last-commit/silvermoonsecurity/passivefuzzframeworkosx)![](https://img.shields.io/github/languages/top/silvermoonsecurity/passivefuzzframeworkosx)[silvermoonsecurity/passivefuzzframeworkosx](https://github.com/silvermoonsecurity/passivefuzzframeworkosx) This framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.
+- ![](https://img.shields.io/github/stars/chinatiny/inlinehooklib)![](https://img.shields.io/github/last-commit/chinatiny/inlinehooklib)![](https://img.shields.io/github/languages/top/chinatiny/inlinehooklib)[chinatiny/inlinehooklib](https://github.com/chinatiny/inlinehooklib) 同时支持用户和内核模式的Inlinehook库
+- ![](https://img.shields.io/github/stars/malwaretech/basichook)![](https://img.shields.io/github/last-commit/malwaretech/basichook)![](https://img.shields.io/github/languages/top/malwaretech/basichook)[malwaretech/basichook](https://github.com/malwaretech/basichook) x86 Inline hooking engine (using trampolines)
+- ![](https://img.shields.io/github/stars/zzy590/basiclibpp)![](https://img.shields.io/github/last-commit/zzy590/basiclibpp)![](https://img.shields.io/github/languages/top/zzy590/basiclibpp)[zzy590/basiclibpp](https://github.com/zzy590/basiclibpp) A powerful library for inline-hook,lock,compress etc,and it is useful for anti-virus software.
+- ![](https://img.shields.io/github/stars/gtoad/android_inline_hook_arm_example)![](https://img.shields.io/github/last-commit/gtoad/android_inline_hook_arm_example)![](https://img.shields.io/github/languages/top/gtoad/android_inline_hook_arm_example)[gtoad/android_inline_hook_arm_example](https://github.com/gtoad/android_inline_hook_arm_example) 
+- ![](https://img.shields.io/github/stars/gtoad/android_inline_hook_thumb_example)![](https://img.shields.io/github/last-commit/gtoad/android_inline_hook_thumb_example)![](https://img.shields.io/github/languages/top/gtoad/android_inline_hook_thumb_example)[gtoad/android_inline_hook_thumb_example](https://github.com/gtoad/android_inline_hook_thumb_example) 
+- ![](https://img.shields.io/github/stars/wanttobeno/ade32_inlinehook)![](https://img.shields.io/github/last-commit/wanttobeno/ade32_inlinehook)![](https://img.shields.io/github/languages/top/wanttobeno/ade32_inlinehook)[wanttobeno/ade32_inlinehook](https://github.com/wanttobeno/ade32_inlinehook) 基于ADE32的inlineHook
 
 
 ### <a id="0b51581a821919d41ac0b4007e6ef111"></a>文章
@@ -1002,7 +1002,7 @@
 ### <a id="de570f6a46cf4ddf63da1d1d29ae6131"></a>工具
 
 
-- [**18**星][1y] [C] [plexsolutions/readhook](https://github.com/plexsolutions/readhook) Red-team tool to hook libc read syscall with a buffer overflow vulnerability.
+- ![](https://img.shields.io/github/stars/plexsolutions/readhook)![](https://img.shields.io/github/last-commit/plexsolutions/readhook)![](https://img.shields.io/github/languages/top/plexsolutions/readhook)[plexsolutions/readhook](https://github.com/plexsolutions/readhook) Red-team tool to hook libc read syscall with a buffer overflow vulnerability.
 
 
 ### <a id="e6332e820833c39bfb6ca86591a77c12"></a>文章
@@ -1022,21 +1022,21 @@
 ### <a id="796594632db41e5771e98ccbf3687c40"></a>工具
 
 
-- [**509**星][1m] [C++] [0x09al/rdpthief](https://github.com/0x09al/rdpthief) Extracting Clear Text Passwords from mstsc.exe using API Hooking.
-- [**315**星][4m] [C] [outflanknl/dumpert](https://github.com/outflanknl/dumpert) LSASS memory dumper using direct system calls and API unhooking.
-- [**304**星][2y] [C] [nektra/deviare2](https://github.com/nektra/deviare2) Deviare API Hook
-- [**136**星][4m] [C] [hoshimin/hooklib](https://github.com/hoshimin/hooklib) The functions interception library written on pure C and NativeAPI with UserMode and KernelMode support
-- [**54**星][5m] [C] [passingtheknowledge/ganxo](https://github.com/passingtheknowledge/ganxo) An opensource API hooking framework
-- [**40**星][3y] [C++] [tanninone/usvfs](https://github.com/tanninone/usvfs) library using api hooking to implement process-local filesystem-independent file links.
-- [**35**星][4m] [C++] [xrivendell/pcsgolh](https://github.com/xrivendell/pcsgolh) PCSGOLH - Pointless Counter-Strike: Global Offensive Lua Hooks. A open-source Lua API for CS:GO hacking written in modern C++
-- [**28**星][6m] [JS] [shanselman/daskeyboard-q-nightscout](https://github.com/shanselman/daskeyboard-q-nightscout) Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
-- [**11**星][2m] [Pascal] [oranke/proxy-dll-generator](https://github.com/oranke/proxy-dll-generator) PROXY DLL Generator / for very simple API Hooking.
-- [**9**星][4y] [C++] [jonasblunck/dynhook](https://github.com/jonasblunck/dynhook) Example library for how to dynamically/statically hook/intercept unmanaged functions and APIs
-- [**9**星][3m] [C++] [hidd3ncod3s/runpedmp](https://github.com/hidd3ncod3s/runpedmp) RunPE dump - I wrote this to have better control over the analysis of malwares. I can stop and analysis malware when it uses some of the API's i hook and to dump the memory while it is using RunPE/PH techniques.
-- [**8**星][4m] [C++] [nybble04/shady-hook](https://github.com/nybble04/shady-hook) Hooking API calls of a Ransomware
-- [**4**星][2y] [C++] [a7031x/hookapi](https://github.com/a7031x/hookapi) Handy way to hook x86 or x64 API
-- [**4**星][29d] [C] [microwave89/ntapihook](https://github.com/microwave89/ntapihook) Attempt to Create a Simple and Light-weight Hook Engine Without Use of an LDE
-- [**None**星][C++] [vovkos/protolesshooks](https://github.com/vovkos/protolesshooks) API monitoring via return-hijacking thunks; works without information about target function prototypes.
+- ![](https://img.shields.io/github/stars/0x09al/rdpthief)![](https://img.shields.io/github/last-commit/0x09al/rdpthief)![](https://img.shields.io/github/languages/top/0x09al/rdpthief)[0x09al/rdpthief](https://github.com/0x09al/rdpthief) Extracting Clear Text Passwords from mstsc.exe using API Hooking.
+- ![](https://img.shields.io/github/stars/outflanknl/dumpert)![](https://img.shields.io/github/last-commit/outflanknl/dumpert)![](https://img.shields.io/github/languages/top/outflanknl/dumpert)[outflanknl/dumpert](https://github.com/outflanknl/dumpert) LSASS memory dumper using direct system calls and API unhooking.
+- ![](https://img.shields.io/github/stars/nektra/deviare2)![](https://img.shields.io/github/last-commit/nektra/deviare2)![](https://img.shields.io/github/languages/top/nektra/deviare2)[nektra/deviare2](https://github.com/nektra/deviare2) Deviare API Hook
+- ![](https://img.shields.io/github/stars/hoshimin/hooklib)![](https://img.shields.io/github/last-commit/hoshimin/hooklib)![](https://img.shields.io/github/languages/top/hoshimin/hooklib)[hoshimin/hooklib](https://github.com/hoshimin/hooklib) The functions interception library written on pure C and NativeAPI with UserMode and KernelMode support
+- ![](https://img.shields.io/github/stars/passingtheknowledge/ganxo)![](https://img.shields.io/github/last-commit/passingtheknowledge/ganxo)![](https://img.shields.io/github/languages/top/passingtheknowledge/ganxo)[passingtheknowledge/ganxo](https://github.com/passingtheknowledge/ganxo) An opensource API hooking framework
+- ![](https://img.shields.io/github/stars/tanninone/usvfs)![](https://img.shields.io/github/last-commit/tanninone/usvfs)![](https://img.shields.io/github/languages/top/tanninone/usvfs)[tanninone/usvfs](https://github.com/tanninone/usvfs) library using api hooking to implement process-local filesystem-independent file links.
+- ![](https://img.shields.io/github/stars/xrivendell/pcsgolh)![](https://img.shields.io/github/last-commit/xrivendell/pcsgolh)![](https://img.shields.io/github/languages/top/xrivendell/pcsgolh)[xrivendell/pcsgolh](https://github.com/xrivendell/pcsgolh) PCSGOLH - Pointless Counter-Strike: Global Offensive Lua Hooks. A open-source Lua API for CS:GO hacking written in modern C++
+- ![](https://img.shields.io/github/stars/shanselman/daskeyboard-q-nightscout)![](https://img.shields.io/github/last-commit/shanselman/daskeyboard-q-nightscout)![](https://img.shields.io/github/languages/top/shanselman/daskeyboard-q-nightscout)[shanselman/daskeyboard-q-nightscout](https://github.com/shanselman/daskeyboard-q-nightscout) Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
+- ![](https://img.shields.io/github/stars/oranke/proxy-dll-generator)![](https://img.shields.io/github/last-commit/oranke/proxy-dll-generator)![](https://img.shields.io/github/languages/top/oranke/proxy-dll-generator)[oranke/proxy-dll-generator](https://github.com/oranke/proxy-dll-generator) PROXY DLL Generator / for very simple API Hooking.
+- ![](https://img.shields.io/github/stars/jonasblunck/dynhook)![](https://img.shields.io/github/last-commit/jonasblunck/dynhook)![](https://img.shields.io/github/languages/top/jonasblunck/dynhook)[jonasblunck/dynhook](https://github.com/jonasblunck/dynhook) Example library for how to dynamically/statically hook/intercept unmanaged functions and APIs
+- ![](https://img.shields.io/github/stars/hidd3ncod3s/runpedmp)![](https://img.shields.io/github/last-commit/hidd3ncod3s/runpedmp)![](https://img.shields.io/github/languages/top/hidd3ncod3s/runpedmp)[hidd3ncod3s/runpedmp](https://github.com/hidd3ncod3s/runpedmp) RunPE dump - I wrote this to have better control over the analysis of malwares. I can stop and analysis malware when it uses some of the API's i hook and to dump the memory while it is using RunPE/PH techniques.
+- ![](https://img.shields.io/github/stars/nybble04/shady-hook)![](https://img.shields.io/github/last-commit/nybble04/shady-hook)![](https://img.shields.io/github/languages/top/nybble04/shady-hook)[nybble04/shady-hook](https://github.com/nybble04/shady-hook) Hooking API calls of a Ransomware
+- ![](https://img.shields.io/github/stars/a7031x/hookapi)![](https://img.shields.io/github/last-commit/a7031x/hookapi)![](https://img.shields.io/github/languages/top/a7031x/hookapi)[a7031x/hookapi](https://github.com/a7031x/hookapi) Handy way to hook x86 or x64 API
+- ![](https://img.shields.io/github/stars/microwave89/ntapihook)![](https://img.shields.io/github/last-commit/microwave89/ntapihook)![](https://img.shields.io/github/languages/top/microwave89/ntapihook)[microwave89/ntapihook](https://github.com/microwave89/ntapihook) Attempt to Create a Simple and Light-weight Hook Engine Without Use of an LDE
+- ![](https://img.shields.io/github/stars/vovkos/protolesshooks)![](https://img.shields.io/github/last-commit/vovkos/protolesshooks)![](https://img.shields.io/github/languages/top/vovkos/protolesshooks)[vovkos/protolesshooks](https://github.com/vovkos/protolesshooks) API monitoring via return-hijacking thunks; works without information about target function prototypes.
 
 
 ### <a id="288c7565062613f05da93653dd81e710"></a>文章
@@ -1116,8 +1116,8 @@
 ### <a id="9402ee22b3361f18eac675a3d700b08f"></a>工具
 
 
-- [**128**星][2y] [C] [cylancevulnresearch/reflectivedllrefresher](https://github.com/cylancevulnresearch/reflectivedllrefresher) Universal Unhooking
-- [**23**星][6m] [C++] [apriorit/simple-antirootkit-sst-unhooker](https://github.com/apriorit/simple-antirootkit-sst-unhooker) This is a demo project to illustrate the way to verify and restore original SST in case of some malware hooks
+- ![](https://img.shields.io/github/stars/cylancevulnresearch/reflectivedllrefresher)![](https://img.shields.io/github/last-commit/cylancevulnresearch/reflectivedllrefresher)![](https://img.shields.io/github/languages/top/cylancevulnresearch/reflectivedllrefresher)[cylancevulnresearch/reflectivedllrefresher](https://github.com/cylancevulnresearch/reflectivedllrefresher) Universal Unhooking
+- ![](https://img.shields.io/github/stars/apriorit/simple-antirootkit-sst-unhooker)![](https://img.shields.io/github/last-commit/apriorit/simple-antirootkit-sst-unhooker)![](https://img.shields.io/github/languages/top/apriorit/simple-antirootkit-sst-unhooker)[apriorit/simple-antirootkit-sst-unhooker](https://github.com/apriorit/simple-antirootkit-sst-unhooker) This is a demo project to illustrate the way to verify and restore original SST in case of some malware hooks
 
 
 ### <a id="5b9e84f7909d65e65242b7ed92df88eb"></a>文章
@@ -1136,154 +1136,154 @@
 ## <a id="a59a8c7582765d7653d4ef05cfde9ee0"></a>工具
 
 
-- [**302**星][29d] [Py] [boppreh/mouse](https://github.com/boppreh/mouse) Hook and simulate global mouse events in pure Python
-- [**220**星][2y] [C++] [bromiumlabs/packerattacker](https://github.com/bromiumlabs/packerattacker) C++ application that uses memory and code hooks to detect packers
-- [**219**星][4m] [C] [silight-jp/mactype-patch](https://github.com/silight-jp/mactype-patch) MacType Patch for DirectWrite Hook
-- [**202**星][6m] [ObjC] [lmsgsendnilself/hookstatistics](https://github.com/lmsgsendnilself/hookstatistics) Logging args based on AOP（Aspectoriented programming）by Method Swizzling
-- [**175**星][27d] [C] [kubo/funchook](https://github.com/kubo/funchook) Hook function calls by inserting jump instructions at runtime
-- [**151**星][6m] [C] [zmrbak/pcwechathook](https://github.com/zmrbak/pcwechathook) 云课堂《2019 PC微信 探秘》示例代码
-- [**150**星][28d] [C] [vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook) C++ graphics kernel subsystem hook
-- [**144**星][2m] [Py] [ethanhs/pyhooked](https://github.com/ethanhs/pyhooked) Pure Python hotkey hook, with thanks to pyHook and pyhk
-- [**141**星][6m] [C++] [hasherezade/iat_patcher](https://github.com/hasherezade/iat_patcher) Persistent IAT hooking application - based on bearparser
-- [**140**星][30d] [Py] [safebreach-labs/pyekaboo](https://github.com/safebreach-labs/pyekaboo) Proof-of-concept program that is able to to hijack/hook/proxy Python module(s) thanks to $PYTHONPATH variable
-- [**139**星][10m] [C#] [unknownv2/corehook](https://github.com/unknownv2/corehook) A library that simplifies intercepting application function calls using managed code and the .NET Core runtime
-- [**132**星][2y] [C++] [m0n0ph1/iat-hooking-revisited](https://github.com/m0n0ph1/iat-hooking-revisited) Import address table (IAT) hooking is a well documented technique for intercepting calls to imported functions.
-- [**128**星][9m] [Go] [bshuster-repo/logrus-logstash-hook](https://github.com/bshuster-repo/logrus-logstash-hook) 
-- [**125**星][1m] [C] [gdabah/distormx](https://github.com/gdabah/distormx) The ultimate hooking library
-- [**118**星][29d] [JS] [skepticfx/hookish](https://github.com/skepticfx/hookish) Hooks in to interesting functions and helps reverse the web app faster.
-- [**116**星][2m] [Go] [mattbostock/go-ldpreload-backdoor](https://github.com/mattbostock/go-ldpreload-backdoor) LD_PRELOAD libc hooking using Go
-- [**114**星][2m] [Ruby] [spiderlabs/beef_injection_framework](https://github.com/spiderlabs/beef_injection_framework) Inject beef hooks into HTTP traffic and track hooked systems from cmdline
-- [**110**星][2m] [C] [hc0d3r/sudohulk](https://github.com/hc0d3r/sudohulk) 使用ptraceHook系统调用execve, 监控并修改sudo命令的参数
-- [**109**星][1m] [Py] [eset/vba-dynamic-hook](https://github.com/eset/vba-dynamic-hook) dynamically analyzes VBA macros inside Office documents by hooking function calls
-- [**109**星][4m] [Py] [infertux/zeyple](https://github.com/infertux/zeyple) Postfix filter/hook to automatically encrypt outgoing emails with PGP/GPG
-- [**106**星][2m] [Java] [pqpo/methodhook](https://github.com/pqpo/methodhook) hook java methods
-- [**105**星][1m] [Py] [c0demap/codemap](https://github.com/c0demap/codemap) Hook IDA，调试命中断点时将寄存器/内存信息保存到数据库，在web浏览器中查看
+- ![](https://img.shields.io/github/stars/boppreh/mouse)![](https://img.shields.io/github/last-commit/boppreh/mouse)![](https://img.shields.io/github/languages/top/boppreh/mouse)[boppreh/mouse](https://github.com/boppreh/mouse) Hook and simulate global mouse events in pure Python
+- ![](https://img.shields.io/github/stars/bromiumlabs/packerattacker)![](https://img.shields.io/github/last-commit/bromiumlabs/packerattacker)![](https://img.shields.io/github/languages/top/bromiumlabs/packerattacker)[bromiumlabs/packerattacker](https://github.com/bromiumlabs/packerattacker) C++ application that uses memory and code hooks to detect packers
+- ![](https://img.shields.io/github/stars/silight-jp/mactype-patch)![](https://img.shields.io/github/last-commit/silight-jp/mactype-patch)![](https://img.shields.io/github/languages/top/silight-jp/mactype-patch)[silight-jp/mactype-patch](https://github.com/silight-jp/mactype-patch) MacType Patch for DirectWrite Hook
+- ![](https://img.shields.io/github/stars/lmsgsendnilself/hookstatistics)![](https://img.shields.io/github/last-commit/lmsgsendnilself/hookstatistics)![](https://img.shields.io/github/languages/top/lmsgsendnilself/hookstatistics)[lmsgsendnilself/hookstatistics](https://github.com/lmsgsendnilself/hookstatistics) Logging args based on AOP（Aspectoriented programming）by Method Swizzling
+- ![](https://img.shields.io/github/stars/kubo/funchook)![](https://img.shields.io/github/last-commit/kubo/funchook)![](https://img.shields.io/github/languages/top/kubo/funchook)[kubo/funchook](https://github.com/kubo/funchook) Hook function calls by inserting jump instructions at runtime
+- ![](https://img.shields.io/github/stars/zmrbak/pcwechathook)![](https://img.shields.io/github/last-commit/zmrbak/pcwechathook)![](https://img.shields.io/github/languages/top/zmrbak/pcwechathook)[zmrbak/pcwechathook](https://github.com/zmrbak/pcwechathook) 云课堂《2019 PC微信 探秘》示例代码
+- ![](https://img.shields.io/github/stars/vmcall/dxgkrnl_hook)![](https://img.shields.io/github/last-commit/vmcall/dxgkrnl_hook)![](https://img.shields.io/github/languages/top/vmcall/dxgkrnl_hook)[vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook) C++ graphics kernel subsystem hook
+- ![](https://img.shields.io/github/stars/ethanhs/pyhooked)![](https://img.shields.io/github/last-commit/ethanhs/pyhooked)![](https://img.shields.io/github/languages/top/ethanhs/pyhooked)[ethanhs/pyhooked](https://github.com/ethanhs/pyhooked) Pure Python hotkey hook, with thanks to pyHook and pyhk
+- ![](https://img.shields.io/github/stars/hasherezade/iat_patcher)![](https://img.shields.io/github/last-commit/hasherezade/iat_patcher)![](https://img.shields.io/github/languages/top/hasherezade/iat_patcher)[hasherezade/iat_patcher](https://github.com/hasherezade/iat_patcher) Persistent IAT hooking application - based on bearparser
+- ![](https://img.shields.io/github/stars/safebreach-labs/pyekaboo)![](https://img.shields.io/github/last-commit/safebreach-labs/pyekaboo)![](https://img.shields.io/github/languages/top/safebreach-labs/pyekaboo)[safebreach-labs/pyekaboo](https://github.com/safebreach-labs/pyekaboo) Proof-of-concept program that is able to to hijack/hook/proxy Python module(s) thanks to $PYTHONPATH variable
+- ![](https://img.shields.io/github/stars/unknownv2/corehook)![](https://img.shields.io/github/last-commit/unknownv2/corehook)![](https://img.shields.io/github/languages/top/unknownv2/corehook)[unknownv2/corehook](https://github.com/unknownv2/corehook) A library that simplifies intercepting application function calls using managed code and the .NET Core runtime
+- ![](https://img.shields.io/github/stars/m0n0ph1/iat-hooking-revisited)![](https://img.shields.io/github/last-commit/m0n0ph1/iat-hooking-revisited)![](https://img.shields.io/github/languages/top/m0n0ph1/iat-hooking-revisited)[m0n0ph1/iat-hooking-revisited](https://github.com/m0n0ph1/iat-hooking-revisited) Import address table (IAT) hooking is a well documented technique for intercepting calls to imported functions.
+- ![](https://img.shields.io/github/stars/bshuster-repo/logrus-logstash-hook)![](https://img.shields.io/github/last-commit/bshuster-repo/logrus-logstash-hook)![](https://img.shields.io/github/languages/top/bshuster-repo/logrus-logstash-hook)[bshuster-repo/logrus-logstash-hook](https://github.com/bshuster-repo/logrus-logstash-hook) 
+- ![](https://img.shields.io/github/stars/gdabah/distormx)![](https://img.shields.io/github/last-commit/gdabah/distormx)![](https://img.shields.io/github/languages/top/gdabah/distormx)[gdabah/distormx](https://github.com/gdabah/distormx) The ultimate hooking library
+- ![](https://img.shields.io/github/stars/skepticfx/hookish)![](https://img.shields.io/github/last-commit/skepticfx/hookish)![](https://img.shields.io/github/languages/top/skepticfx/hookish)[skepticfx/hookish](https://github.com/skepticfx/hookish) Hooks in to interesting functions and helps reverse the web app faster.
+- ![](https://img.shields.io/github/stars/mattbostock/go-ldpreload-backdoor)![](https://img.shields.io/github/last-commit/mattbostock/go-ldpreload-backdoor)![](https://img.shields.io/github/languages/top/mattbostock/go-ldpreload-backdoor)[mattbostock/go-ldpreload-backdoor](https://github.com/mattbostock/go-ldpreload-backdoor) LD_PRELOAD libc hooking using Go
+- ![](https://img.shields.io/github/stars/spiderlabs/beef_injection_framework)![](https://img.shields.io/github/last-commit/spiderlabs/beef_injection_framework)![](https://img.shields.io/github/languages/top/spiderlabs/beef_injection_framework)[spiderlabs/beef_injection_framework](https://github.com/spiderlabs/beef_injection_framework) Inject beef hooks into HTTP traffic and track hooked systems from cmdline
+- ![](https://img.shields.io/github/stars/hc0d3r/sudohulk)![](https://img.shields.io/github/last-commit/hc0d3r/sudohulk)![](https://img.shields.io/github/languages/top/hc0d3r/sudohulk)[hc0d3r/sudohulk](https://github.com/hc0d3r/sudohulk) 使用ptraceHook系统调用execve, 监控并修改sudo命令的参数
+- ![](https://img.shields.io/github/stars/eset/vba-dynamic-hook)![](https://img.shields.io/github/last-commit/eset/vba-dynamic-hook)![](https://img.shields.io/github/languages/top/eset/vba-dynamic-hook)[eset/vba-dynamic-hook](https://github.com/eset/vba-dynamic-hook) dynamically analyzes VBA macros inside Office documents by hooking function calls
+- ![](https://img.shields.io/github/stars/infertux/zeyple)![](https://img.shields.io/github/last-commit/infertux/zeyple)![](https://img.shields.io/github/languages/top/infertux/zeyple)[infertux/zeyple](https://github.com/infertux/zeyple) Postfix filter/hook to automatically encrypt outgoing emails with PGP/GPG
+- ![](https://img.shields.io/github/stars/pqpo/methodhook)![](https://img.shields.io/github/last-commit/pqpo/methodhook)![](https://img.shields.io/github/languages/top/pqpo/methodhook)[pqpo/methodhook](https://github.com/pqpo/methodhook) hook java methods
+- ![](https://img.shields.io/github/stars/c0demap/codemap)![](https://img.shields.io/github/last-commit/c0demap/codemap)![](https://img.shields.io/github/languages/top/c0demap/codemap)[c0demap/codemap](https://github.com/c0demap/codemap) Hook IDA，调试命中断点时将寄存器/内存信息保存到数据库，在web浏览器中查看
     - [IDA插件](https://github.com/c0demap/codemap/blob/master/idapythonrc.py) 
     - [Web服务器](https://github.com/c0demap/codemap/tree/master/codemap/server) 
-- [**99**星][4y] [C] [ionescu007/hookingnirvana](https://github.com/ionescu007/hookingnirvana) Recon 2015 Presentation from Alex Ionescu
-- [**96**星][8m] [C++] [dzzie/vs_libemu](https://github.com/dzzie/vs_libemu) Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode.
-- [**93**星][2m] [JS] [oalabs/frida-wshook](https://github.com/oalabs/frida-wshook) Script analysis tool based on Frida.re
-- [**89**星][2m] [C] [xpn/ssh-inject](https://github.com/xpn/ssh-inject) A ptrace POC by hooking SSH to reveal provided passwords
-- [**88**星][6y] [C] [chokepoint/crypthook](https://github.com/chokepoint/crypthook) TCP/UDP symmetric encryption tunnel wrapper
-- [**88**星][4m] [R] [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) pre-commit hooks for R projects
-- [**83**星][2m] [Py] [enigmabridge/certbot-external-auth](https://github.com/enigmabridge/certbot-external-auth) Certbot external DNS, HTTP, TLSSNI domain validation plugin with JSON output and scriptable hooks, with Dehydrated compatibility
-- [**83**星][1m] [C] [smealum/udsploit](https://github.com/smealum/udsploit) UDS exploit + kernel hooks for 11.3
-- [**82**星][2m] [JS] [pnigos/hookjs](https://github.com/pnigos/hookjs) javascript function hook
-- [**79**星][2m] [C++] [cseagle/collabreate](https://github.com/cseagle/collabreate) Hook IDA的事件通知，将事件涉及的修改内容广播到中心服务器，中心服务器转发给其他分析相同文件的用户
-- [**79**星][29d] [Pascal] [delphilite/delphihookutils](https://github.com/delphilite/delphihookutils) Delphi Hooking Library by Lsuper
-- [**77**星][1m] [C] [dodola/fbhookfork](https://github.com/dodola/fbhookfork) 从 fb 的 profilo 项目里提取出来的hook 库，自己用
-- [**76**星][29d] [C++] [secrary/hooking-via-instrumentationcallback](https://github.com/secrary/hooking-via-instrumentationcallback) codes for my blog post:
-- [**75**星][2y] [C++] [hrbust86/hookmsrbysvm](https://github.com/hrbust86/hookmsrbysvm) hook msr by amd svm
-- [**73**星][1m] [C] [nektra/vtbl-ida-pro-plugin](https://github.com/nektra/vtbl-ida-pro-plugin) Identifying Virtual Table Functions using VTBL IDA Pro Plugin + Deviare Hooking Engine
-- [**71**星][30d] [C++] [petrgeorgievsky/gtarenderhook](https://github.com/petrgeorgievsky/gtarenderhook) GTA SA rendering hook
-- [**71**星][2m] [C] [zyantific/zyan-hook-engine](https://github.com/zyantific/zyan-hook-engine) Advanced x86/x86-64 hooking library (WIP).
-- [**69**星][1y] [Java] [bolexliu/apptrack](https://github.com/bolexliu/apptrack) Xposed HookAPP逆向跟踪工具，跟踪Activity与Fragment启动信息等
-- [**66**星][7y] [C] [chokepoint/jynx2](https://github.com/chokepoint/jynx2) JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit. The backdoor has been replaced with an "accept()" system hook.
-- [**64**星][5m] [C++] [changeofpace/mouhidinputhook](https://github.com/changeofpace/mouhidinputhook) MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
-- [**63**星][5m] [C++] [urshadow/urmem](https://github.com/urshadow/urmem) C++11 cross-platform library for working with memory (hooks, patches, pointer's wrapper, signature scanner etc.)
-- [**60**星][5m] [C] [respeak/ts3hook](https://github.com/respeak/ts3hook) Teamspeak 3 Hook
-- [**60**星][2m] [Makefile] [genuinetools/upmail](https://github.com/genuinetools/upmail) Email notification hook for
-- [**60**星][4m] [C#] [indieteur/globalhooks](https://github.com/indieteur/globalhooks) Allows you to create global keyboard events
-- [**59**星][3m] [C] [codectile/paradise](https://github.com/codectile/paradise) x86/x86-64 hooking library
-- [**58**星][2m] [Ruby] [jbjonesjr/letsencrypt-manual-hook](https://github.com/jbjonesjr/letsencrypt-manual-hook) Allows you to use dehydrated (a Let's Encrypt/Acme Client) and DNS challenge response with a DNS provider that requires manual intervention
-- [**57**星][1m] [Swift] [unixzii/swiftui-hooks](https://github.com/unixzii/swiftui-hooks) A PoC for implementing hooks in SwiftUI
-- [**55**星][5y] [C++] [malwaretech/fsthook](https://github.com/malwaretech/fsthook) A library for intercepting native functions by hooking KiFastSystemCall
-- [**54**星][2y] [Py] [stormshadow07/beef-over-wan](https://github.com/stormshadow07/beef-over-wan) Browser Exploitation Framework is a Open-source penetration testing tool that focuses on browser-based vulnerabilities .This Python Script does the changes Required to make hooked Linked Accessible Over WAN .So anyone can use this framework and Attack Over WAN without Port Forwarding [NGROK or any Localhost to Webhost Service Required ]
-- [**53**星][2y] [C] [chen-charles/pedetour](https://github.com/chen-charles/pedetour) modify binary Portable Executable to hook its export functions
-- [**52**星][4y] [C] [zhuhuibeishadiao/pfhook](https://github.com/zhuhuibeishadiao/pfhook) Page fault hook use ept (Intel Virtualization Technology)
-- [**51**星][4y] [breakingmalwareresearch/captain-hook](https://github.com/breakingmalwareresearch/captain-hook) 
-- [**48**星][6m] [Java] [greywolf007/mobileq750hook](https://github.com/greywolf007/mobileq750hook) MobileQ750Hook
-- [**48**星][2m] [C] [jay/gethooks](https://github.com/jay/gethooks) GetHooks is a program designed for the passive detection and monitoring of hooks from a limited user account.
-- [**47**星][27d] [Py] [safebreach-labs/backdoros](https://github.com/safebreach-labs/backdoros) backdorOS is an in-memory OS written in Python 2.7 with a built-in in-memory filesystem, hooks for open() calls and imports, Python REPL etc.
-- [**45**星][2y] [C++] [coltonon/reghookex](https://github.com/coltonon/reghookex) External mid-function hooking method to retrieve register data
-- [**44**星][1m] [C] [l1nuxdotfun/spacehook](https://github.com/l1nuxdotfun/spacehook) minecraft premium undeteck cheat!
-- [**42**星][1y] [C] [dzzie/hookexplorer](https://github.com/dzzie/hookexplorer) technical tool to analyze a process trying to find various types of runtime hooks. Interface and output is geared torwards security experts. Average users wont be able to decipher its output.
-- [**41**星][9y] [C++] [cr4sh/ptbypass-poc](https://github.com/cr4sh/ptbypass-poc) Bypassing code hooks detection in modern anti-rootkits via building faked PTE entries.
-- [**41**星][5m] [JS] [gaoding-inc/runtime-hooks](https://github.com/gaoding-inc/runtime-hooks) 
-- [**41**星][3m] [Py] [killswitch-gui/lterm](https://github.com/killswitch-gui/lterm) lterm is a small script built to install a bash hook for full terminal logging.
-- [**41**星][4m] [C] [ntraiseharderror/antihook](https://github.com/ntraiseharderror/antihook) PoC designed to evade userland-hooking anti-virus.
-- [**39**星][1m] [C] [dodola/traphook](https://github.com/dodola/traphook) 
-- [**38**星][27d] [C++] [ganyao114/sandboxhookplugin](https://github.com/ganyao114/sandboxhookplugin) demo for inject & hook in sandbox
-- [**36**星][1m] [C] [harvie/libpurple-core-answerscripts](https://github.com/harvie/libpurple-core-answerscripts) Most-hackable Pidgin plugin! Framework for hooking scripts to respond received messages for various libpurple clients such as pidgin or finch
-- [**36**星][2y] [C#] [roshly/ayyhook-loader](https://github.com/roshly/ayyhook-loader) A Free Open Source Cheat Loader
-- [**35**星][2y] [C++] [nickcano/reloadlibrary](https://github.com/nickcano/reloadlibrary) A quick-and-dirty anti-hook library proof of concept.
-- [**34**星][6m] [Py] [eset/volatility-browserhooks](https://github.com/eset/volatility-browserhooks) Volatility Framework plugin to detect various types of hooks as performed by banking Trojans
-- [**33**星][2m] [JS] [gr2m/before-after-hook](https://github.com/gr2m/before-after-hook) wrap methods with before/after hooks
-- [**32**星][5m] [idkwim/frooksinatra](https://github.com/idkwim/frooksinatra) POC of sysenter x64 LSTAR MSR hook
-- [**32**星][2m] [C++] [rokups/hooker](https://github.com/rokups/hooker) Minimalistic hooking library written in C
-- [**32**星][7m] [ObjC] [zjjno/interface-inspector-hook](https://github.com/zjjno/interface-inspector-hook) Interface Inspector破解
-- [**31**星][7m] [C++] [ayuto/dynamichooks](https://github.com/ayuto/dynamichooks) A C++ library to create function hooks dynamically, so you can easily embed it into other programming languages..
-- [**31**星][5m] [C++] [hoangprod/leospecial-veh-hook](https://github.com/hoangprod/leospecial-veh-hook) Vectored Exception Handling Hooking Class
-- [**30**星][4y] [C] [scorchsecurity/toast](https://github.com/scorchsecurity/toast) User-mode hook bypassing method
-- [**30**星][1y] [ObjC] [nododo/hookdouyin](https://github.com/nododo/hookdouyin) iOS逆向：如何让抖音自动播放下一个视频(懒人癌)
-- [**29**星][26d] [Kotlin] [godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
-- [**29**星][2m] [C] [robotn/gohook](https://github.com/robotn/gohook) GoHook, Go global keyboard and mouse hook
-- [**28**星][3y] [Py] [tr3jer/autohookspider](https://github.com/tr3jer/autohookspider) 将自动爬虫的结果判断是否属于hooks，并不断抓取url爬啊爬。
-- [**27**星][1m] [Java] [mx-futhark/hook-any-text](https://github.com/mx-futhark/hook-any-text) The goal of this project is to provide an alternative to well established text hookers, whose features are restrained to a certain number of game engines and emulators.
-- [**27**星][2m] [C++] [strobejb/sslhook](https://github.com/strobejb/sslhook) OpenSSL hooking
-- [**27**星][1m] [C++] [aixxe/cstrike-basehook-linux](https://github.com/aixxe/cstrike-basehook-linux) Internal project base for Counter-Strike: Source on Linux.
-- [**27**星][30d] [Shell] [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit) pre-commit hook terraform; pre-commit hook prometheus
-- [**26**星][3y] [C++] [ilyatk/hookengine](https://github.com/ilyatk/hookengine) 
-- [**26**星][3m] [C#] [nytrorst/hookme](https://github.com/nytrorst/hookme) Exported from
-- [**25**星][3y] [C++] [bronzeme/ssdt_hook_x64](https://github.com/bronzeme/ssdt_hook_x64) 
-- [**25**星][2m] [Py] [esss/hookman](https://github.com/esss/hookman) A plugin management system in python to applications (in totally or partially) written in C++.
-- [**25**星][1m] [Py] [rbeuque74/letsencrypt-ovh-hook](https://github.com/rbeuque74/letsencrypt-ovh-hook) Let's Encrypt hook for DNS validation for OVH domains
-- [**24**星][6y] [C] [jyang772/hideprocesshookmdl](https://github.com/jyang772/hideprocesshookmdl) A simple rootkit to hide a process
-- [**23**星][6m] [Java] [jackuhan/loginhook](https://github.com/jackuhan/loginhook) xposed的hook案例
-- [**22**星][3m] [C#] [reloaded-project/reloaded.hooks](https://github.com/reloaded-project/reloaded.hooks) Advanced native function hooks for x86, x64. Welcome to the next level!
-- [**21**星][1y] [C#] [michel-pi/lowlevelinput.net](https://github.com/michel-pi/lowlevelinput.net) A thread safe and event driven LowLevelMouse and LowLevelKeyboard Hook
-- [**21**星][5m] [ObjC] [zjjno/cornerstonehook](https://github.com/zjjno/cornerstonehook) Cornerstone破解
-- [**20**星][1m] [Py] [orndorffgrant/bnhook](https://github.com/orndorffgrant/bnhook) binary ninja plugin for adding custom hooks to executables
-- [**20**星][6y] [C] [tongzeyu/hooksysenter](https://github.com/tongzeyu/hooksysenter) hook sysenter，重载内核，下硬件断点到debugport，防止debugport清零
-- [**20**星][4m] [Swift] [kealdishx/swiftloadhook](https://github.com/kealdishx/SwiftLoadHook) Use a hack way to achieve similar functions as Load() or initialize() in OC
-- [**19**星][29d] [JS] [cynops/frida-hooks](https://github.com/cynops/frida-hooks) 
-- [**17**星][2y] [JS] [compewter/whoof](https://github.com/compewter/whoof) Web Browser Hooking Framework. Manage, execute and assess web browser vulnerabilities
-- [**17**星][3y] [C] [zhuhuibeishadiao/kernelhooksdetection_x64](https://github.com/zhuhuibeishadiao/kernelhooksdetection_x64) x64 Kernel Hooks Detection
-- [**16**星][3m] [C] [osrdrivers/penter](https://github.com/osrdrivers/penter) penter hook example and driver time recorder
-- [**15**星][4y] [C++] [gfreivasc/vmthook](https://github.com/gfreivasc/vmthook) Virtual Method Table Hook
-- [**14**星][2m] [C] [hasherezade/loaderine](https://github.com/hasherezade/loaderine) A demo implementation of a well-known technique used by some malware to evade userland hooking, using my library: libpeconv.
-- [**14**星][5m] [C] [manicstreetcoders/appinitglobalhooks-mimikatz](https://github.com/manicstreetcoders/appinitglobalhooks-mimikatz) Hide Mimikatz From Process Lists
-- [**14**星][28d] [JS] [duolingo/pre-commit-hooks](https://github.com/duolingo/pre-commit-hooks) Standardizing our code quality tooling
-- [**12**星][7m] [C++] [mgeeky/prc_xchk](https://github.com/mgeeky/prc_xchk) User-mode process cross-checking utility intended to detect naive malware hiding itself by hooking IAT/EAT.
-- [**11**星][7m] [C] [david-reguera-garcia-dreg/emuhookdetector](https://github.com/david-reguera-garcia-dreg/emuhookdetector) hook detector using emulation and comparing static with dynamic outputs
-- [**11**星][1y] [C++] [scorbutics/iathook](https://github.com/scorbutics/iathook) A library that allows hook any imported function from the IAT (works only in x64)
-- [**10**星][9m] [ObjC] [elegantliar/wechathook](https://github.com/ElegantLiar/WeChatHook) iOS非越狱 逆向微信实现防撤回, 修改步数
-- [**10**星][3m] [C] [u2400/libc_hook_demo](https://github.com/u2400/libc_hook_demo) 一个HIDS agent端的demo
-- [**9**星][9m] [C++] [david-grs/mtrace](https://github.com/david-grs/mtrace) simple c++ hooks around malloc/realloc/free
-- [**8**星][10m] [coolervoid/bank_mitigations](https://github.com/coolervoid/bank_mitigations) Anti keylogger, anti screen logger... Strategy to protect with hookings or improve your sandbox with spyware detection... - Demo
-- [**8**星][2m] [C++] [cyrex1337/hook.lib](https://github.com/cyrex1337/hook.lib) easy detour-, vftable-, iat- and eathooking
-- [**8**星][2m] [C] [david-reguera-garcia-dreg/cgaty](https://github.com/david-reguera-garcia-dreg/cgaty) Hooking the GDT - Installing a Call Gate. POC for Rootkit Arsenal Book Second Edition
-- [**8**星][3y] [C] [hollydi/ring0hook](https://github.com/hollydi/ring0hook) 
-- [**8**星][1y] [Swift] [zhangkn/hookingcmethods](https://github.com/zhangkn/hookingcmethods) Hooking & Executing Code with dlopen & dlsym ---Easy mode:hooking C methods
-- [**7**星][1y] [C++] [codereversing/sehveh_hook](https://github.com/codereversing/sehveh_hook) Hooking functions with structured and vectored exception handling
-- [**7**星][3y] [Java] [fuhuiliu/xposedhooktarget](https://github.com/fuhuiliu/xposedhooktarget) Xposed 插件基础开发之Hook目标
-- [**7**星][8y] [C++] [wyyqyl/hookiat](https://github.com/wyyqyl/hookiat) 
-- [**6**星][6y] [C#] [aristocat/keyhook](https://github.com/aristocat/keyhook) A C# library for general hot keys.
-- [**6**星][5m] [Java] [lailune/slrrmultiplayer](https://github.com/lailune/slrrmultiplayer) Street Legal: Redline hook-based Multiplayer modification
-- [**4**星][3y] [C++] [blaquee/apchook](https://github.com/blaquee/apchook) hooking KiUserApcDispatcher
-- [**4**星][2y] [ObjC] [corzfree/hookwx](https://github.com/corzfree/hookwx) 逆向工具
-- [**4**星][2y] [C++] [m0rtale/universal-wndproc-hook](https://github.com/m0rtale/universal-wndproc-hook) Universal WndProc Hook for x86 and x64
-- [**4**星][1y] [C] [nikolait/chess-com-cheat](https://github.com/nikolait/chess-com-cheat) Library that hooks into PR_Write() and PR_Read() in firefox processes and manipulates WebSocket Messages to cheat on chess.com
-- [**4**星][6y] [C++] [simonberson/chromeurlsniffer](https://github.com/simonberson/chromeurlsniffer) Hook to Chrome Browser URL and show the current URL on simple textbox
-- [**3**星][2y] [ObjC] [susnmos/xituhook](https://github.com/susnmos/xituhook) 逆向分析及修复稀土掘金iOS版客户端闪退bug
-- [**2**星][4m] [Py] [swarren/uboot-test-hooks](https://github.com/swarren/uboot-test-hooks) Example "hook" scripts for the U-Boot test framework
-- [**2**星][2y] [C] [synestraa/archultimate.hooklib](https://github.com/synestraa/archultimate.hooklib) ArchUltimate hook library
-- [**2**星][2m] [C] [carlomara/qemu-ioctl-hooks](https://github.com/carlomara/qemu-ioctl-hooks) Code samples for blog post
-- [**1**星][1y] [TS] [larkintuckerllc/hello-hooks](https://github.com/larkintuckerllc/hello-hooks) 
-- [**1**星][1y] [C++] [smore007/remote-iat-hook](https://github.com/smore007/remote-iat-hook) Remote IAT hook example. Useful for code injection
-- [**1**星][2y] [ObjC] [wpstarnice/hookstatistics](https://github.com/wpstarnice/hookstatistics) 
-- [**1**星][2y] [C++] [zuhhcsg0/nebulahook](https://github.com/zuhhcsg0/nebulahook) 
-- [**1**星][2y] [C] [chocolateboy/b-hooks-op-annotation](https://github.com/chocolateboy/b-hooks-op-annotation) A Perl module which allows XS modules to annotate and delegate hooked OPs
-- [**1**星][5m] [C++] [fireboyd78/d3hook](https://github.com/fireboyd78/d3hook) The magnificent hooking framework for Driv3r.
-- [**0**星][1y] [Rust] [badboy/travis-after-all-rs](https://github.com/badboy/travis-after-all-rs) The missing `after_all_success` hook for Travis
-- [**0**星][2y] [C] [cblack-r7/hashcat-hook](https://github.com/cblack-r7/hashcat-hook) A few LD_PRELOAD hooks to fix specific issues with hashcat
-- [**0**星][2y] [Py] [ciscose/sparkhelper](https://github.com/ciscose/sparkhelper) A few of functions that help with checking that your bot is being used by an approved organization and for verifying the signature of a web hook request.
-- [**0**星][2y] [JS] [yazeedb/responsive-fdt2-hooks](https://github.com/yazeedb/responsive-fdt2-hooks) Created with CodeSandbox
-- [**0**星][10m] [zhulmin/iosapphook](https://github.com/zhulmin/iosapphook) iOS 逆向开发学习笔记
+- ![](https://img.shields.io/github/stars/ionescu007/hookingnirvana)![](https://img.shields.io/github/last-commit/ionescu007/hookingnirvana)![](https://img.shields.io/github/languages/top/ionescu007/hookingnirvana)[ionescu007/hookingnirvana](https://github.com/ionescu007/hookingnirvana) Recon 2015 Presentation from Alex Ionescu
+- ![](https://img.shields.io/github/stars/dzzie/vs_libemu)![](https://img.shields.io/github/last-commit/dzzie/vs_libemu)![](https://img.shields.io/github/languages/top/dzzie/vs_libemu)[dzzie/vs_libemu](https://github.com/dzzie/vs_libemu) Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode.
+- ![](https://img.shields.io/github/stars/oalabs/frida-wshook)![](https://img.shields.io/github/last-commit/oalabs/frida-wshook)![](https://img.shields.io/github/languages/top/oalabs/frida-wshook)[oalabs/frida-wshook](https://github.com/oalabs/frida-wshook) Script analysis tool based on Frida.re
+- ![](https://img.shields.io/github/stars/xpn/ssh-inject)![](https://img.shields.io/github/last-commit/xpn/ssh-inject)![](https://img.shields.io/github/languages/top/xpn/ssh-inject)[xpn/ssh-inject](https://github.com/xpn/ssh-inject) A ptrace POC by hooking SSH to reveal provided passwords
+- ![](https://img.shields.io/github/stars/chokepoint/crypthook)![](https://img.shields.io/github/last-commit/chokepoint/crypthook)![](https://img.shields.io/github/languages/top/chokepoint/crypthook)[chokepoint/crypthook](https://github.com/chokepoint/crypthook) TCP/UDP symmetric encryption tunnel wrapper
+- ![](https://img.shields.io/github/stars/lorenzwalthert/precommit)![](https://img.shields.io/github/last-commit/lorenzwalthert/precommit)![](https://img.shields.io/github/languages/top/lorenzwalthert/precommit)[lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) pre-commit hooks for R projects
+- ![](https://img.shields.io/github/stars/enigmabridge/certbot-external-auth)![](https://img.shields.io/github/last-commit/enigmabridge/certbot-external-auth)![](https://img.shields.io/github/languages/top/enigmabridge/certbot-external-auth)[enigmabridge/certbot-external-auth](https://github.com/enigmabridge/certbot-external-auth) Certbot external DNS, HTTP, TLSSNI domain validation plugin with JSON output and scriptable hooks, with Dehydrated compatibility
+- ![](https://img.shields.io/github/stars/smealum/udsploit)![](https://img.shields.io/github/last-commit/smealum/udsploit)![](https://img.shields.io/github/languages/top/smealum/udsploit)[smealum/udsploit](https://github.com/smealum/udsploit) UDS exploit + kernel hooks for 11.3
+- ![](https://img.shields.io/github/stars/pnigos/hookjs)![](https://img.shields.io/github/last-commit/pnigos/hookjs)![](https://img.shields.io/github/languages/top/pnigos/hookjs)[pnigos/hookjs](https://github.com/pnigos/hookjs) javascript function hook
+- ![](https://img.shields.io/github/stars/cseagle/collabreate)![](https://img.shields.io/github/last-commit/cseagle/collabreate)![](https://img.shields.io/github/languages/top/cseagle/collabreate)[cseagle/collabreate](https://github.com/cseagle/collabreate) Hook IDA的事件通知，将事件涉及的修改内容广播到中心服务器，中心服务器转发给其他分析相同文件的用户
+- ![](https://img.shields.io/github/stars/delphilite/delphihookutils)![](https://img.shields.io/github/last-commit/delphilite/delphihookutils)![](https://img.shields.io/github/languages/top/delphilite/delphihookutils)[delphilite/delphihookutils](https://github.com/delphilite/delphihookutils) Delphi Hooking Library by Lsuper
+- ![](https://img.shields.io/github/stars/dodola/fbhookfork)![](https://img.shields.io/github/last-commit/dodola/fbhookfork)![](https://img.shields.io/github/languages/top/dodola/fbhookfork)[dodola/fbhookfork](https://github.com/dodola/fbhookfork) 从 fb 的 profilo 项目里提取出来的hook 库，自己用
+- ![](https://img.shields.io/github/stars/secrary/hooking-via-instrumentationcallback)![](https://img.shields.io/github/last-commit/secrary/hooking-via-instrumentationcallback)![](https://img.shields.io/github/languages/top/secrary/hooking-via-instrumentationcallback)[secrary/hooking-via-instrumentationcallback](https://github.com/secrary/hooking-via-instrumentationcallback) codes for my blog post:
+- ![](https://img.shields.io/github/stars/hrbust86/hookmsrbysvm)![](https://img.shields.io/github/last-commit/hrbust86/hookmsrbysvm)![](https://img.shields.io/github/languages/top/hrbust86/hookmsrbysvm)[hrbust86/hookmsrbysvm](https://github.com/hrbust86/hookmsrbysvm) hook msr by amd svm
+- ![](https://img.shields.io/github/stars/nektra/vtbl-ida-pro-plugin)![](https://img.shields.io/github/last-commit/nektra/vtbl-ida-pro-plugin)![](https://img.shields.io/github/languages/top/nektra/vtbl-ida-pro-plugin)[nektra/vtbl-ida-pro-plugin](https://github.com/nektra/vtbl-ida-pro-plugin) Identifying Virtual Table Functions using VTBL IDA Pro Plugin + Deviare Hooking Engine
+- ![](https://img.shields.io/github/stars/petrgeorgievsky/gtarenderhook)![](https://img.shields.io/github/last-commit/petrgeorgievsky/gtarenderhook)![](https://img.shields.io/github/languages/top/petrgeorgievsky/gtarenderhook)[petrgeorgievsky/gtarenderhook](https://github.com/petrgeorgievsky/gtarenderhook) GTA SA rendering hook
+- ![](https://img.shields.io/github/stars/zyantific/zyan-hook-engine)![](https://img.shields.io/github/last-commit/zyantific/zyan-hook-engine)![](https://img.shields.io/github/languages/top/zyantific/zyan-hook-engine)[zyantific/zyan-hook-engine](https://github.com/zyantific/zyan-hook-engine) Advanced x86/x86-64 hooking library (WIP).
+- ![](https://img.shields.io/github/stars/bolexliu/apptrack)![](https://img.shields.io/github/last-commit/bolexliu/apptrack)![](https://img.shields.io/github/languages/top/bolexliu/apptrack)[bolexliu/apptrack](https://github.com/bolexliu/apptrack) Xposed HookAPP逆向跟踪工具，跟踪Activity与Fragment启动信息等
+- ![](https://img.shields.io/github/stars/chokepoint/jynx2)![](https://img.shields.io/github/last-commit/chokepoint/jynx2)![](https://img.shields.io/github/languages/top/chokepoint/jynx2)[chokepoint/jynx2](https://github.com/chokepoint/jynx2) JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit. The backdoor has been replaced with an "accept()" system hook.
+- ![](https://img.shields.io/github/stars/changeofpace/mouhidinputhook)![](https://img.shields.io/github/last-commit/changeofpace/mouhidinputhook)![](https://img.shields.io/github/languages/top/changeofpace/mouhidinputhook)[changeofpace/mouhidinputhook](https://github.com/changeofpace/mouhidinputhook) MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
+- ![](https://img.shields.io/github/stars/urshadow/urmem)![](https://img.shields.io/github/last-commit/urshadow/urmem)![](https://img.shields.io/github/languages/top/urshadow/urmem)[urshadow/urmem](https://github.com/urshadow/urmem) C++11 cross-platform library for working with memory (hooks, patches, pointer's wrapper, signature scanner etc.)
+- ![](https://img.shields.io/github/stars/respeak/ts3hook)![](https://img.shields.io/github/last-commit/respeak/ts3hook)![](https://img.shields.io/github/languages/top/respeak/ts3hook)[respeak/ts3hook](https://github.com/respeak/ts3hook) Teamspeak 3 Hook
+- ![](https://img.shields.io/github/stars/genuinetools/upmail)![](https://img.shields.io/github/last-commit/genuinetools/upmail)![](https://img.shields.io/github/languages/top/genuinetools/upmail)[genuinetools/upmail](https://github.com/genuinetools/upmail) Email notification hook for
+- ![](https://img.shields.io/github/stars/indieteur/globalhooks)![](https://img.shields.io/github/last-commit/indieteur/globalhooks)![](https://img.shields.io/github/languages/top/indieteur/globalhooks)[indieteur/globalhooks](https://github.com/indieteur/globalhooks) Allows you to create global keyboard events
+- ![](https://img.shields.io/github/stars/codectile/paradise)![](https://img.shields.io/github/last-commit/codectile/paradise)![](https://img.shields.io/github/languages/top/codectile/paradise)[codectile/paradise](https://github.com/codectile/paradise) x86/x86-64 hooking library
+- ![](https://img.shields.io/github/stars/jbjonesjr/letsencrypt-manual-hook)![](https://img.shields.io/github/last-commit/jbjonesjr/letsencrypt-manual-hook)![](https://img.shields.io/github/languages/top/jbjonesjr/letsencrypt-manual-hook)[jbjonesjr/letsencrypt-manual-hook](https://github.com/jbjonesjr/letsencrypt-manual-hook) Allows you to use dehydrated (a Let's Encrypt/Acme Client) and DNS challenge response with a DNS provider that requires manual intervention
+- ![](https://img.shields.io/github/stars/unixzii/swiftui-hooks)![](https://img.shields.io/github/last-commit/unixzii/swiftui-hooks)![](https://img.shields.io/github/languages/top/unixzii/swiftui-hooks)[unixzii/swiftui-hooks](https://github.com/unixzii/swiftui-hooks) A PoC for implementing hooks in SwiftUI
+- ![](https://img.shields.io/github/stars/malwaretech/fsthook)![](https://img.shields.io/github/last-commit/malwaretech/fsthook)![](https://img.shields.io/github/languages/top/malwaretech/fsthook)[malwaretech/fsthook](https://github.com/malwaretech/fsthook) A library for intercepting native functions by hooking KiFastSystemCall
+- ![](https://img.shields.io/github/stars/stormshadow07/beef-over-wan)![](https://img.shields.io/github/last-commit/stormshadow07/beef-over-wan)![](https://img.shields.io/github/languages/top/stormshadow07/beef-over-wan)[stormshadow07/beef-over-wan](https://github.com/stormshadow07/beef-over-wan) Browser Exploitation Framework is a Open-source penetration testing tool that focuses on browser-based vulnerabilities .This Python Script does the changes Required to make hooked Linked Accessible Over WAN .So anyone can use this framework and Attack Over WAN without Port Forwarding [NGROK or any Localhost to Webhost Service Required ]
+- ![](https://img.shields.io/github/stars/chen-charles/pedetour)![](https://img.shields.io/github/last-commit/chen-charles/pedetour)![](https://img.shields.io/github/languages/top/chen-charles/pedetour)[chen-charles/pedetour](https://github.com/chen-charles/pedetour) modify binary Portable Executable to hook its export functions
+- ![](https://img.shields.io/github/stars/zhuhuibeishadiao/pfhook)![](https://img.shields.io/github/last-commit/zhuhuibeishadiao/pfhook)![](https://img.shields.io/github/languages/top/zhuhuibeishadiao/pfhook)[zhuhuibeishadiao/pfhook](https://github.com/zhuhuibeishadiao/pfhook) Page fault hook use ept (Intel Virtualization Technology)
+- ![](https://img.shields.io/github/stars/breakingmalwareresearch/captain-hook)![](https://img.shields.io/github/last-commit/breakingmalwareresearch/captain-hook)![](https://img.shields.io/github/languages/top/breakingmalwareresearch/captain-hook)[breakingmalwareresearch/captain-hook](https://github.com/breakingmalwareresearch/captain-hook) 
+- ![](https://img.shields.io/github/stars/greywolf007/mobileq750hook)![](https://img.shields.io/github/last-commit/greywolf007/mobileq750hook)![](https://img.shields.io/github/languages/top/greywolf007/mobileq750hook)[greywolf007/mobileq750hook](https://github.com/greywolf007/mobileq750hook) MobileQ750Hook
+- ![](https://img.shields.io/github/stars/jay/gethooks)![](https://img.shields.io/github/last-commit/jay/gethooks)![](https://img.shields.io/github/languages/top/jay/gethooks)[jay/gethooks](https://github.com/jay/gethooks) GetHooks is a program designed for the passive detection and monitoring of hooks from a limited user account.
+- ![](https://img.shields.io/github/stars/safebreach-labs/backdoros)![](https://img.shields.io/github/last-commit/safebreach-labs/backdoros)![](https://img.shields.io/github/languages/top/safebreach-labs/backdoros)[safebreach-labs/backdoros](https://github.com/safebreach-labs/backdoros) backdorOS is an in-memory OS written in Python 2.7 with a built-in in-memory filesystem, hooks for open() calls and imports, Python REPL etc.
+- ![](https://img.shields.io/github/stars/coltonon/reghookex)![](https://img.shields.io/github/last-commit/coltonon/reghookex)![](https://img.shields.io/github/languages/top/coltonon/reghookex)[coltonon/reghookex](https://github.com/coltonon/reghookex) External mid-function hooking method to retrieve register data
+- ![](https://img.shields.io/github/stars/l1nuxdotfun/spacehook)![](https://img.shields.io/github/last-commit/l1nuxdotfun/spacehook)![](https://img.shields.io/github/languages/top/l1nuxdotfun/spacehook)[l1nuxdotfun/spacehook](https://github.com/l1nuxdotfun/spacehook) minecraft premium undeteck cheat!
+- ![](https://img.shields.io/github/stars/dzzie/hookexplorer)![](https://img.shields.io/github/last-commit/dzzie/hookexplorer)![](https://img.shields.io/github/languages/top/dzzie/hookexplorer)[dzzie/hookexplorer](https://github.com/dzzie/hookexplorer) technical tool to analyze a process trying to find various types of runtime hooks. Interface and output is geared torwards security experts. Average users wont be able to decipher its output.
+- ![](https://img.shields.io/github/stars/cr4sh/ptbypass-poc)![](https://img.shields.io/github/last-commit/cr4sh/ptbypass-poc)![](https://img.shields.io/github/languages/top/cr4sh/ptbypass-poc)[cr4sh/ptbypass-poc](https://github.com/cr4sh/ptbypass-poc) Bypassing code hooks detection in modern anti-rootkits via building faked PTE entries.
+- ![](https://img.shields.io/github/stars/gaoding-inc/runtime-hooks)![](https://img.shields.io/github/last-commit/gaoding-inc/runtime-hooks)![](https://img.shields.io/github/languages/top/gaoding-inc/runtime-hooks)[gaoding-inc/runtime-hooks](https://github.com/gaoding-inc/runtime-hooks) 
+- ![](https://img.shields.io/github/stars/killswitch-gui/lterm)![](https://img.shields.io/github/last-commit/killswitch-gui/lterm)![](https://img.shields.io/github/languages/top/killswitch-gui/lterm)[killswitch-gui/lterm](https://github.com/killswitch-gui/lterm) lterm is a small script built to install a bash hook for full terminal logging.
+- ![](https://img.shields.io/github/stars/ntraiseharderror/antihook)![](https://img.shields.io/github/last-commit/ntraiseharderror/antihook)![](https://img.shields.io/github/languages/top/ntraiseharderror/antihook)[ntraiseharderror/antihook](https://github.com/ntraiseharderror/antihook) PoC designed to evade userland-hooking anti-virus.
+- ![](https://img.shields.io/github/stars/dodola/traphook)![](https://img.shields.io/github/last-commit/dodola/traphook)![](https://img.shields.io/github/languages/top/dodola/traphook)[dodola/traphook](https://github.com/dodola/traphook) 
+- ![](https://img.shields.io/github/stars/ganyao114/sandboxhookplugin)![](https://img.shields.io/github/last-commit/ganyao114/sandboxhookplugin)![](https://img.shields.io/github/languages/top/ganyao114/sandboxhookplugin)[ganyao114/sandboxhookplugin](https://github.com/ganyao114/sandboxhookplugin) demo for inject & hook in sandbox
+- ![](https://img.shields.io/github/stars/harvie/libpurple-core-answerscripts)![](https://img.shields.io/github/last-commit/harvie/libpurple-core-answerscripts)![](https://img.shields.io/github/languages/top/harvie/libpurple-core-answerscripts)[harvie/libpurple-core-answerscripts](https://github.com/harvie/libpurple-core-answerscripts) Most-hackable Pidgin plugin! Framework for hooking scripts to respond received messages for various libpurple clients such as pidgin or finch
+- ![](https://img.shields.io/github/stars/roshly/ayyhook-loader)![](https://img.shields.io/github/last-commit/roshly/ayyhook-loader)![](https://img.shields.io/github/languages/top/roshly/ayyhook-loader)[roshly/ayyhook-loader](https://github.com/roshly/ayyhook-loader) A Free Open Source Cheat Loader
+- ![](https://img.shields.io/github/stars/nickcano/reloadlibrary)![](https://img.shields.io/github/last-commit/nickcano/reloadlibrary)![](https://img.shields.io/github/languages/top/nickcano/reloadlibrary)[nickcano/reloadlibrary](https://github.com/nickcano/reloadlibrary) A quick-and-dirty anti-hook library proof of concept.
+- ![](https://img.shields.io/github/stars/eset/volatility-browserhooks)![](https://img.shields.io/github/last-commit/eset/volatility-browserhooks)![](https://img.shields.io/github/languages/top/eset/volatility-browserhooks)[eset/volatility-browserhooks](https://github.com/eset/volatility-browserhooks) Volatility Framework plugin to detect various types of hooks as performed by banking Trojans
+- ![](https://img.shields.io/github/stars/gr2m/before-after-hook)![](https://img.shields.io/github/last-commit/gr2m/before-after-hook)![](https://img.shields.io/github/languages/top/gr2m/before-after-hook)[gr2m/before-after-hook](https://github.com/gr2m/before-after-hook) wrap methods with before/after hooks
+- ![](https://img.shields.io/github/stars/idkwim/frooksinatra)![](https://img.shields.io/github/last-commit/idkwim/frooksinatra)![](https://img.shields.io/github/languages/top/idkwim/frooksinatra)[idkwim/frooksinatra](https://github.com/idkwim/frooksinatra) POC of sysenter x64 LSTAR MSR hook
+- ![](https://img.shields.io/github/stars/rokups/hooker)![](https://img.shields.io/github/last-commit/rokups/hooker)![](https://img.shields.io/github/languages/top/rokups/hooker)[rokups/hooker](https://github.com/rokups/hooker) Minimalistic hooking library written in C
+- ![](https://img.shields.io/github/stars/zjjno/interface-inspector-hook)![](https://img.shields.io/github/last-commit/zjjno/interface-inspector-hook)![](https://img.shields.io/github/languages/top/zjjno/interface-inspector-hook)[zjjno/interface-inspector-hook](https://github.com/zjjno/interface-inspector-hook) Interface Inspector破解
+- ![](https://img.shields.io/github/stars/ayuto/dynamichooks)![](https://img.shields.io/github/last-commit/ayuto/dynamichooks)![](https://img.shields.io/github/languages/top/ayuto/dynamichooks)[ayuto/dynamichooks](https://github.com/ayuto/dynamichooks) A C++ library to create function hooks dynamically, so you can easily embed it into other programming languages..
+- ![](https://img.shields.io/github/stars/hoangprod/leospecial-veh-hook)![](https://img.shields.io/github/last-commit/hoangprod/leospecial-veh-hook)![](https://img.shields.io/github/languages/top/hoangprod/leospecial-veh-hook)[hoangprod/leospecial-veh-hook](https://github.com/hoangprod/leospecial-veh-hook) Vectored Exception Handling Hooking Class
+- ![](https://img.shields.io/github/stars/scorchsecurity/toast)![](https://img.shields.io/github/last-commit/scorchsecurity/toast)![](https://img.shields.io/github/languages/top/scorchsecurity/toast)[scorchsecurity/toast](https://github.com/scorchsecurity/toast) User-mode hook bypassing method
+- ![](https://img.shields.io/github/stars/nododo/hookdouyin)![](https://img.shields.io/github/last-commit/nododo/hookdouyin)![](https://img.shields.io/github/languages/top/nododo/hookdouyin)[nododo/hookdouyin](https://github.com/nododo/hookdouyin) iOS逆向：如何让抖音自动播放下一个视频(懒人癌)
+- ![](https://img.shields.io/github/stars/godtoy/wework-hook-example)![](https://img.shields.io/github/last-commit/godtoy/wework-hook-example)![](https://img.shields.io/github/languages/top/godtoy/wework-hook-example)[godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
+- ![](https://img.shields.io/github/stars/robotn/gohook)![](https://img.shields.io/github/last-commit/robotn/gohook)![](https://img.shields.io/github/languages/top/robotn/gohook)[robotn/gohook](https://github.com/robotn/gohook) GoHook, Go global keyboard and mouse hook
+- ![](https://img.shields.io/github/stars/tr3jer/autohookspider)![](https://img.shields.io/github/last-commit/tr3jer/autohookspider)![](https://img.shields.io/github/languages/top/tr3jer/autohookspider)[tr3jer/autohookspider](https://github.com/tr3jer/autohookspider) 将自动爬虫的结果判断是否属于hooks，并不断抓取url爬啊爬。
+- ![](https://img.shields.io/github/stars/mx-futhark/hook-any-text)![](https://img.shields.io/github/last-commit/mx-futhark/hook-any-text)![](https://img.shields.io/github/languages/top/mx-futhark/hook-any-text)[mx-futhark/hook-any-text](https://github.com/mx-futhark/hook-any-text) The goal of this project is to provide an alternative to well established text hookers, whose features are restrained to a certain number of game engines and emulators.
+- ![](https://img.shields.io/github/stars/strobejb/sslhook)![](https://img.shields.io/github/last-commit/strobejb/sslhook)![](https://img.shields.io/github/languages/top/strobejb/sslhook)[strobejb/sslhook](https://github.com/strobejb/sslhook) OpenSSL hooking
+- ![](https://img.shields.io/github/stars/aixxe/cstrike-basehook-linux)![](https://img.shields.io/github/last-commit/aixxe/cstrike-basehook-linux)![](https://img.shields.io/github/languages/top/aixxe/cstrike-basehook-linux)[aixxe/cstrike-basehook-linux](https://github.com/aixxe/cstrike-basehook-linux) Internal project base for Counter-Strike: Source on Linux.
+- ![](https://img.shields.io/github/stars/kintoandar/pre-commit)![](https://img.shields.io/github/last-commit/kintoandar/pre-commit)![](https://img.shields.io/github/languages/top/kintoandar/pre-commit)[kintoandar/pre-commit](https://github.com/kintoandar/pre-commit) pre-commit hook terraform; pre-commit hook prometheus
+- ![](https://img.shields.io/github/stars/ilyatk/hookengine)![](https://img.shields.io/github/last-commit/ilyatk/hookengine)![](https://img.shields.io/github/languages/top/ilyatk/hookengine)[ilyatk/hookengine](https://github.com/ilyatk/hookengine) 
+- ![](https://img.shields.io/github/stars/nytrorst/hookme)![](https://img.shields.io/github/last-commit/nytrorst/hookme)![](https://img.shields.io/github/languages/top/nytrorst/hookme)[nytrorst/hookme](https://github.com/nytrorst/hookme) Exported from
+- ![](https://img.shields.io/github/stars/bronzeme/ssdt_hook_x64)![](https://img.shields.io/github/last-commit/bronzeme/ssdt_hook_x64)![](https://img.shields.io/github/languages/top/bronzeme/ssdt_hook_x64)[bronzeme/ssdt_hook_x64](https://github.com/bronzeme/ssdt_hook_x64) 
+- ![](https://img.shields.io/github/stars/esss/hookman)![](https://img.shields.io/github/last-commit/esss/hookman)![](https://img.shields.io/github/languages/top/esss/hookman)[esss/hookman](https://github.com/esss/hookman) A plugin management system in python to applications (in totally or partially) written in C++.
+- ![](https://img.shields.io/github/stars/rbeuque74/letsencrypt-ovh-hook)![](https://img.shields.io/github/last-commit/rbeuque74/letsencrypt-ovh-hook)![](https://img.shields.io/github/languages/top/rbeuque74/letsencrypt-ovh-hook)[rbeuque74/letsencrypt-ovh-hook](https://github.com/rbeuque74/letsencrypt-ovh-hook) Let's Encrypt hook for DNS validation for OVH domains
+- ![](https://img.shields.io/github/stars/jyang772/hideprocesshookmdl)![](https://img.shields.io/github/last-commit/jyang772/hideprocesshookmdl)![](https://img.shields.io/github/languages/top/jyang772/hideprocesshookmdl)[jyang772/hideprocesshookmdl](https://github.com/jyang772/hideprocesshookmdl) A simple rootkit to hide a process
+- ![](https://img.shields.io/github/stars/jackuhan/loginhook)![](https://img.shields.io/github/last-commit/jackuhan/loginhook)![](https://img.shields.io/github/languages/top/jackuhan/loginhook)[jackuhan/loginhook](https://github.com/jackuhan/loginhook) xposed的hook案例
+- ![](https://img.shields.io/github/stars/reloaded-project/reloaded.hooks)![](https://img.shields.io/github/last-commit/reloaded-project/reloaded.hooks)![](https://img.shields.io/github/languages/top/reloaded-project/reloaded.hooks)[reloaded-project/reloaded.hooks](https://github.com/reloaded-project/reloaded.hooks) Advanced native function hooks for x86, x64. Welcome to the next level!
+- ![](https://img.shields.io/github/stars/michel-pi/lowlevelinput.net)![](https://img.shields.io/github/last-commit/michel-pi/lowlevelinput.net)![](https://img.shields.io/github/languages/top/michel-pi/lowlevelinput.net)[michel-pi/lowlevelinput.net](https://github.com/michel-pi/lowlevelinput.net) A thread safe and event driven LowLevelMouse and LowLevelKeyboard Hook
+- ![](https://img.shields.io/github/stars/zjjno/cornerstonehook)![](https://img.shields.io/github/last-commit/zjjno/cornerstonehook)![](https://img.shields.io/github/languages/top/zjjno/cornerstonehook)[zjjno/cornerstonehook](https://github.com/zjjno/cornerstonehook) Cornerstone破解
+- ![](https://img.shields.io/github/stars/orndorffgrant/bnhook)![](https://img.shields.io/github/last-commit/orndorffgrant/bnhook)![](https://img.shields.io/github/languages/top/orndorffgrant/bnhook)[orndorffgrant/bnhook](https://github.com/orndorffgrant/bnhook) binary ninja plugin for adding custom hooks to executables
+- ![](https://img.shields.io/github/stars/tongzeyu/hooksysenter)![](https://img.shields.io/github/last-commit/tongzeyu/hooksysenter)![](https://img.shields.io/github/languages/top/tongzeyu/hooksysenter)[tongzeyu/hooksysenter](https://github.com/tongzeyu/hooksysenter) hook sysenter，重载内核，下硬件断点到debugport，防止debugport清零
+- ![](https://img.shields.io/github/stars/kealdishx/swiftloadhook)![](https://img.shields.io/github/last-commit/kealdishx/swiftloadhook)![](https://img.shields.io/github/languages/top/kealdishx/swiftloadhook)[kealdishx/swiftloadhook](https://github.com/kealdishx/SwiftLoadHook) Use a hack way to achieve similar functions as Load() or initialize() in OC
+- ![](https://img.shields.io/github/stars/cynops/frida-hooks)![](https://img.shields.io/github/last-commit/cynops/frida-hooks)![](https://img.shields.io/github/languages/top/cynops/frida-hooks)[cynops/frida-hooks](https://github.com/cynops/frida-hooks) 
+- ![](https://img.shields.io/github/stars/compewter/whoof)![](https://img.shields.io/github/last-commit/compewter/whoof)![](https://img.shields.io/github/languages/top/compewter/whoof)[compewter/whoof](https://github.com/compewter/whoof) Web Browser Hooking Framework. Manage, execute and assess web browser vulnerabilities
+- ![](https://img.shields.io/github/stars/zhuhuibeishadiao/kernelhooksdetection_x64)![](https://img.shields.io/github/last-commit/zhuhuibeishadiao/kernelhooksdetection_x64)![](https://img.shields.io/github/languages/top/zhuhuibeishadiao/kernelhooksdetection_x64)[zhuhuibeishadiao/kernelhooksdetection_x64](https://github.com/zhuhuibeishadiao/kernelhooksdetection_x64) x64 Kernel Hooks Detection
+- ![](https://img.shields.io/github/stars/osrdrivers/penter)![](https://img.shields.io/github/last-commit/osrdrivers/penter)![](https://img.shields.io/github/languages/top/osrdrivers/penter)[osrdrivers/penter](https://github.com/osrdrivers/penter) penter hook example and driver time recorder
+- ![](https://img.shields.io/github/stars/gfreivasc/vmthook)![](https://img.shields.io/github/last-commit/gfreivasc/vmthook)![](https://img.shields.io/github/languages/top/gfreivasc/vmthook)[gfreivasc/vmthook](https://github.com/gfreivasc/vmthook) Virtual Method Table Hook
+- ![](https://img.shields.io/github/stars/hasherezade/loaderine)![](https://img.shields.io/github/last-commit/hasherezade/loaderine)![](https://img.shields.io/github/languages/top/hasherezade/loaderine)[hasherezade/loaderine](https://github.com/hasherezade/loaderine) A demo implementation of a well-known technique used by some malware to evade userland hooking, using my library: libpeconv.
+- ![](https://img.shields.io/github/stars/manicstreetcoders/appinitglobalhooks-mimikatz)![](https://img.shields.io/github/last-commit/manicstreetcoders/appinitglobalhooks-mimikatz)![](https://img.shields.io/github/languages/top/manicstreetcoders/appinitglobalhooks-mimikatz)[manicstreetcoders/appinitglobalhooks-mimikatz](https://github.com/manicstreetcoders/appinitglobalhooks-mimikatz) Hide Mimikatz From Process Lists
+- ![](https://img.shields.io/github/stars/duolingo/pre-commit-hooks)![](https://img.shields.io/github/last-commit/duolingo/pre-commit-hooks)![](https://img.shields.io/github/languages/top/duolingo/pre-commit-hooks)[duolingo/pre-commit-hooks](https://github.com/duolingo/pre-commit-hooks) Standardizing our code quality tooling
+- ![](https://img.shields.io/github/stars/mgeeky/prc_xchk)![](https://img.shields.io/github/last-commit/mgeeky/prc_xchk)![](https://img.shields.io/github/languages/top/mgeeky/prc_xchk)[mgeeky/prc_xchk](https://github.com/mgeeky/prc_xchk) User-mode process cross-checking utility intended to detect naive malware hiding itself by hooking IAT/EAT.
+- ![](https://img.shields.io/github/stars/david-reguera-garcia-dreg/emuhookdetector)![](https://img.shields.io/github/last-commit/david-reguera-garcia-dreg/emuhookdetector)![](https://img.shields.io/github/languages/top/david-reguera-garcia-dreg/emuhookdetector)[david-reguera-garcia-dreg/emuhookdetector](https://github.com/david-reguera-garcia-dreg/emuhookdetector) hook detector using emulation and comparing static with dynamic outputs
+- ![](https://img.shields.io/github/stars/scorbutics/iathook)![](https://img.shields.io/github/last-commit/scorbutics/iathook)![](https://img.shields.io/github/languages/top/scorbutics/iathook)[scorbutics/iathook](https://github.com/scorbutics/iathook) A library that allows hook any imported function from the IAT (works only in x64)
+- ![](https://img.shields.io/github/stars/elegantliar/wechathook)![](https://img.shields.io/github/last-commit/elegantliar/wechathook)![](https://img.shields.io/github/languages/top/elegantliar/wechathook)[elegantliar/wechathook](https://github.com/ElegantLiar/WeChatHook) iOS非越狱 逆向微信实现防撤回, 修改步数
+- ![](https://img.shields.io/github/stars/u2400/libc_hook_demo)![](https://img.shields.io/github/last-commit/u2400/libc_hook_demo)![](https://img.shields.io/github/languages/top/u2400/libc_hook_demo)[u2400/libc_hook_demo](https://github.com/u2400/libc_hook_demo) 一个HIDS agent端的demo
+- ![](https://img.shields.io/github/stars/david-grs/mtrace)![](https://img.shields.io/github/last-commit/david-grs/mtrace)![](https://img.shields.io/github/languages/top/david-grs/mtrace)[david-grs/mtrace](https://github.com/david-grs/mtrace) simple c++ hooks around malloc/realloc/free
+- ![](https://img.shields.io/github/stars/coolervoid/bank_mitigations)![](https://img.shields.io/github/last-commit/coolervoid/bank_mitigations)![](https://img.shields.io/github/languages/top/coolervoid/bank_mitigations)[coolervoid/bank_mitigations](https://github.com/coolervoid/bank_mitigations) Anti keylogger, anti screen logger... Strategy to protect with hookings or improve your sandbox with spyware detection... - Demo
+- ![](https://img.shields.io/github/stars/cyrex1337/hook.lib)![](https://img.shields.io/github/last-commit/cyrex1337/hook.lib)![](https://img.shields.io/github/languages/top/cyrex1337/hook.lib)[cyrex1337/hook.lib](https://github.com/cyrex1337/hook.lib) easy detour-, vftable-, iat- and eathooking
+- ![](https://img.shields.io/github/stars/david-reguera-garcia-dreg/cgaty)![](https://img.shields.io/github/last-commit/david-reguera-garcia-dreg/cgaty)![](https://img.shields.io/github/languages/top/david-reguera-garcia-dreg/cgaty)[david-reguera-garcia-dreg/cgaty](https://github.com/david-reguera-garcia-dreg/cgaty) Hooking the GDT - Installing a Call Gate. POC for Rootkit Arsenal Book Second Edition
+- ![](https://img.shields.io/github/stars/hollydi/ring0hook)![](https://img.shields.io/github/last-commit/hollydi/ring0hook)![](https://img.shields.io/github/languages/top/hollydi/ring0hook)[hollydi/ring0hook](https://github.com/hollydi/ring0hook) 
+- ![](https://img.shields.io/github/stars/zhangkn/hookingcmethods)![](https://img.shields.io/github/last-commit/zhangkn/hookingcmethods)![](https://img.shields.io/github/languages/top/zhangkn/hookingcmethods)[zhangkn/hookingcmethods](https://github.com/zhangkn/hookingcmethods) Hooking & Executing Code with dlopen & dlsym ---Easy mode:hooking C methods
+- ![](https://img.shields.io/github/stars/codereversing/sehveh_hook)![](https://img.shields.io/github/last-commit/codereversing/sehveh_hook)![](https://img.shields.io/github/languages/top/codereversing/sehveh_hook)[codereversing/sehveh_hook](https://github.com/codereversing/sehveh_hook) Hooking functions with structured and vectored exception handling
+- ![](https://img.shields.io/github/stars/fuhuiliu/xposedhooktarget)![](https://img.shields.io/github/last-commit/fuhuiliu/xposedhooktarget)![](https://img.shields.io/github/languages/top/fuhuiliu/xposedhooktarget)[fuhuiliu/xposedhooktarget](https://github.com/fuhuiliu/xposedhooktarget) Xposed 插件基础开发之Hook目标
+- ![](https://img.shields.io/github/stars/wyyqyl/hookiat)![](https://img.shields.io/github/last-commit/wyyqyl/hookiat)![](https://img.shields.io/github/languages/top/wyyqyl/hookiat)[wyyqyl/hookiat](https://github.com/wyyqyl/hookiat) 
+- ![](https://img.shields.io/github/stars/aristocat/keyhook)![](https://img.shields.io/github/last-commit/aristocat/keyhook)![](https://img.shields.io/github/languages/top/aristocat/keyhook)[aristocat/keyhook](https://github.com/aristocat/keyhook) A C# library for general hot keys.
+- ![](https://img.shields.io/github/stars/lailune/slrrmultiplayer)![](https://img.shields.io/github/last-commit/lailune/slrrmultiplayer)![](https://img.shields.io/github/languages/top/lailune/slrrmultiplayer)[lailune/slrrmultiplayer](https://github.com/lailune/slrrmultiplayer) Street Legal: Redline hook-based Multiplayer modification
+- ![](https://img.shields.io/github/stars/blaquee/apchook)![](https://img.shields.io/github/last-commit/blaquee/apchook)![](https://img.shields.io/github/languages/top/blaquee/apchook)[blaquee/apchook](https://github.com/blaquee/apchook) hooking KiUserApcDispatcher
+- ![](https://img.shields.io/github/stars/corzfree/hookwx)![](https://img.shields.io/github/last-commit/corzfree/hookwx)![](https://img.shields.io/github/languages/top/corzfree/hookwx)[corzfree/hookwx](https://github.com/corzfree/hookwx) 逆向工具
+- ![](https://img.shields.io/github/stars/m0rtale/universal-wndproc-hook)![](https://img.shields.io/github/last-commit/m0rtale/universal-wndproc-hook)![](https://img.shields.io/github/languages/top/m0rtale/universal-wndproc-hook)[m0rtale/universal-wndproc-hook](https://github.com/m0rtale/universal-wndproc-hook) Universal WndProc Hook for x86 and x64
+- ![](https://img.shields.io/github/stars/nikolait/chess-com-cheat)![](https://img.shields.io/github/last-commit/nikolait/chess-com-cheat)![](https://img.shields.io/github/languages/top/nikolait/chess-com-cheat)[nikolait/chess-com-cheat](https://github.com/nikolait/chess-com-cheat) Library that hooks into PR_Write() and PR_Read() in firefox processes and manipulates WebSocket Messages to cheat on chess.com
+- ![](https://img.shields.io/github/stars/simonberson/chromeurlsniffer)![](https://img.shields.io/github/last-commit/simonberson/chromeurlsniffer)![](https://img.shields.io/github/languages/top/simonberson/chromeurlsniffer)[simonberson/chromeurlsniffer](https://github.com/simonberson/chromeurlsniffer) Hook to Chrome Browser URL and show the current URL on simple textbox
+- ![](https://img.shields.io/github/stars/susnmos/xituhook)![](https://img.shields.io/github/last-commit/susnmos/xituhook)![](https://img.shields.io/github/languages/top/susnmos/xituhook)[susnmos/xituhook](https://github.com/susnmos/xituhook) 逆向分析及修复稀土掘金iOS版客户端闪退bug
+- ![](https://img.shields.io/github/stars/swarren/uboot-test-hooks)![](https://img.shields.io/github/last-commit/swarren/uboot-test-hooks)![](https://img.shields.io/github/languages/top/swarren/uboot-test-hooks)[swarren/uboot-test-hooks](https://github.com/swarren/uboot-test-hooks) Example "hook" scripts for the U-Boot test framework
+- ![](https://img.shields.io/github/stars/synestraa/archultimate.hooklib)![](https://img.shields.io/github/last-commit/synestraa/archultimate.hooklib)![](https://img.shields.io/github/languages/top/synestraa/archultimate.hooklib)[synestraa/archultimate.hooklib](https://github.com/synestraa/archultimate.hooklib) ArchUltimate hook library
+- ![](https://img.shields.io/github/stars/carlomara/qemu-ioctl-hooks)![](https://img.shields.io/github/last-commit/carlomara/qemu-ioctl-hooks)![](https://img.shields.io/github/languages/top/carlomara/qemu-ioctl-hooks)[carlomara/qemu-ioctl-hooks](https://github.com/carlomara/qemu-ioctl-hooks) Code samples for blog post
+- ![](https://img.shields.io/github/stars/larkintuckerllc/hello-hooks)![](https://img.shields.io/github/last-commit/larkintuckerllc/hello-hooks)![](https://img.shields.io/github/languages/top/larkintuckerllc/hello-hooks)[larkintuckerllc/hello-hooks](https://github.com/larkintuckerllc/hello-hooks) 
+- ![](https://img.shields.io/github/stars/smore007/remote-iat-hook)![](https://img.shields.io/github/last-commit/smore007/remote-iat-hook)![](https://img.shields.io/github/languages/top/smore007/remote-iat-hook)[smore007/remote-iat-hook](https://github.com/smore007/remote-iat-hook) Remote IAT hook example. Useful for code injection
+- ![](https://img.shields.io/github/stars/wpstarnice/hookstatistics)![](https://img.shields.io/github/last-commit/wpstarnice/hookstatistics)![](https://img.shields.io/github/languages/top/wpstarnice/hookstatistics)[wpstarnice/hookstatistics](https://github.com/wpstarnice/hookstatistics) 
+- ![](https://img.shields.io/github/stars/zuhhcsg0/nebulahook)![](https://img.shields.io/github/last-commit/zuhhcsg0/nebulahook)![](https://img.shields.io/github/languages/top/zuhhcsg0/nebulahook)[zuhhcsg0/nebulahook](https://github.com/zuhhcsg0/nebulahook) 
+- ![](https://img.shields.io/github/stars/chocolateboy/b-hooks-op-annotation)![](https://img.shields.io/github/last-commit/chocolateboy/b-hooks-op-annotation)![](https://img.shields.io/github/languages/top/chocolateboy/b-hooks-op-annotation)[chocolateboy/b-hooks-op-annotation](https://github.com/chocolateboy/b-hooks-op-annotation) A Perl module which allows XS modules to annotate and delegate hooked OPs
+- ![](https://img.shields.io/github/stars/fireboyd78/d3hook)![](https://img.shields.io/github/last-commit/fireboyd78/d3hook)![](https://img.shields.io/github/languages/top/fireboyd78/d3hook)[fireboyd78/d3hook](https://github.com/fireboyd78/d3hook) The magnificent hooking framework for Driv3r.
+- ![](https://img.shields.io/github/stars/badboy/travis-after-all-rs)![](https://img.shields.io/github/last-commit/badboy/travis-after-all-rs)![](https://img.shields.io/github/languages/top/badboy/travis-after-all-rs)[badboy/travis-after-all-rs](https://github.com/badboy/travis-after-all-rs) The missing `after_all_success` hook for Travis
+- ![](https://img.shields.io/github/stars/cblack-r7/hashcat-hook)![](https://img.shields.io/github/last-commit/cblack-r7/hashcat-hook)![](https://img.shields.io/github/languages/top/cblack-r7/hashcat-hook)[cblack-r7/hashcat-hook](https://github.com/cblack-r7/hashcat-hook) A few LD_PRELOAD hooks to fix specific issues with hashcat
+- ![](https://img.shields.io/github/stars/ciscose/sparkhelper)![](https://img.shields.io/github/last-commit/ciscose/sparkhelper)![](https://img.shields.io/github/languages/top/ciscose/sparkhelper)[ciscose/sparkhelper](https://github.com/ciscose/sparkhelper) A few of functions that help with checking that your bot is being used by an approved organization and for verifying the signature of a web hook request.
+- ![](https://img.shields.io/github/stars/yazeedb/responsive-fdt2-hooks)![](https://img.shields.io/github/last-commit/yazeedb/responsive-fdt2-hooks)![](https://img.shields.io/github/languages/top/yazeedb/responsive-fdt2-hooks)[yazeedb/responsive-fdt2-hooks](https://github.com/yazeedb/responsive-fdt2-hooks) Created with CodeSandbox
+- ![](https://img.shields.io/github/stars/zhulmin/iosapphook)![](https://img.shields.io/github/last-commit/zhulmin/iosapphook)![](https://img.shields.io/github/languages/top/zhulmin/iosapphook)[zhulmin/iosapphook](https://github.com/zhulmin/iosapphook) iOS 逆向开发学习笔记
 - [**0**星][1y] [shell] [keychest/certbot-hooks](https://gitlab.com/keychest/certbot-hooks) 
-- [**0**星][5y] [Py] [nikseetharaman/grapplinghook](https://github.com/nikseetharaman/grapplinghook) Open Source 802.11 Direction Finder
-- [**None**星][C] [tandasat/uefivarmonitor](https://github.com/tandasat/uefivarmonitor) The runtime DXE driver monitoring access to the UEFI variables by hooking the runtime service table.
-- [**None**星][C] [shoumikhin/elf-hook](https://github.com/shoumikhin/elf-hook) ELF shared library import table patching for function redirection.
+- ![](https://img.shields.io/github/stars/nikseetharaman/grapplinghook)![](https://img.shields.io/github/last-commit/nikseetharaman/grapplinghook)![](https://img.shields.io/github/languages/top/nikseetharaman/grapplinghook)[nikseetharaman/grapplinghook](https://github.com/nikseetharaman/grapplinghook) Open Source 802.11 Direction Finder
+- ![](https://img.shields.io/github/stars/tandasat/uefivarmonitor)![](https://img.shields.io/github/last-commit/tandasat/uefivarmonitor)![](https://img.shields.io/github/languages/top/tandasat/uefivarmonitor)[tandasat/uefivarmonitor](https://github.com/tandasat/uefivarmonitor) The runtime DXE driver monitoring access to the UEFI variables by hooking the runtime service table.
+- ![](https://img.shields.io/github/stars/shoumikhin/elf-hook)![](https://img.shields.io/github/last-commit/shoumikhin/elf-hook)![](https://img.shields.io/github/languages/top/shoumikhin/elf-hook)[shoumikhin/elf-hook](https://github.com/shoumikhin/elf-hook) ELF shared library import table patching for function redirection.
 
 
 ***
