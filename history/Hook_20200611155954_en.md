@@ -1,0 +1,1238 @@
+# [All Resource Collection Projects](https://github.com/alphaSeclab/all-my-collection-repos)
+
+
+
+
+# Hook
+
+
+- Resources About Hooking. For All Platforms. Currently 300+ Tools And 600+ Posts.
+
+
+# Directory
+- [Famous Tools](#cd57259c3562b0afd9a1c3026a7ecd7e)
+    - [Dobby](#9bf725c62803a4877a95f525e70ce5e3) ->  [(3)Tools](#e390d017c1017bd46d5b8f507f4fd3d4) [(1)Post](#a6d72ef4ede162a0e30a685e175f2826)
+    - [plthook](#15cdec8cb002f8ac99ef3dcc1905c31b) ->  [(1)Tools](#f89154bf4fc7bf4ac333dee2e5607daf)
+    - [subhook](#86a3d67feb05552e77c8b774dc57de62) ->  [(1)Tools](#c7bfc210dbe57d25b9baf46192752a01)
+    - [whale](#675d005d1740764eecb241c8a2515d09) ->  [(1)Tools](#3a82377770a448ca429284ae19705f26) [(1)Post](#629a4ee63f97fce67c975b8233abe80e)
+- [D3DX-Hook](#b96702df6276c1710be6ac1c80470e65) ->  [(8)Tools](#48300d28294339433ac82b8bf4d4e92d) [(6)Post](#8021f4f590783d775f8f069b3ec008cd)
+- [Frida-Hook](#2f3945b6dcf2f680ab3dd411f7cf55db) ->  [(1)Tools](#cb77f15c966122a0eb36fe507c30aaad) [(15)Post](#0709e7fb4ad72abead5a52b39b8f6a71)
+- [Windows](#c48a16a5b0823472a010871aaf137a85)
+    - [monohook](#dcb071991b85cc82193025c458a2288b) ->  [(1)Tools](#0817c7b6f8e2736c66ac897160dc5261)
+    - [hyperbone](#cf76cb74fff06bbd90a29192699e20f0) ->  [(1)Tools](#cf17acbb8d83d3aeab4fed2cf014b472)
+    - [ddimon](#b2f70259224bfcff828ac54f3793a0a8) ->  [(1)Tools](#de81c2eee0069fbb8fe9f5f7a3ce0c27)
+    - [mhook](#8cebc34acc094d48b061564dfbe4328c) ->  [(1)Tools](#11194fc0dfeb5506639f48de0126e5d0) [(2)Post](#36cb78dc5ece1c2e8a2bba7a2b0a1bd1)
+    - [polyhook](#abbb4e134c358ca2fcdd4e524cd44f02) ->  [(2)Tools](#eaca31f967862193af27a292a1959525)
+    - [infinityhook](#890e3a0a7affe48952ead1c5f9490230) ->  [(1)Tools](#1844eec4bf3a1b4a68744703c1c202bd)
+    - [minhook](#b0d377398f50d8f7f9dc60743cfa13aa) ->  [(2)Tools](#4c9a8a35ade52fd64f16972e8a68e7a1) [(3)Post](#ea2742d39ff1bed30b7ce35ad808092f)
+    - [easyhook](#bc0813625ad5afdae8b42a1bd9a1c2b4) ->  [(3)Tools](#26f3fd90e7a78bbaf089137ef7901377) [(2)Post](#4a7346bc13f522e8bd1894839c0c4c0c)
+    - [.NET](#48f1c50fcb7495c630a34fc337a4b849) ->  [(8)Tools](#857e1dfab2c44af2da91032978f0e96e)
+    - [SSDT](#8e95ee1b5fe838ffe5dda1ce8d8b6571) ->  [(6)Tools](#da32ea71d0410c1420a86770a9fb1f0e) [(34)Post](#72b0e23ec112768033b81f42656993ab)
+    - [(48) Tools](#ef463ddf9e70b545120d01849ef666a6)
+    - [(45) Post](#ad5138ec5ace48809894ffc5f123aba1)
+- [Linux](#07584676bf0d2adc54dd9a0f3d6dc6e5) ->  [(9)Tools](#eecd435d6139119987877979e29bdb2f) [(19)Post](#c38b81500d0fc9abb6372b1aada01f6f)
+- [Apple](#55f6189e26849b3daab8d76f5ec868a3)
+    - [inspectivec](#ab912772028a97555413c805be41abf9) ->  [(1)Tools](#dff0566feeb6e321cd31dacf9478d6a4)
+    - [captainhook](#22eb97e050393fadd7cc2da6f2527f1a) ->  [(1)Tools](#04bfe6387f61b8e07170308f8e20c115)
+    - [blockhook](#d22ce067c1e37bf1f5baedc3c18da5ff) ->  [(1)Tools](#8cd390f72bbe10e26acde30ec42a6ddc)
+    - [(8) Tools](#676bba5c840ee8156270bfcfc7d3b8d7)
+    - [(3) Post](#67bd4e3298b9ff41a21101e72c42eacf)
+- [Android](#3b35513a318dec7ac14c68173ecb9917)
+    - [Hook Position](#0fe82d44aced7fdbce0650cdf39d6b3c)
+        - [ART](#8a817e4fd91c0fb1531fcb994f18f6bf)
+            - [arthook](#7ce2be9bdcec22ae34192de162b5a16b) ->  [(1)Tools](#ec2ec694a999a8a6adaf029a8214482b) [(1)Post](#8b82f2cb117fe12ab5b8549cda424ead)
+            - [fasthook](#84050c37e997fa469d0bf2957740a26c) ->  [(2)Tools](#53605f8fe273227cfce6efb53f03ca5e)
+            - [edxposed](#a45596ac8a32884286decc3776dcc87a) ->  [(1)Tools](#b59634d15e0ff36530f26ea15ea14140)
+            - [yahfa](#e2d57f2f714c3398c5c3221f358a2bbc) ->  [(2)Tools](#617d992e3d5935e3f073489a6865f5bd) [(1)Post](#ff04a5c958e269af7eda93865680b8bf)
+        - [Substrate](#41c619b27a528b1fc4cf0e9881138d43)
+            - [hooker](#b27b46d6dd521ca0cbd8b0e985adf3b3) ->  [(1)Tools](#9cc593bb0fe4379f156c960ed57ddefc)
+    - [virtualhook](#4fb6e68ab88d70a5ba21daf3c748ab24) ->  [(2)Tools](#dc029a697388c8dd11166dc05b480af9) [(1)Post](#e1069bd619235ef63f0368c80dafe8a2)
+    - [sandhook](#77a4aa2e2f0a0b96f53bf6d73a9ed9a4) ->  [(1)Tools](#dd815766c5929bf9c831a10b0536b71e)
+    - [legend](#e1663df22437eac2082e12d2f43e0551) ->  [(1)Tools](#34f6f6cbec589ef696d862b8dd0b65f2)
+    - [xhook](#a7aba8e3ae6bc49848404294d1e1daf7) ->  [(1)Tools](#4b802273fcf67d94de34201135d7cf89)
+    - [androideagleeye](#b6226b7a5a4605934b0a6a9ab254f186) ->  [(1)Tools](#a1419c0af296c66e60c2a5dff3d7beca)
+    - [(35) Tools](#b7f01a8ca7061e6830e56a6e7edd30c3)
+    - [(42) Post](#567c92c6319c66711d6ce7ee6d34e7d7)
+- [Recent Add](#98fa503ca20e92cdf59d1c51249179a8)
+    - [Inline-Hook](#1f8ec021509b7b6b6b5d62550e386e6c) ->  [(8)Tools](#68ea699ec15a70060fc9c55191338622) [(52)Post](#0b51581a821919d41ac0b4007e6ef111)
+    - [Syscall-Hook](#16975a6e29db4c54e804c508371cd6f3) ->  [(1)Tools](#de570f6a46cf4ddf63da1d1d29ae6131) [(1)Post](#e6332e820833c39bfb6ca86591a77c12)
+    - [API-Hook](#80ef1878ee5cd38df30c0f1f2fe9daeb) ->  [(15)Tools](#796594632db41e5771e98ccbf3687c40) [(61)Post](#288c7565062613f05da93653dd81e710)
+    - [Un-Hook](#1030267e24ee5e3747b0876023f4f925) ->  [(2)Tools](#9402ee22b3361f18eac675a3d700b08f) [(3)Post](#5b9e84f7909d65e65242b7ed92df88eb)
+    - [(146) Tools](#a59a8c7582765d7653d4ef05cfde9ee0)
+    - [(349) Post](#35bcd6dfdf8eb61a1c5f41cf90eed31f)
+
+
+# <a id="cd57259c3562b0afd9a1c3026a7ecd7e"></a>Famous Tools
+
+
+***
+
+
+## <a id="9bf725c62803a4877a95f525e70ce5e3"></a>Dobby
+
+
+### <a id="e390d017c1017bd46d5b8f507f4fd3d4"></a>Tools
+
+
+- [**1688**Star][28d] [C++] [jmpews/dobby](https://github.com/jmpews/Dobby) a lightweight, multi-platform, multi-architecture hook framework.
+- [**316**Star][4m] [ObjC] [jmpews/hookzzmodules](https://github.com/jmpews/hookzzmodules) modules deps on HookZz framework.
+- [**67**Star][30d] [C] [luoyanbei/testhookzz](https://github.com/luoyanbei/testhookzz) iOS逆向：使用HookZz框架hook游戏“我的战争”，进入上帝模式
+
+
+### <a id="a6d72ef4ede162a0e30a685e175f2826"></a>Post
+
+
+
+
+
+
+***
+
+
+## <a id="15cdec8cb002f8ac99ef3dcc1905c31b"></a>plthook
+
+
+### <a id="f89154bf4fc7bf4ac333dee2e5607daf"></a>Tools
+
+
+- [**283**Star][28d] [C] [kubo/plthook](https://github.com/kubo/plthook) Hook function calls by replacing PLT(Procedure Linkage Table) entries.
+
+
+
+
+***
+
+
+## <a id="86a3d67feb05552e77c8b774dc57de62"></a>subhook
+
+
+### <a id="c7bfc210dbe57d25b9baf46192752a01"></a>Tools
+
+
+- [**385**Star][1m] [C] [zeex/subhook](https://github.com/zeex/subhook) Simple hooking library for C/C++ (x86 only, 32/64-bit, no dependencies)
+
+
+
+
+***
+
+
+## <a id="675d005d1740764eecb241c8a2515d09"></a>whale
+
+
+### <a id="3a82377770a448ca429284ae19705f26"></a>Tools
+
+
+- [**917**Star][26d] [C++] [aslody/whale](https://github.com/aslody/whale) Hook Framework for Android/IOS/Linux/MacOS
+
+
+### <a id="629a4ee63f97fce67c975b8233abe80e"></a>Post
+
+
+
+
+
+
+# <a id="b96702df6276c1710be6ac1c80470e65"></a>D3DX-Hook
+
+
+***
+
+
+## <a id="48300d28294339433ac82b8bf4d4e92d"></a>Tools
+
+
+- [**203**Star][28d] [C++] [rebzzel/kiero](https://github.com/rebzzel/kiero) Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
+- [**59**Star][2m] [C++] [codereversing/directx9hook](https://github.com/codereversing/directx9hook) Runtime DirectX9 Hooking
+- [**52**Star][11m] [C++] [gaypig/directx11-hook-with-discord](https://github.com/gaypig/directx11-hook-with-discord) DirectX11 hook with discord
+- [**40**Star][4m] [C++] [rebzzel/universal-d3d11-hook](https://github.com/rebzzel/universal-d3d11-hook) Universal hook for DX11 based games written in C++
+- [**37**Star][4m] [C++] [niemand-sec/directx11hook](https://github.com/niemand-sec/directx11hook) Hooking Game Graphic Engines!
+- [**11**Star][4m] [C++] [guided-hacking/gh_d3d11_hook](https://github.com/guided-hacking/gh_d3d11_hook) Barebones D3D11 hook.
+- [**5**Star][1y] [C++] [nexus-devs/nexus-hook](https://github.com/nexus-devs/nexus-hook) Hooking functionality for DirectX11 applications
+- [**0**Star][3m] [Lua] [yungtry/gtasa-d3dhook](https://github.com/yungtry/gtasa-d3dhook) Directx hook GTA:SA via Cheat Engine
+
+
+***
+
+
+## <a id="8021f4f590783d775f8f069b3ec008cd"></a>Post
+
+
+- 2015.12 [codereversing] [Runtime DirectX Hooking](http://www.codereversing.com/blog/archives/282)
+
+
+# <a id="2f3945b6dcf2f680ab3dd411f7cf55db"></a>Frida-Hook
+
+
+***
+
+
+## <a id="cb77f15c966122a0eb36fe507c30aaad"></a>Tools
+
+
+- [**76**Star][2m] [Py] [hamz-a/jeb2frida](https://github.com/hamz-a/jeb2frida) Automated Frida hook generation with JEB
+
+
+***
+
+
+## <a id="0709e7fb4ad72abead5a52b39b8f6a71"></a>Post
+
+
+- 2020.04 [wundercontrol] [[Android] Hooking void method - Frida](https://www.youtube.com/watch?v=ArWOZJRE-jU)
+- 2019.11 [securify] [Android Frida hooking: disabling FLAG_SECURE](https://www.securify.nl/en/blog/SFY20191103/android-frida-hooking_-disabling-flag_secure.html)
+- 2019.10 [securify] [Automated Frida hook generation with JEB](https://www.securify.nl/en/blog/SFY20191006/automated-frida-hook-generation-with-jeb.html)
+- 2019.01 [fuzzysecurity] [Application Introspection & Hooking With Frida](http://fuzzysecurity.com/tutorials/29.html)
+- 2017.08 [notsosecure] [Instrumenting Native Android Functions using Frida](https://www.notsosecure.com/instrumenting-native-android-functions-using-frida/)
+
+
+# <a id="c48a16a5b0823472a010871aaf137a85"></a>Windows
+
+
+***
+
+
+## <a id="dcb071991b85cc82193025c458a2288b"></a>monohook
+
+
+### <a id="0817c7b6f8e2736c66ac897160dc5261"></a>Tools
+
+
+- [**269**Star][30d] [C#] [misaka-mikoto-tech/monohook](https://github.com/Misaka-Mikoto-Tech/MonoHook) hook C# method at runtime without modify dll file (such as UnityEditor.dll)
+
+
+
+
+***
+
+
+## <a id="cf76cb74fff06bbd90a29192699e20f0"></a>hyperbone
+
+
+### <a id="cf17acbb8d83d3aeab4fed2cf014b472"></a>Tools
+
+
+- [**423**Star][1y] [C] [darthton/hyperbone](https://github.com/darthton/hyperbone) Minimalistic VT-x hypervisor with hooks
+
+
+
+
+***
+
+
+## <a id="b2f70259224bfcff828ac54f3793a0a8"></a>ddimon
+
+
+### <a id="de81c2eee0069fbb8fe9f5f7a3ce0c27"></a>Tools
+
+
+- [**512**Star][2y] [C++] [tandasat/ddimon](https://github.com/tandasat/ddimon) Monitoring and controlling kernel API calls with stealth hook using EPT
+
+
+
+
+***
+
+
+## <a id="8cebc34acc094d48b061564dfbe4328c"></a>mhook
+
+
+### <a id="11194fc0dfeb5506639f48de0126e5d0"></a>Tools
+
+
+- [**512**Star][30d] [C] [martona/mhook](https://github.com/martona/mhook) A Windows API hooking library
+
+
+### <a id="36cb78dc5ece1c2e8a2bba7a2b0a1bd1"></a>Post
+
+
+- 2017.11 [apriorit] [Mhook Enhancements: 10x Speed Improvement and Other Fixes](https://www.apriorit.com/dev-blog/469-mhook-enhancements)
+
+
+
+
+***
+
+
+## <a id="abbb4e134c358ca2fcdd4e524cd44f02"></a>polyhook
+
+
+### <a id="eaca31f967862193af27a292a1959525"></a>Tools
+
+
+- [**646**Star][9m] [C++] [stevemk14ebr/polyhook](https://github.com/stevemk14ebr/polyhook) x86/x64 C++ Hooking Library
+- [**515**Star][27d] [C++] [stevemk14ebr/polyhook_2_0](https://github.com/stevemk14ebr/polyhook_2_0) C++17, x86/x64 Hooking Libary v2.0
+
+
+
+
+***
+
+
+## <a id="890e3a0a7affe48952ead1c5f9490230"></a>infinityhook
+
+
+### <a id="1844eec4bf3a1b4a68744703c1c202bd"></a>Tools
+
+
+- [**1079**Star][4m] [C++] [everdox/infinityhook](https://github.com/everdox/infinityhook) Hook system calls, context switches, page faults and more.
+
+
+
+
+***
+
+
+## <a id="b0d377398f50d8f7f9dc60743cfa13aa"></a>minhook
+
+
+### <a id="4c9a8a35ade52fd64f16972e8a68e7a1"></a>Tools
+
+
+- [**1364**Star][28d] [C] [tsudakageyu/minhook](https://github.com/tsudakageyu/minhook) The Minimalistic x86/x64 API Hooking Library for Windows
+- [**28**Star][2y] [C] [sentinel-one/minhook](https://github.com/sentinel-one/minhook) The Minimalistic x86/x64 API Hooking Library for Windows
+
+
+### <a id="ea2742d39ff1bed30b7ce35ad808092f"></a>Post
+
+
+
+
+
+
+***
+
+
+## <a id="bc0813625ad5afdae8b42a1bd9a1c2b4"></a>easyhook
+
+
+### <a id="26f3fd90e7a78bbaf089137ef7901377"></a>Tools
+
+
+- [**1707**Star][1y] [C] [easyhook/easyhook](https://github.com/easyhook/easyhook) The reinvention of Windows API Hooking
+- [**67**Star][27d] [C#] [easyhook/easyhook-tutorials](https://github.com/easyhook/easyhook-tutorials) Contains the source code for the EasyHook tutorials found at
+- [**14**Star][5m] [C#] [ulysseswu/vinjex](https://github.com/ulysseswu/vinjex) A simple DLL injection lib using Easyhook, inspired by VInj.
+
+
+### <a id="4a7346bc13f522e8bd1894839c0c4c0c"></a>Post
+
+
+- 2017.11 [BinaryAdventure] [EasyHook x64 Notepad API Hook part 2](https://www.youtube.com/watch?v=ro07dEPyGmY)
+- 2017.11 [BinaryAdventure] [API Hooking - Using EasyHook to hook NtCreateFile in Notepad.exe](https://www.youtube.com/watch?v=o3H4E278y_g)
+
+
+
+
+***
+
+
+## <a id="48f1c50fcb7495c630a34fc337a4b849"></a>.NET
+
+
+### <a id="857e1dfab2c44af2da91032978f0e96e"></a>Tools
+
+
+- [**117**Star][2y] [C#] [tandasat/dotnethooking](https://github.com/tandasat/dotnethooking) Sample use cases of the .NET native code hooking technique
+- [**60**Star][2y] [C#] [wledfor2/playhooky](https://github.com/wledfor2/playhooky) C# Runtime Hooking Library for .NET/Mono/Unity.
+- [**34**Star][4m] [C#] [dangbee/dotnethook](https://github.com/dangbee/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
+- [**31**Star][1y] [C#] [thaisenpm/loader2](https://github.com/thaisenpm/loader2) Nova Hook is an open source C# cheat loader currently built for CS:GO
+- [**16**Star][6m] [C#] [lontivero/open.winkeyboardhook](https://github.com/lontivero/open.winkeyboardhook) A simple and easy-to-use .NET managed wrapper for Low Level Keyboard hooking.
+- [**15**Star][2m] [Visual Basic .NET] [thaisenpm/loader1](https://github.com/thaisenpm/loader1) Nova Hook is an open source VB.NET cheat loader currently built for CS:GO
+- [**11**Star][6m] [C#] [20chan/globalhook](https://github.com/20chan/GlobalHook) Simple global keyboard, mouse hook and simulation library written C#
+- [**None**Star][C#] [elliesaur/dotnethook](https://github.com/elliesaur/dotnethook) A hook proof of concept with no native dependencies. Hook both .NET methods (even framework methods) and Native methods entirely in .NET.
+
+
+
+
+***
+
+
+## <a id="8e95ee1b5fe838ffe5dda1ce8d8b6571"></a>SSDT
+
+
+### <a id="da32ea71d0410c1420a86770a9fb1f0e"></a>Tools
+
+
+- [**58**Star][3y] [C++] [int0/processisolator](https://github.com/int0/processisolator) Utility to hook SSDT of specific process and transfer control to a service (usermode app) for handling to determine action allow/deny API call etc.
+- [**12**Star][5y] [C] [s18leoare/hackshield-driver-bypass](https://github.com/s18leoare/hackshield-driver-bypass) Bypass HackShield several specific SSDT hook in Ring0
+- [**8**Star][3m] [C] [papadp/shd](https://github.com/papadp/shd) Ssdt Hook Detection tool
+- [**7**Star][11m] [C] [cherryzy/process_protect_module](https://github.com/cherryzy/process_protect_module) Monitor and protect processes use "PsSetCreateProcessNotifyRoutineEx" and kernel ssdt hook.
+- [**6**Star][6y] [C++] [wyrover/hkkerneldbg](https://github.com/wyrover/hkkerneldbg) F**k ssdt hook in np, tp, hs
+- [**3**Star][2y] [C] [sqdwr/64-bits-inserthook](https://github.com/sqdwr/64-bits-inserthook) insert a ssdt table to hook
+
+
+### <a id="72b0e23ec112768033b81f42656993ab"></a>Post
+
+
+- 2015.12 [insinuator] [Investigating Memory Analysis Tools – SSDT Hooking via Pointer Replacement](https://insinuator.net/2015/12/investigating-memory-analysis-tools-ssdt-hooking-via-pointer-replacement/)
+- 2011.08 [sevagas] [Hide files using SSDT hooking](https://blog.sevagas.com/?Hide-files-using-SSDT-hooking)
+- 2008.11 [talosintelligence] [Fun with SSDT Hooks and DEP](https://blog.talosintelligence.com/2008/11/fun-with-ssdt-hooks-and-dep.html)
+
+
+
+
+***
+
+
+## <a id="ef463ddf9e70b545120d01849ef666a6"></a>Tools
+
+
+- [**1866**Star][27d] [Py] [boppreh/keyboard](https://github.com/boppreh/keyboard) Hook and simulate global keyboard events on Windows and Linux.
+- [**787**Star][4m] [C++] [ysc3839/fontmod](https://github.com/ysc3839/fontmod) Simple hook tool to change Win32 program font.
+- [**546**Star][5m] [C#] [crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
+- [**310**Star][29d] [C] [gbps/gbhv](https://github.com/gbps/gbhv) Simple x86-64 VT-x Hypervisor with EPT Hooking
+- [**193**Star][26d] [C#] [justcoding121/windows-user-action-hook](https://github.com/justcoding121/windows-user-action-hook) A .NET library to subscribe for Windows operating system global user actions such mouse, keyboard, clipboard & print events
+- [**92**Star][3y] [C++] [shmuelyr/captainhook](https://github.com/shmuelyr/captainhook) CaptainHook is perfect x86/x64 hook environment
+- [**88**Star][2m] [C] [tinysec/iathook](https://github.com/tinysec/iathook) windows kernelmode and usermode IAT hook
+- [**79**Star][3y] [C] [stevemk14ebr/unihook](https://github.com/stevemk14ebr/unihook) Intercept arbitrary functions at run-time, without knowing their typedefs
+- [**76**Star][24d] [C] [danielkrupinski/vac-hooks](https://github.com/danielkrupinski/vac-hooks) Hook WinAPI functions used by Valve Anti-Cheat. Log calls and intercept arguments & return values. DLL written in C.
+- [**45**Star][10m] [C#] [userr00t/universalunityhooks](https://github.com/userr00t/universalunityhooks) A framework designed to hook into and modify methods in unity games via dlls
+- [**44**Star][7m] [C++] [wopss/renhook](https://github.com/wopss/renhook) An open-source x86 / x86-64 hooking library for Windows.
+- [**42**Star][1m] [Rust] [verideth/dll_hook-rs](https://github.com/verideth/dll_hook-rs) Rust code to show how hooking in rust with a dll works.
+- [**40**Star][1m] [C++] [prekageo/winhook](https://github.com/prekageo/winhook) 
+- [**38**Star][1m] [C++] [rolfrolles/wbdeshook](https://github.com/rolfrolles/wbdeshook) DLL-injection based solution to Brecht Wyseur's wbDES challenge (based on SysK's Phrack article)
+- [**38**Star][1m] [Assembly] [muffins/rookit_playground](https://github.com/muffins/rookit_playground) Educational repository for learning about rootkits and Windows Kernel Hooks.
+- [**35**Star][2m] [C++] [codereversing/wow64syscall](https://github.com/codereversing/wow64syscall) WoW64 Syscall Hooking
+- [**34**Star][3y] [C++] [menooker/fishhook](https://github.com/menooker/fishhook) An inline hook platform for Windows x86/x64
+- [**34**Star][30d] [Py] [byzero512/winpwn](https://github.com/byzero512/winpwn) windows pwntools
+- [**32**Star][2m] [C++] [netdex/twinject](https://github.com/netdex/twinject) Automated player and hooking framework for bullet hell games from the Touhou Project
+- [**30**Star][2m] [C] [deroko/activationcontexthook](https://github.com/deroko/activationcontexthook) hook and force process to load redirected DLL.
+- [**29**Star][4m] [C++] [m-r-j-o-h-n/swh-injector](https://github.com/m-r-j-o-h-n/swh-injector) An Injector that can inject dll into game process protected by anti cheat using SetWindowsHookEx.
+- [**27**Star][6m] [HTML] [flyrabbit/winproject](https://github.com/flyrabbit/winproject) Hook, DLLInject, PE_Tool
+- [**27**Star][3m] [C] [tinysec/runwithdll](https://github.com/tinysec/runwithdll) windows create process with a dll load first time via LdrHook
+- [**24**Star][3m] [C] [david-reguera-garcia-dreg/phook](https://github.com/david-reguera-garcia-dreg/phook) Full DLL Hooking, phrack 65
+- [**24**Star][5m] [C] [maikel233/x-hook-for-csgo](https://github.com/maikel233/x-hook-for-csgo) Aimtux for Windows.
+- [**22**Star][1m] [Go] [castaneai/hinako](https://github.com/castaneai/hinako) x86 WinAPI hook written in pure Go
+- [**22**Star][29d] [C++] [xbased/xhook](https://github.com/xbased/xhook) Hook Windows API. supports Win7/8/10 x86 and x64 platform.
+- [**21**Star][2m] [C] [adrianyy/kernelhook](https://github.com/adrianyy/kernelhook) Windows inline hooking tool.
+- [**21**Star][5m] [C] [xiaofen9/ssdthook](https://github.com/xiaofen9/ssdthook) An SSDT hook for Windows
+- [**19**Star][5m] [Java] [col-e/simplified-jna](https://github.com/col-e/simplified-jna) Multi-threaded JNA hooks and simplified library access to window/key/mouse functions.
+- [**18**Star][11m] [Assembly] [egebalci/hook_api](https://github.com/egebalci/hook_api) Assembly block for hooking windows API functions.
+- [**16**Star][5m] [C] [sin5678/hidedir](https://github.com/sin5678/hidedir) 使用SSDT HOOK 在windows上隐藏指定文件或者文件夹
+- [**14**Star][3m] [C++] [hmihaidavid/hooks](https://github.com/hmihaidavid/hooks) A DLL that performs IAT hooking
+- [**13**Star][4y] [C++] [jonasblunck/dp](https://github.com/jonasblunck/dp) Win32 API and COM hooking/tracing.
+- [**13**Star][7m] [C#] [kanegovaert/unknown-logger](https://github.com/kanegovaert/unknown-logger) An advanced Windows Keylogger with features like (Disable CMD, Screenshotter, Client Stub Builder, Low Level Keyhooks, Hide Application, Respawner, Delete Chrome and Firefox data, and more!)
+- [**12**Star][8m] [C++] [sin5678/wow64hook](https://github.com/sin5678/wow64hook) wow64 syscall filter
+- [**11**Star][6m] [Py] [debasishm89/qhook](https://github.com/debasishm89/qhook) qHooK is very simple python script (dependent on pydbg) which hooks user defined Win32 APIs in any process and monitor then while process is running and at last prepare a CSV report with various interesting information which can help reverse engineer to track down / analyse unknown exploit samples / shellcode.
+- [**11**Star][1y] [C++] [therena/findthestupidwindow](https://github.com/therena/findthestupidwindow) Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
+- [**11**Star][6y] [weixu8/registrymonitor](https://github.com/weixu8/registrymonitor) Formely KMon, a Windows Kernel Driver designed to prevent malware attacks by monitoring the creation of registry keys in common autorun locations and prompting the user whether they want to allow the creation of the key. More of an experiment into Kernel level SSDT hooks but a fun project nonetheless
+- [**10**Star][7y] [Py] [nitram2342/spooky-hook](https://github.com/nitram2342/spooky-hook) WinAppDbg helper script to catch API calls
+- [**9**Star][6m] [C++] [windy32/win32-console-hook-lib](https://github.com/windy32/win32-console-hook-lib) A light-weight console hook library for convenient console interactions
+- [**8**Star][6m] [C++] [mgostih/snifferih](https://github.com/mgostih/snifferih) DLL Hooking Packet Sniffer
+- [**8**Star][27d] [C++] [ivan-sincek/keylogger](https://github.com/ivan-sincek/keylogger) Windows OS keylogger with a hook mechanism (i.e. with a keyboard hook procedure).
+- [**7**Star][2y] [Go] [nanitefactory/hookwin10calc](https://github.com/nanitefactory/hookwin10calc) Reverse engineered Windows 10 Calculator.exe (UWP application) hacker. 한글/漢文을 배운 윈도우 계산기 패치.
+- [**5**Star][2y] [C++] [wanttobeno/window_keyandmousehook](https://github.com/wanttobeno/window_keyandmousehook) Window Key And Mouse Hook
+- [**4**Star][10m] [C++] [aschrein/apiparse](https://github.com/aschrein/apiparse) Small project to learn windows dll hooking techniques based on sources of renderdoc and apitrace
+- [**4**Star][2y] [C#] [trojaner/rocketplus](https://github.com/trojaner/rocketplus) Adding extra functionality to RocketMod API by using method hooking [Windows x64 only]. Also provides an API for .NET Method detouring
+- [**0**Star][2y] [C] [vallejocc/poc-find-chrome-ktlsprotocolmethod](https://github.com/vallejocc/poc-find-chrome-ktlsprotocolmethod) Proof of Concept code to download chrome.dll symbols from chromium symbols store and find the bssl::kTLSProtocolMethod table of pointers (usually hooked by malware)
+
+
+***
+
+
+## <a id="ad5138ec5ace48809894ffc5f123aba1"></a>Post
+
+
+- 2020.03 [apriorit] [How to Hook 64-Bit Code from WOW64 32-Bit Mode](https://www.apriorit.com/dev-blog/665-win-hook-64-bit-code-from-32-bit-mode)
+- 2019.10 [sentinelone] [How TrickBot Hooking Engine Targets Windows 10 Browsers](https://www.sentinelone.com/blog/how-trickbot-hooking-engine-targets-windows-10-browsers/)
+- 2019.08 [contextis] [Common Language Runtime Hook for Persistence](https://www.contextis.com/en/blog/common-language-runtime-hook-for-persistence)
+- 2019.05 [vimeo] [DKOM 3.0: Hiding and Hooking with Windows Extension Hosts - Alex Ionescu, Gabrielle Viala, Yarden Shafir - INFILTRATE 2019](https://vimeo.com/335166152)
+- 2019.04 [fsx30] [Hooking Heaven’s Gate — a WOW64 hooking technique](https://medium.com/p/5235e1aeed73)
+- 2018.03 [malwarebytes] [Hancitor: fileless attack with a DLL copy trick](https://blog.malwarebytes.com/threat-analysis/2018/03/hancitor-fileless-attack-with-a-copy-trick/)
+- 2017.11 [rootedconmadrid] [Pablo San Emeterio - WHF: Windows Hooking Framework [RootedCON 2012 - ESP]](https://www.youtube.com/watch?v=1yNhZ62C2bw)
+- 2017.07 [huntingmalware] [Hooking Windows events without knowing anything about C/C++](https://blog.huntingmalware.com/notes/WMI)
+- 2017.06 [eyeofrablog] [Windows Keylogger Part 2: Defense against user-land](https://eyeofrablog.wordpress.com/2017/06/27/windows-keylogger-part-2-defense-against-user-land/)
+- 2015.06 [codereversing] [Syscall Hooking Under WoW64: Implementation (2/2)](http://www.codereversing.com/blog/archives/246)
+- 2015.06 [codereversing] [Syscall Hooking Under WoW64: Introduction (1/2)](http://www.codereversing.com/blog/archives/243)
+- 2015.01 [debasish] [qHooK - Not Just a Win32 API Hooking Script](http://www.debasish.in/2015/01/qhook-not-just-win32-api-hooking-script.html)
+- 2014.11 [hypervsir] [Using LBR (Last Branch Record) Feature to Detect IDT-Shadowing-Based Malicious IDT Hooking](http://hypervsir.blogspot.com/2014/11/using-lbr-last-branch-record-feature-to.html)
+- 2014.02 [evilsocket] [How to Hook Win32 API With Kernel Patching](https://www.evilsocket.net/2014/02/01/keservicedescriptortable-patching-aka-how-to-hook-win32-api-patching-the-kernel/)
+- 2012.09 [volatility] [MoVP 3.1 Detecting Malware Hooks in the Windows GUI Subsystem](https://volatility-labs.blogspot.com/2012/09/movp-31-detecting-malware-hooks-in.html)
+- 2011.09 [htbridge] [Inline Hooking in Windows](https://www.htbridge.com/blog/inline_hooking_in_windows.html)
+- 2011.08 [mista] [Windows Hooks of Death: Kernel Attacks through User-Mode Callbacks](http://mista.nu/blog/?p=632)
+- 2011.08 [htbridge] [Userland Hooking in Windows](https://www.htbridge.com/blog/userland_hooking_in_windows.html)
+- 2011.06 [shiftlock] [Windows hooks detector](https://shiftlock.wordpress.com/2011/06/22/windows-hooks-detector/)
+- 2010.09 [redplait] [ntdll official hooks](http://redplait.blogspot.com/2010/09/ntdll-official-hooks.html)
+- 2006.01 [sans] [KbHook.dll is Not Always Spyware](https://isc.sans.edu/forums/diary/KbHookdll+is+Not+Always+Spyware/1076/)
+
+
+# <a id="07584676bf0d2adc54dd9a0f3d6dc6e5"></a>Linux
+
+
+***
+
+
+## <a id="eecd435d6139119987877979e29bdb2f"></a>Tools
+
+
+- [**140**Star][7m] [C] [davidbuchanan314/tardis](https://github.com/davidbuchanan314/tardis) Trace And Rewrite Delays In Syscalls: Hooking time-related Linux syscalls to warp a process's perspective of time, using ptrace.
+- [**134**Star][1m] [C] [poliva/ldpreloadhook](https://github.com/poliva/ldpreloadhook) a quick open/close/ioctl/read/write/free function hooker
+- [**94**Star][30d] [C] [milabs/khook](https://github.com/milabs/khook) Linux Kernel hooking engine (x86)
+- [**68**Star][1m] [C] [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook) Using ftrace for function hooking in Linux kernel
+- [**45**Star][2m] [C] [jmpews/evilelf](https://github.com/jmpews/evilelf) Malicious use of ELF such as .so inject, func hook and so on.
+- [**35**Star][3y] [C] [jordan9001/superhide](https://github.com/jordan9001/superhide) Example of hooking a linux systemcall
+- [**8**Star][2m] [C] [rafael-santiago/kook](https://github.com/rafael-santiago/kook) A syscall hooking system for FreeBSD, NetBSD and also Linux.
+- [**6**Star][2y] [C] [sizet/lkm_parse_dns_packet](https://github.com/sizet/lkm_parse_dns_packet) linux 核心模組, 使用 netfilter IPv4 hook 監聽和分析 DNS 請求和回應封包.
+- [**5**Star][3m] [C] [deb0ch/toorkit](https://github.com/deb0ch/toorkit) A simple useless rootkit for the linux kernel. It is a kernel module which hooks up the open() syscall (or potentially any syscall) to replace it with a custom function.
+
+
+***
+
+
+## <a id="c38b81500d0fc9abb6372b1aada01f6f"></a>Post
+
+
+- 2020.01 [mike] [Hooking Linux Libraries for Post-Exploitation Fun](https://www.mike-gualtieri.com/posts/hooking-linux-libraries-for-post-exploitation-fun)
+- 2019.12 [jm33] [Hook System Calls in Linux 5.x](https://jm33.me/hook-system-calls-in-linux-5x.html)
+- 2019.02 [linuxgizmos] [Embedded vision cams use MIPI-CSI and USB3 Vision to hook up with Linux dev boards](http://linuxgizmos.com/embedded-vision-cams-use-mipi-csi-and-usb3-vision-to-hook-up-with-linux-dev-boards/)
+- 2017.02 [forcepoint] [Detecting register-hooking Linux rootkits with Forcepoint Second Look](https://www.forcepoint.com/blog/security-labs/detecting-register-hooking-linux-rootkits-forcepoint-second-look)
+- 2014.10 [allsoftwaresucks] [abusing Mesa by hooking ELFs and ioctl](http://allsoftwaresucks.blogspot.com/2014/10/abusing-mesa-by-hooking-elfs-and-ioctl.html)
+- 2013.12 [HackersSecurity] [DEFCON 18: Function Hooking for Mac OSX and Linux](https://www.youtube.com/watch?v=MaIZ1TRc414)
+- 2010.03 [imthezuk] [Linux functions hooking using LD_PRELOAD - for fun and profit](https://imthezuk.blogspot.com/2010/03/easy-hooking-for-logging-purposes-with.html)
+
+
+# <a id="55f6189e26849b3daab8d76f5ec868a3"></a>Apple
+
+
+***
+
+
+## <a id="ab912772028a97555413c805be41abf9"></a>inspectivec
+
+
+### <a id="dff0566feeb6e321cd31dacf9478d6a4"></a>Tools
+
+
+- [**538**Star][2y] [Objective-C++] [davidgoldman/inspectivec](https://github.com/davidgoldman/inspectivec) objc_msgSend hook for debugging/inspection purposes.
+
+
+
+
+***
+
+
+## <a id="22eb97e050393fadd7cc2da6f2527f1a"></a>captainhook
+
+
+### <a id="04bfe6387f61b8e07170308f8e20c115"></a>Tools
+
+
+- [**577**Star][1y] [ObjC] [rpetrich/captainhook](https://github.com/rpetrich/captainhook) Common hooking/monkey patching headers for Objective-C on Mac OS X and iPhone OS. MIT licensed
+
+
+
+
+***
+
+
+## <a id="d22ce067c1e37bf1f5baedc3c18da5ff"></a>blockhook
+
+
+### <a id="8cd390f72bbe10e26acde30ec42a6ddc"></a>Tools
+
+
+- [**581**Star][5m] [C] [yulingtianxia/blockhook](https://github.com/yulingtianxia/blockhook) Hook Objective-C blocks. A powerful AOP tool.
+
+
+
+
+***
+
+
+## <a id="676bba5c840ee8156270bfcfc7d3b8d7"></a>Tools
+
+
+- [**2032**Star][3y] [Swift] [urinx/iosapphook](https://github.com/urinx/iosapphook) 专注于非越狱环境下iOS应用逆向研究，从dylib注入，应用重签名到App Hook
+- [**1122**Star][2y] [ObjC] [yulingtianxia/fishchat](https://github.com/yulingtianxia/fishchat) Hook WeChat.app on non-jailbroken devices.
+- [**129**Star][6m] [C] [rodionovd/rd_route](https://github.com/rodionovd/rd_route) Function hooking for macOS
+- [**123**Star][4m] [ObjC] [smilezxlee/zxhookdetection](https://github.com/smilezxlee/zxhookdetection) 【iOS应用安全】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议示例)
+- [**68**Star][3y] [ObjC] [alayshchen/xcodeappplugintemplate](https://github.com/alayshchen/xcodeappplugintemplate) App Plugin Project Template For iOS App And Mac App. Make it easy to hook app.
+- [**66**Star][5m] [ObjC] [yulingtianxia/blocktracker](https://github.com/yulingtianxia/blocktracker) Tracking block args of Objective-C method based on BlockHook
+- [**54**Star][1m] [Perl] [theos/logos](https://github.com/theos/logos) Preprocessor that simplifies Objective-C hooking.
+- [**53**Star][4m] [ObjC] [smilezxlee/zxhookutil](https://github.com/smilezxlee/zxhookutil) 【iOS逆向】Tweak工具函数集，基于theos、monkeyDev
+
+
+***
+
+
+## <a id="67bd4e3298b9ff41a21101e72c42eacf"></a>Post
+
+
+- 2013.03 [gdssecurity] [Retrieving Crypto Keys via iOS Runtime Hooking](https://blog.gdssecurity.com/labs/2013/3/5/retrieving-crypto-keys-via-ios-runtime-hooking.html)
+
+
+# <a id="3b35513a318dec7ac14c68173ecb9917"></a>Android
+
+
+***
+
+
+## <a id="0fe82d44aced7fdbce0650cdf39d6b3c"></a>Hook Position
+
+
+### <a id="8a817e4fd91c0fb1531fcb994f18f6bf"></a>ART
+
+
+#### <a id="7ce2be9bdcec22ae34192de162b5a16b"></a>arthook
+
+
+##### <a id="ec2ec694a999a8a6adaf029a8214482b"></a>Tools
+
+
+- [**332**Star][4m] [Java] [mar-v-in/arthook](https://github.com/mar-v-in/arthook) Library for hooking on ART
+
+
+##### <a id="8b82f2cb117fe12ab5b8549cda424ead"></a>Post
+
+
+
+
+
+
+#### <a id="84050c37e997fa469d0bf2957740a26c"></a>fasthook
+
+
+##### <a id="53605f8fe273227cfce6efb53f03ca5e"></a>Tools
+
+
+- [**376**Star][4m] [C] [turing-technician/fasthook](https://github.com/turing-technician/fasthook) Android ART Hook
+- [**129**Star][4m] [Java] [turing-technician/virtualfasthook](https://github.com/turing-technician/virtualfasthook) Android application hooking tool based on FastHook + VirtualApp
+
+
+
+
+#### <a id="a45596ac8a32884286decc3776dcc87a"></a>edxposed
+
+
+##### <a id="b59634d15e0ff36530f26ea15ea14140"></a>Tools
+
+
+- [**2236**Star][4m] [Java] [elderdrivers/edxposed](https://github.com/elderdrivers/edxposed) Elder driver Xposed Framework.
+
+
+
+
+#### <a id="e2d57f2f714c3398c5c3221f358a2bbc"></a>yahfa
+
+
+##### <a id="617d992e3d5935e3f073489a6865f5bd"></a>Tools
+
+
+- [**764**Star][25d] [Java] [pagalaxylab/yahfa](https://github.com/PAGalaxyLab/YAHFA) Yet Another Hook Framework for ART
+- [**128**Star][2y] [Java] [bmax121/budhook](https://github.com/bmax121/budhook) An Android hook framework written like Xposed,based on YAHFA.
+
+
+##### <a id="ff04a5c958e269af7eda93865680b8bf"></a>Post
+
+
+
+
+
+
+
+
+### <a id="41c619b27a528b1fc4cf0e9881138d43"></a>Substrate
+
+
+#### <a id="b27b46d6dd521ca0cbd8b0e985adf3b3"></a>hooker
+
+
+##### <a id="9cc593bb0fe4379f156c960ed57ddefc"></a>Tools
+
+
+- [**372**Star][29d] [Py] [androidhooker/hooker](https://github.com/androidhooker/hooker) Hooker is an opensource project for dynamic analyses of Android applications. This project provides various tools and applications that can be use to automaticaly intercept and modify any API calls made by a targeted application.
+
+
+
+
+
+
+
+
+***
+
+
+## <a id="4fb6e68ab88d70a5ba21daf3c748ab24"></a>virtualhook
+
+
+### <a id="dc029a697388c8dd11166dc05b480af9"></a>Tools
+
+
+- [**571**Star][25d] [Java] [pagalaxylab/virtualhook](https://github.com/PAGalaxyLab/VirtualHook) Android application hooking tool based on VirtualApp
+- [**58**Star][8m] [Java] [nightoftwelve/virtualhookex](https://github.com/nightoftwelve/virtualhookex) Android application hooking tool based on VirtualHook/VirtualApp
+
+
+### <a id="e1069bd619235ef63f0368c80dafe8a2"></a>Post
+
+
+
+
+
+
+***
+
+
+## <a id="77a4aa2e2f0a0b96f53bf6d73a9ed9a4"></a>sandhook
+
+
+### <a id="dd815766c5929bf9c831a10b0536b71e"></a>Tools
+
+
+- [**708**Star][4m] [Java] [ganyao114/sandhook](https://github.com/ganyao114/sandhook) Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 10.0 32/64 bit - Xposed API Compat
+
+
+
+
+***
+
+
+## <a id="e1663df22437eac2082e12d2f43e0551"></a>legend
+
+
+### <a id="34f6f6cbec589ef696d862b8dd0b65f2"></a>Tools
+
+
+- [**1463**Star][1m] [Java] [aslody/legend](https://github.com/aslody/legend) A framework for hook java methods.
+
+
+
+
+***
+
+
+## <a id="a7aba8e3ae6bc49848404294d1e1daf7"></a>xhook
+
+
+### <a id="4b802273fcf67d94de34201135d7cf89"></a>Tools
+
+
+- [**1741**Star][25d] [C] [iqiyi/xhook](https://github.com/iqiyi/xhook) a PLT (Procedure Linkage Table) hook library for Android native ELF 
+
+
+
+
+***
+
+
+## <a id="b6226b7a5a4605934b0a6a9ab254f186"></a>androideagleeye
+
+
+### <a id="a1419c0af296c66e60c2a5dff3d7beca"></a>Tools
+
+
+- [**429**Star][4y] [Makefile] [mindmac/androideagleeye](https://github.com/mindmac/androideagleeye) An Xposed and adbi based module which is capable of hooking both Java and Native methods targeting Android OS.
+
+
+
+
+***
+
+
+## <a id="b7f01a8ca7061e6830e56a6e7edd30c3"></a>Tools
+
+
+- [**1990**Star][27d] [Java] [tiann/epic](https://github.com/tiann/epic) Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~10.0
+- [**1763**Star][2y] [Java] [ac-pm/inspeckage](https://github.com/ac-pm/inspeckage) Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
+- [**789**Star][2y] [C] [ele7enxxh/android-inline-hook](https://github.com/ele7enxxh/android-inline-hook) thumb16 thumb32 arm32 inlineHook in Android
+- [**575**Star][27d] [Java] [aslody/andhook](https://github.com/asLody/AndHook) Android dynamic instrumentation framework
+- [**541**Star][4m] [Java] [windysha/xpatch](https://github.com/windysha/xpatch) This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+- [**448**Star][5y] [C++] [boyliang/allhookinone](https://github.com/boyliang/allhookinone)  all method hook approachs for android such as dalvik hook, art hook, elf hook and inline hook
+- [**401**Star][5m] [Java] [pqpo/inputmethodholder](https://github.com/pqpo/inputmethodholder) A keyboard listener for Android which by hooking the InputMethodManager. 
+- [**291**Star][1m] [Py] [antojoseph/frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) Lets you hook Method Calls in Frida ( Android )
+- [**220**Star][2y] [C] [gtoad/android_inline_hook](https://github.com/gtoad/android_inline_hook) Build an so file to automatically do the android_native_hook work. Supports thumb-2/arm32 and ARM64 ! With this, tools like Xposed can do android native hook.
+- [**216**Star][3y] [Java] [zhengmin1989/wechatsportcheat](https://github.com/zhengmin1989/wechatsportcheat) 手把手教你当微信运动第一名 – 利用Android Hook进行微信运动作弊
+- [**195**Star][6m] [Java] [panhongwei/androidmethodhook](https://github.com/panhongwei/androidmethodhook) android art hook like Sophix
+- [**190**Star][5m] [C++] [aslody/elfhook](https://github.com/aslody/elfhook) modify PLT to hook api, supported android 5\6.
+- [**179**Star][1m] [Java] [546669204/wechatbot-xposed](https://github.com/546669204/wechatbot-xposed) A WeChat robot unit ,based on the android xposed framework hook to implement WeChat app robot functions
+- [**148**Star][5m] [Java] [zhouat/inject-hook](https://github.com/zhouat/inject-hook) for android
+- [**120**Star][4m] [C++] [melonwxd/elfhooker](https://github.com/melonwxd/elfhooker) 兼容Android 32位和64位。基于EFL文件格式Hook的demo，hook了SurfaceFlinger进程的eglSwapBuffers函数，替换为new_eglSwapBuffers
+- [**104**Star][5y] [Java] [rednaga/dexhook](https://github.com/rednaga/dexhook) DexHook is a xposed module for capturing dynamically loaded dex files.
+- [**99**Star][2y] [Java] [piasy/fridaandroidtracer](https://github.com/piasy/fridaandroidtracer) A runnable jar that generate Javascript hook script to hook Android classes.
+- [**99**Star][4m] [C++] [woxihuannisja/stormhook](https://github.com/woxihuannisja/stormhook) StormHook is a Android Hook Framework for Dalvik and Art
+- [**63**Star][28d] [JS] [northwavenl/fridax](https://github.com/northwavenl/fridax) Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+- [**56**Star][1m] [Rust] [nccgroup/assethook](https://github.com/nccgroup/assethook) LD_PRELOAD magic for Android's AssetManager
+- [**51**Star][2m] [Py] [hrkfdn/deckard](https://github.com/hrkfdn/deckard) Deckard performs static and dynamic binary analysis on Android APKs to extract Xposed hooks
+- [**51**Star][5y] [C++] [ikoz/androidsubstrate_hookingc_examples](https://github.com/ikoz/androidsubstrate_hookingc_examples) AndroidSubstrate_hookingC_examples
+- [**48**Star][5m] [C] [shunix/androidgothook](https://github.com/shunix/androidgothook) GOT Hook implemented in Android
+- [**42**Star][29d] [C++] [chickenhook/chickenhook](https://github.com/chickenhook/chickenhook) A linux / android / MacOS hooking framework
+- [**34**Star][2m] [TS] [igio90/frida-onload](https://github.com/igio90/frida-onload) Frida module to hook module initializations on android
+- [**25**Star][3m] [C++] [dodola/dinlinehook](https://github.com/dodola/dinlinehook) simple art inline hook
+- [**23**Star][6m] [C++] [legendl3n/smarthooker](https://github.com/legendl3n/smarthooker) The smartest hooking library.
+- [**17**Star][29d] [Py] [margular/frida-skeleton](https://github.com/margular/frida-skeleton) 本项目旨在帮助安卓测试工程师更方便地hook apk，并且自带证书绑定绕过功能
+- [**17**Star][25d] [C++] [vito11/camerahook](https://github.com/vito11/camerahook) An prototype to hook android camera preview data of third-party and system apps
+- [**15**Star][2m] [Java] [pnfsoftware/jeb2-andhook](https://github.com/pnfsoftware/jeb2-andhook) 
+- [**2**Star][4y] [Java] [nodoraiz/latchhooks](https://github.com/nodoraiz/latchhooks) Hack for Android app hooking using latch
+- [**0**Star][4y] [serval-snt-uni-lu/hookranker](https://github.com/serval-snt-uni-lu/hookranker) Automatically Locating Malicious Payload in Piggybacked Android Apps (A Hook Ranking Approach)
+- [**None**Star][C] [gtoad/android_inline_hook_arm64](https://github.com/gtoad/android_inline_hook_arm64) Build an .so file to automatically do the android_native_hook work. Supports ARM64 ! With this, tools like Xposed can do android native hook.
+- [**None**Star][C++] [rprop/and64inlinehook](https://github.com/rprop/and64inlinehook) Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
+- [**None**Star][Py] [fanxs-t/android-ssl_read-write-hook](https://github.com/fanxs-t/android-ssl_read-write-hook) Hook SSL_read and SSL_write functions in the Android application with Frida.
+
+
+***
+
+
+## <a id="567c92c6319c66711d6ce7ee6d34e7d7"></a>Post
+
+
+- 2018.11 [bugbountywriteup] [Android Hook — ASIS CTF Final 2018 — Gunshops Question Walkthrough](https://medium.com/p/ae5dfe8b5df0)
+- 2016.03 [sensepost] [Android hooking with Introspy](https://sensepost.com/blog/2016/android-hooking-with-introspy/)
+- 2015.12 [d3adend] [Android Anti-Hooking Techniques in Java](https://d3adend.org/blog/posts/android-anti-hooking-techniques-in-java/)
+- 2015.12 [d3adend] [Android Anti-Hooking Techniques in Java](http://d3adend.org/blog/?p=589)
+- 2015.06 [koz] [Substrate - hooking C on Android](https://koz.io/android-substrate-c-hooking/)
+- 2015.05 [evilsocket] [Android Native API Hooking With Library Injection and ELF Introspection.](https://www.evilsocket.net/2015/05/04/android-native-api-hooking-with-library-injecto/)
+- 2015.01 [attify] [Xposed Framework for Android Hooking](http://blog.attify.com/2015/01/04/xposed-framework-android-hooking/)
+- 2015.01 [attify] [Xposed Framework for Android Hooking](https://blog.attify.com/xposed-framework-android-hooking/)
+
+
+# <a id="98fa503ca20e92cdf59d1c51249179a8"></a>Recent Add
+
+
+***
+
+
+## <a id="1f8ec021509b7b6b6b5d62550e386e6c"></a>Inline-Hook
+
+
+### <a id="68ea699ec15a70060fc9c55191338622"></a>Tools
+
+
+- [**277**Star][3y] [C++] [gellin/teamviewer_permissions_hook_v1](https://github.com/gellin/teamviewer_permissions_hook_v1) A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.
+- [**212**Star][3y] [C] [silvermoonsecurity/passivefuzzframeworkosx](https://github.com/silvermoonsecurity/passivefuzzframeworkosx) This framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.
+- [**75**Star][2y] [C] [chinatiny/inlinehooklib](https://github.com/chinatiny/inlinehooklib) 同时支持用户和内核模式的Inlinehook库
+- [**67**Star][5y] [C] [malwaretech/basichook](https://github.com/malwaretech/basichook) x86 Inline hooking engine (using trampolines)
+- [**15**Star][3m] [C] [zzy590/basiclibpp](https://github.com/zzy590/basiclibpp) A powerful library for inline-hook,lock,compress etc,and it is useful for anti-virus software.
+- [**14**Star][2y] [C] [gtoad/android_inline_hook_arm_example](https://github.com/gtoad/android_inline_hook_arm_example) 
+- [**10**Star][2y] [C] [gtoad/android_inline_hook_thumb_example](https://github.com/gtoad/android_inline_hook_thumb_example) 
+- [**4**Star][2y] [C++] [wanttobeno/ade32_inlinehook](https://github.com/wanttobeno/ade32_inlinehook) 基于ADE32的inlineHook
+
+
+### <a id="0b51581a821919d41ac0b4007e6ef111"></a>Post
+
+
+- 2018.11 [n0where] [Investigate Inline Hooks: PE-sieve](https://n0where.net/investigate-inline-hooks-pe-sieve)
+- 2017.12 [userpc] [Understanding/Detecting Inline Hooks/ WinAPI Hooks (Ring3)](https://userpc.net/2017/12/03/understanding-detecting-inline-hooks-winapi-hooks-ring3/)
+- 2016.09 [0x00sec] [User Mode Rootkits: IAT and Inline Hooking](https://0x00sec.org/t/user-mode-rootkits-iat-and-inline-hooking/1108/)
+- 2013.09 [debasish] [Inline API Hooking using DLL Injection](http://www.debasish.in/2013/09/inline-api-hooking-using-dll-injection.html)
+- 2012.05 [crowdstrike] [ARMv7/Thumb2 Inline Code Hooking](https://www.crowdstrike.com/blog/armv7thumb2-inline-code-hooking/)
+
+
+
+
+***
+
+
+## <a id="16975a6e29db4c54e804c508371cd6f3"></a>Syscall-Hook
+
+
+### <a id="de570f6a46cf4ddf63da1d1d29ae6131"></a>Tools
+
+
+- [**18**Star][1y] [C] [plexsolutions/readhook](https://github.com/plexsolutions/readhook) Red-team tool to hook libc read syscall with a buffer overflow vulnerability.
+
+
+### <a id="e6332e820833c39bfb6ca86591a77c12"></a>Post
+
+
+
+
+
+
+***
+
+
+## <a id="80ef1878ee5cd38df30c0f1f2fe9daeb"></a>API-Hook
+
+
+### <a id="796594632db41e5771e98ccbf3687c40"></a>Tools
+
+
+- [**509**Star][1m] [C++] [0x09al/rdpthief](https://github.com/0x09al/rdpthief) Extracting Clear Text Passwords from mstsc.exe using API Hooking.
+- [**315**Star][4m] [C] [outflanknl/dumpert](https://github.com/outflanknl/dumpert) LSASS memory dumper using direct system calls and API unhooking.
+- [**304**Star][2y] [C] [nektra/deviare2](https://github.com/nektra/deviare2) Deviare API Hook
+- [**136**Star][4m] [C] [hoshimin/hooklib](https://github.com/hoshimin/hooklib) The functions interception library written on pure C and NativeAPI with UserMode and KernelMode support
+- [**54**Star][5m] [C] [passingtheknowledge/ganxo](https://github.com/passingtheknowledge/ganxo) An opensource API hooking framework
+- [**40**Star][3y] [C++] [tanninone/usvfs](https://github.com/tanninone/usvfs) library using api hooking to implement process-local filesystem-independent file links.
+- [**35**Star][4m] [C++] [xrivendell/pcsgolh](https://github.com/xrivendell/pcsgolh) PCSGOLH - Pointless Counter-Strike: Global Offensive Lua Hooks. A open-source Lua API for CS:GO hacking written in modern C++
+- [**28**Star][6m] [JS] [shanselman/daskeyboard-q-nightscout](https://github.com/shanselman/daskeyboard-q-nightscout) Hooking up the DasKeyboard Q REST API to change the key colors in response to diabetic's glucose from NightScout
+- [**11**Star][2m] [Pascal] [oranke/proxy-dll-generator](https://github.com/oranke/proxy-dll-generator) PROXY DLL Generator / for very simple API Hooking.
+- [**9**Star][4y] [C++] [jonasblunck/dynhook](https://github.com/jonasblunck/dynhook) Example library for how to dynamically/statically hook/intercept unmanaged functions and APIs
+- [**9**Star][3m] [C++] [hidd3ncod3s/runpedmp](https://github.com/hidd3ncod3s/runpedmp) RunPE dump - I wrote this to have better control over the analysis of malwares. I can stop and analysis malware when it uses some of the API's i hook and to dump the memory while it is using RunPE/PH techniques.
+- [**8**Star][4m] [C++] [nybble04/shady-hook](https://github.com/nybble04/shady-hook) Hooking API calls of a Ransomware
+- [**4**Star][2y] [C++] [a7031x/hookapi](https://github.com/a7031x/hookapi) Handy way to hook x86 or x64 API
+- [**4**Star][29d] [C] [microwave89/ntapihook](https://github.com/microwave89/ntapihook) Attempt to Create a Simple and Light-weight Hook Engine Without Use of an LDE
+- [**None**Star][C++] [vovkos/protolesshooks](https://github.com/vovkos/protolesshooks) API monitoring via return-hijacking thunks; works without information about target function prototypes.
+
+
+### <a id="288c7565062613f05da93653dd81e710"></a>Post
+
+
+- 2020.05 [apriorit] [3 Effective DLL Injection Techniques for Setting API Hooks](https://www.apriorit.com/dev-blog/679-windows-dll-injection-for-api-hooks)
+- 2019.12 [trendmicro] [Waterbear is Back, Uses API Hooking to Evade Security Product Detection](https://blog.trendmicro.com/trendlabs-security-intelligence/waterbear-is-back-uses-api-hooking-to-evade-security-product-detection/)
+- 2019.11 [hakin9] [RdpThief - Extracting Clear Text Passwords from mstsc.exe using API Hooking](https://hakin9.org/rdpthief-extracting-clear-text-passwords-from-mstsc-exe-using-api-hooking/)
+- 2019.11 [steve] [Equifax is Nowhere Near Off the Hook and CapitalOne Should be Scared.](https://www.peerlyst.com/posts/equifax-is-nowhere-near-off-the-hook-and-capitalone-should-be-scared-steve-king)
+- 2019.08 [bromium] [Agent Tesla: Evading EDR by Removing API Hooks](https://www.bromium.com/agent-tesla-evading-edr-by-removing-api-hooks/)
+- 2018.04 [OALabs] [Unpacking VB6 Packers With IDA Pro and API Hooks (Re-Upload)](https://www.youtube.com/watch?v=ylWInOcQy2s)
+- 2018.01 [OALabs] [Analyze JavaScript and VBScript Malware With x64dbg Debugger and API Hooking](https://www.youtube.com/watch?v=uqhBsWXUw7Q)
+- 2017.06 [lallouslab] [Introducing Ganxo v0.1 – An open source API hooking framework](http://lallouslab.net/2017/06/26/introducing-ganxo-v0-1-an-open-source-api-hooking-framework/)
+- 2017.05 [] [Introducing Ganxo v0.1 Alpha – An open source API hooking framework](http://0xeb.net/2017/05/introducing-ganxo-v0-1-alpha-an-open-source-api-hooking-framework/)
+- 2016.12 [adelmas] [API Hooking with IDA Pro](http://adelmas.com/blog/ida_api_hooking.php)
+- 2013.01 [volatility] [HowTo: Extract "Hidden" API-Hooking BHO DLLs](https://volatility-labs.blogspot.com/2013/01/howto-extract-hidden-api-hooking-bho.html)
+- 2012.02 [vxsecurity] [ApiMapSet Hooking (short guide)](http://www.vxsecurity.sg/2012/02/14/apimapset-hooking-short-guide/)
+- 2011.02 [codereversing] [API Hooking Through Near Call Replacement](http://www.codereversing.com/blog/archives/69)
+- 2008.09 [evilcodecave] [Fast ApiSpy (of DeviceIoControl) via oSpy2 Defined Hook](https://evilcodecave.wordpress.com/2008/09/06/fast-apispy-of-deviceiocontrol-via-ospy2-defined-hook/)
+- 2007.02 [trendmicro] [GOOGLE AJAX API Hooked](https://blog.trendmicro.com/trendlabs-security-intelligence/google-ajax-api-hooked/)
+
+
+
+
+***
+
+
+## <a id="1030267e24ee5e3747b0876023f4f925"></a>Un-Hook
+
+
+### <a id="9402ee22b3361f18eac675a3d700b08f"></a>Tools
+
+
+- [**128**Star][2y] [C] [cylancevulnresearch/reflectivedllrefresher](https://github.com/cylancevulnresearch/reflectivedllrefresher) Universal Unhooking
+- [**23**Star][6m] [C++] [apriorit/simple-antirootkit-sst-unhooker](https://github.com/apriorit/simple-antirootkit-sst-unhooker) This is a demo project to illustrate the way to verify and restore original SST in case of some malware hooks
+
+
+### <a id="5b9e84f7909d65e65242b7ed92df88eb"></a>Post
+
+
+- 2017.03 [cylance] [Cylance vs. Universal Unhooking Attack](https://www.cylance.com/en_us/blog/cylance-vs-universal-unhooking.html)
+- 2017.02 [cylance] [Universal Unhooking: Blinding Security Software](https://www.cylance.com/en_us/blog/universal-unhooking-blinding-security-software.html)
+
+
+
+
+***
+
+
+## <a id="a59a8c7582765d7653d4ef05cfde9ee0"></a>Tools
+
+
+- [**302**Star][29d] [Py] [boppreh/mouse](https://github.com/boppreh/mouse) Hook and simulate global mouse events in pure Python
+- [**220**Star][2y] [C++] [bromiumlabs/packerattacker](https://github.com/bromiumlabs/packerattacker) C++ application that uses memory and code hooks to detect packers
+- [**219**Star][4m] [C] [silight-jp/mactype-patch](https://github.com/silight-jp/mactype-patch) MacType Patch for DirectWrite Hook
+- [**202**Star][6m] [ObjC] [lmsgsendnilself/hookstatistics](https://github.com/lmsgsendnilself/hookstatistics) Logging args based on AOP（Aspectoriented programming）by Method Swizzling
+- [**175**Star][27d] [C] [kubo/funchook](https://github.com/kubo/funchook) Hook function calls by inserting jump instructions at runtime
+- [**151**Star][6m] [C] [zmrbak/pcwechathook](https://github.com/zmrbak/pcwechathook) 云课堂《2019 PC微信 探秘》示例代码
+- [**150**Star][28d] [C] [vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook) C++ graphics kernel subsystem hook
+- [**144**Star][2m] [Py] [ethanhs/pyhooked](https://github.com/ethanhs/pyhooked) Pure Python hotkey hook, with thanks to pyHook and pyhk
+- [**141**Star][6m] [C++] [hasherezade/iat_patcher](https://github.com/hasherezade/iat_patcher) Persistent IAT hooking application - based on bearparser
+- [**140**Star][30d] [Py] [safebreach-labs/pyekaboo](https://github.com/safebreach-labs/pyekaboo) Proof-of-concept program that is able to to hijack/hook/proxy Python module(s) thanks to $PYTHONPATH variable
+- [**139**Star][10m] [C#] [unknownv2/corehook](https://github.com/unknownv2/corehook) A library that simplifies intercepting application function calls using managed code and the .NET Core runtime
+- [**132**Star][2y] [C++] [m0n0ph1/iat-hooking-revisited](https://github.com/m0n0ph1/iat-hooking-revisited) Import address table (IAT) hooking is a well documented technique for intercepting calls to imported functions.
+- [**128**Star][9m] [Go] [bshuster-repo/logrus-logstash-hook](https://github.com/bshuster-repo/logrus-logstash-hook) 
+- [**125**Star][1m] [C] [gdabah/distormx](https://github.com/gdabah/distormx) The ultimate hooking library
+- [**118**Star][29d] [JS] [skepticfx/hookish](https://github.com/skepticfx/hookish) Hooks in to interesting functions and helps reverse the web app faster.
+- [**116**Star][2m] [Go] [mattbostock/go-ldpreload-backdoor](https://github.com/mattbostock/go-ldpreload-backdoor) LD_PRELOAD libc hooking using Go
+- [**114**Star][2m] [Ruby] [spiderlabs/beef_injection_framework](https://github.com/spiderlabs/beef_injection_framework) Inject beef hooks into HTTP traffic and track hooked systems from cmdline
+- [**110**Star][2m] [C] [hc0d3r/sudohulk](https://github.com/hc0d3r/sudohulk) 使用ptraceHook系统调用execve, 监控并修改sudo命令的参数
+- [**109**Star][1m] [Py] [eset/vba-dynamic-hook](https://github.com/eset/vba-dynamic-hook) dynamically analyzes VBA macros inside Office documents by hooking function calls
+- [**109**Star][4m] [Py] [infertux/zeyple](https://github.com/infertux/zeyple) Postfix filter/hook to automatically encrypt outgoing emails with PGP/GPG
+- [**106**Star][2m] [Java] [pqpo/methodhook](https://github.com/pqpo/methodhook) hook java methods
+- [**105**Star][1m] [Py] [c0demap/codemap](https://github.com/c0demap/codemap) a binary analysis tool for "run-trace visualization" provided as IDA plugin.
+    - [IDA插件](https://github.com/c0demap/codemap/blob/master/idapythonrc.py) 
+    - [Web服务器](https://github.com/c0demap/codemap/tree/master/codemap/server) 
+- [**99**Star][4y] [C] [ionescu007/hookingnirvana](https://github.com/ionescu007/hookingnirvana) Recon 2015 Presentation from Alex Ionescu
+- [**96**Star][8m] [C++] [dzzie/vs_libemu](https://github.com/dzzie/vs_libemu) Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode.
+- [**93**Star][2m] [JS] [oalabs/frida-wshook](https://github.com/oalabs/frida-wshook) Script analysis tool based on Frida.re
+- [**89**Star][2m] [C] [xpn/ssh-inject](https://github.com/xpn/ssh-inject) A ptrace POC by hooking SSH to reveal provided passwords
+- [**88**Star][6y] [C] [chokepoint/crypthook](https://github.com/chokepoint/crypthook) TCP/UDP symmetric encryption tunnel wrapper
+- [**88**Star][4m] [R] [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) pre-commit hooks for R projects
+- [**83**Star][2m] [Py] [enigmabridge/certbot-external-auth](https://github.com/enigmabridge/certbot-external-auth) Certbot external DNS, HTTP, TLSSNI domain validation plugin with JSON output and scriptable hooks, with Dehydrated compatibility
+- [**83**Star][1m] [C] [smealum/udsploit](https://github.com/smealum/udsploit) UDS exploit + kernel hooks for 11.3
+- [**82**Star][2m] [JS] [pnigos/hookjs](https://github.com/pnigos/hookjs) javascript function hook
+- [**79**Star][2m] [C++] [cseagle/collabreate](https://github.com/cseagle/collabreate) IDA Pro Collaboration/Synchronization Plugin
+- [**79**Star][29d] [Pascal] [delphilite/delphihookutils](https://github.com/delphilite/delphihookutils) Delphi Hooking Library by Lsuper
+- [**77**Star][1m] [C] [dodola/fbhookfork](https://github.com/dodola/fbhookfork) 从 fb 的 profilo 项目里提取出来的hook 库，自己用
+- [**76**Star][29d] [C++] [secrary/hooking-via-instrumentationcallback](https://github.com/secrary/hooking-via-instrumentationcallback) codes for my blog post:
+- [**75**Star][2y] [C++] [hrbust86/hookmsrbysvm](https://github.com/hrbust86/hookmsrbysvm) hook msr by amd svm
+- [**73**Star][1m] [C] [nektra/vtbl-ida-pro-plugin](https://github.com/nektra/vtbl-ida-pro-plugin) Identifying Virtual Table Functions using VTBL IDA Pro Plugin + Deviare Hooking Engine
+- [**71**Star][30d] [C++] [petrgeorgievsky/gtarenderhook](https://github.com/petrgeorgievsky/gtarenderhook) GTA SA rendering hook
+- [**71**Star][2m] [C] [zyantific/zyan-hook-engine](https://github.com/zyantific/zyan-hook-engine) Advanced x86/x86-64 hooking library (WIP).
+- [**69**Star][1y] [Java] [bolexliu/apptrack](https://github.com/bolexliu/apptrack) Xposed HookAPP逆向跟踪工具，跟踪Activity与Fragment启动信息等
+- [**66**Star][7y] [C] [chokepoint/jynx2](https://github.com/chokepoint/jynx2) JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit. The backdoor has been replaced with an "accept()" system hook.
+- [**64**Star][5m] [C++] [changeofpace/mouhidinputhook](https://github.com/changeofpace/mouhidinputhook) MouHidInputHook enables users to filter, modify, and inject mouse input data packets into the input data stream of HID USB mouse devices without modifying the mouse device stacks.
+- [**63**Star][5m] [C++] [urshadow/urmem](https://github.com/urshadow/urmem) C++11 cross-platform library for working with memory (hooks, patches, pointer's wrapper, signature scanner etc.)
+- [**60**Star][5m] [C] [respeak/ts3hook](https://github.com/respeak/ts3hook) Teamspeak 3 Hook
+- [**60**Star][2m] [Makefile] [genuinetools/upmail](https://github.com/genuinetools/upmail) Email notification hook for
+- [**60**Star][4m] [C#] [indieteur/globalhooks](https://github.com/indieteur/globalhooks) Allows you to create global keyboard events
+- [**59**Star][3m] [C] [codectile/paradise](https://github.com/codectile/paradise) x86/x86-64 hooking library
+- [**58**Star][2m] [Ruby] [jbjonesjr/letsencrypt-manual-hook](https://github.com/jbjonesjr/letsencrypt-manual-hook) Allows you to use dehydrated (a Let's Encrypt/Acme Client) and DNS challenge response with a DNS provider that requires manual intervention
+- [**57**Star][1m] [Swift] [unixzii/swiftui-hooks](https://github.com/unixzii/swiftui-hooks) A PoC for implementing hooks in SwiftUI
+- [**55**Star][5y] [C++] [malwaretech/fsthook](https://github.com/malwaretech/fsthook) A library for intercepting native functions by hooking KiFastSystemCall
+- [**54**Star][2y] [Py] [stormshadow07/beef-over-wan](https://github.com/stormshadow07/beef-over-wan) Browser Exploitation Framework is a Open-source penetration testing tool that focuses on browser-based vulnerabilities .This Python Script does the changes Required to make hooked Linked Accessible Over WAN .So anyone can use this framework and Attack Over WAN without Port Forwarding [NGROK or any Localhost to Webhost Service Required ]
+- [**53**Star][2y] [C] [chen-charles/pedetour](https://github.com/chen-charles/pedetour) modify binary Portable Executable to hook its export functions
+- [**52**Star][4y] [C] [zhuhuibeishadiao/pfhook](https://github.com/zhuhuibeishadiao/pfhook) Page fault hook use ept (Intel Virtualization Technology)
+- [**51**Star][4y] [breakingmalwareresearch/captain-hook](https://github.com/breakingmalwareresearch/captain-hook) 
+- [**48**Star][6m] [Java] [greywolf007/mobileq750hook](https://github.com/greywolf007/mobileq750hook) MobileQ750Hook
+- [**48**Star][2m] [C] [jay/gethooks](https://github.com/jay/gethooks) GetHooks is a program designed for the passive detection and monitoring of hooks from a limited user account.
+- [**47**Star][27d] [Py] [safebreach-labs/backdoros](https://github.com/safebreach-labs/backdoros) backdorOS is an in-memory OS written in Python 2.7 with a built-in in-memory filesystem, hooks for open() calls and imports, Python REPL etc.
+- [**45**Star][2y] [C++] [coltonon/reghookex](https://github.com/coltonon/reghookex) External mid-function hooking method to retrieve register data
+- [**44**Star][1m] [C] [l1nuxdotfun/spacehook](https://github.com/l1nuxdotfun/spacehook) minecraft premium undeteck cheat!
+- [**42**Star][1y] [C] [dzzie/hookexplorer](https://github.com/dzzie/hookexplorer) technical tool to analyze a process trying to find various types of runtime hooks. Interface and output is geared torwards security experts. Average users wont be able to decipher its output.
+- [**41**Star][9y] [C++] [cr4sh/ptbypass-poc](https://github.com/cr4sh/ptbypass-poc) Bypassing code hooks detection in modern anti-rootkits via building faked PTE entries.
+- [**41**Star][5m] [JS] [gaoding-inc/runtime-hooks](https://github.com/gaoding-inc/runtime-hooks) 
+- [**41**Star][3m] [Py] [killswitch-gui/lterm](https://github.com/killswitch-gui/lterm) lterm is a small script built to install a bash hook for full terminal logging.
+- [**41**Star][4m] [C] [ntraiseharderror/antihook](https://github.com/ntraiseharderror/antihook) PoC designed to evade userland-hooking anti-virus.
+- [**39**Star][1m] [C] [dodola/traphook](https://github.com/dodola/traphook) 
+- [**38**Star][27d] [C++] [ganyao114/sandboxhookplugin](https://github.com/ganyao114/sandboxhookplugin) demo for inject & hook in sandbox
+- [**36**Star][1m] [C] [harvie/libpurple-core-answerscripts](https://github.com/harvie/libpurple-core-answerscripts) Most-hackable Pidgin plugin! Framework for hooking scripts to respond received messages for various libpurple clients such as pidgin or finch
+- [**36**Star][2y] [C#] [roshly/ayyhook-loader](https://github.com/roshly/ayyhook-loader) A Free Open Source Cheat Loader
+- [**35**Star][2y] [C++] [nickcano/reloadlibrary](https://github.com/nickcano/reloadlibrary) A quick-and-dirty anti-hook library proof of concept.
+- [**34**Star][6m] [Py] [eset/volatility-browserhooks](https://github.com/eset/volatility-browserhooks) Volatility Framework plugin to detect various types of hooks as performed by banking Trojans
+- [**33**Star][2m] [JS] [gr2m/before-after-hook](https://github.com/gr2m/before-after-hook) wrap methods with before/after hooks
+- [**32**Star][5m] [idkwim/frooksinatra](https://github.com/idkwim/frooksinatra) POC of sysenter x64 LSTAR MSR hook
+- [**32**Star][2m] [C++] [rokups/hooker](https://github.com/rokups/hooker) Minimalistic hooking library written in C
+- [**32**Star][7m] [ObjC] [zjjno/interface-inspector-hook](https://github.com/zjjno/interface-inspector-hook) Interface Inspector破解
+- [**31**Star][7m] [C++] [ayuto/dynamichooks](https://github.com/ayuto/dynamichooks) A C++ library to create function hooks dynamically, so you can easily embed it into other programming languages..
+- [**31**Star][5m] [C++] [hoangprod/leospecial-veh-hook](https://github.com/hoangprod/leospecial-veh-hook) Vectored Exception Handling Hooking Class
+- [**30**Star][4y] [C] [scorchsecurity/toast](https://github.com/scorchsecurity/toast) User-mode hook bypassing method
+- [**30**Star][1y] [ObjC] [nododo/hookdouyin](https://github.com/nododo/hookdouyin) iOS逆向：如何让抖音自动播放下一个视频(懒人癌)
+- [**29**Star][26d] [Kotlin] [godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
+- [**29**Star][2m] [C] [robotn/gohook](https://github.com/robotn/gohook) GoHook, Go global keyboard and mouse hook
+- [**28**Star][3y] [Py] [tr3jer/autohookspider](https://github.com/tr3jer/autohookspider) 将自动爬虫的结果判断是否属于hooks，并不断抓取url爬啊爬。
+- [**27**Star][1m] [Java] [mx-futhark/hook-any-text](https://github.com/mx-futhark/hook-any-text) The goal of this project is to provide an alternative to well established text hookers, whose features are restrained to a certain number of game engines and emulators.
+- [**27**Star][2m] [C++] [strobejb/sslhook](https://github.com/strobejb/sslhook) OpenSSL hooking
+- [**27**Star][1m] [C++] [aixxe/cstrike-basehook-linux](https://github.com/aixxe/cstrike-basehook-linux) Internal project base for Counter-Strike: Source on Linux.
+- [**27**Star][30d] [Shell] [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit) pre-commit hook terraform; pre-commit hook prometheus
+- [**26**Star][3y] [C++] [ilyatk/hookengine](https://github.com/ilyatk/hookengine) 
+- [**26**Star][3m] [C#] [nytrorst/hookme](https://github.com/nytrorst/hookme) Exported from
+- [**25**Star][3y] [C++] [bronzeme/ssdt_hook_x64](https://github.com/bronzeme/ssdt_hook_x64) 
+- [**25**Star][2m] [Py] [esss/hookman](https://github.com/esss/hookman) A plugin management system in python to applications (in totally or partially) written in C++.
+- [**25**Star][1m] [Py] [rbeuque74/letsencrypt-ovh-hook](https://github.com/rbeuque74/letsencrypt-ovh-hook) Let's Encrypt hook for DNS validation for OVH domains
+- [**24**Star][6y] [C] [jyang772/hideprocesshookmdl](https://github.com/jyang772/hideprocesshookmdl) A simple rootkit to hide a process
+- [**23**Star][6m] [Java] [jackuhan/loginhook](https://github.com/jackuhan/loginhook) xposed的hook案例
+- [**22**Star][3m] [C#] [reloaded-project/reloaded.hooks](https://github.com/reloaded-project/reloaded.hooks) Advanced native function hooks for x86, x64. Welcome to the next level!
+- [**21**Star][1y] [C#] [michel-pi/lowlevelinput.net](https://github.com/michel-pi/lowlevelinput.net) A thread safe and event driven LowLevelMouse and LowLevelKeyboard Hook
+- [**21**Star][5m] [ObjC] [zjjno/cornerstonehook](https://github.com/zjjno/cornerstonehook) Cornerstone破解
+- [**20**Star][1m] [Py] [orndorffgrant/bnhook](https://github.com/orndorffgrant/bnhook) binary ninja plugin for adding custom hooks to executables
+- [**20**Star][6y] [C] [tongzeyu/hooksysenter](https://github.com/tongzeyu/hooksysenter) hook sysenter，重载内核，下硬件断点到debugport，防止debugport清零
+- [**20**Star][4m] [Swift] [kealdishx/swiftloadhook](https://github.com/kealdishx/SwiftLoadHook) Use a hack way to achieve similar functions as Load() or initialize() in OC
+- [**19**Star][29d] [JS] [cynops/frida-hooks](https://github.com/cynops/frida-hooks) 
+- [**17**Star][2y] [JS] [compewter/whoof](https://github.com/compewter/whoof) Web Browser Hooking Framework. Manage, execute and assess web browser vulnerabilities
+- [**17**Star][3y] [C] [zhuhuibeishadiao/kernelhooksdetection_x64](https://github.com/zhuhuibeishadiao/kernelhooksdetection_x64) x64 Kernel Hooks Detection
+- [**16**Star][3m] [C] [osrdrivers/penter](https://github.com/osrdrivers/penter) penter hook example and driver time recorder
+- [**15**Star][4y] [C++] [gfreivasc/vmthook](https://github.com/gfreivasc/vmthook) Virtual Method Table Hook
+- [**14**Star][2m] [C] [hasherezade/loaderine](https://github.com/hasherezade/loaderine) A demo implementation of a well-known technique used by some malware to evade userland hooking, using my library: libpeconv.
+- [**14**Star][5m] [C] [manicstreetcoders/appinitglobalhooks-mimikatz](https://github.com/manicstreetcoders/appinitglobalhooks-mimikatz) Hide Mimikatz From Process Lists
+- [**14**Star][28d] [JS] [duolingo/pre-commit-hooks](https://github.com/duolingo/pre-commit-hooks) Standardizing our code quality tooling
+- [**12**Star][7m] [C++] [mgeeky/prc_xchk](https://github.com/mgeeky/prc_xchk) User-mode process cross-checking utility intended to detect naive malware hiding itself by hooking IAT/EAT.
+- [**11**Star][7m] [C] [david-reguera-garcia-dreg/emuhookdetector](https://github.com/david-reguera-garcia-dreg/emuhookdetector) hook detector using emulation and comparing static with dynamic outputs
+- [**11**Star][1y] [C++] [scorbutics/iathook](https://github.com/scorbutics/iathook) A library that allows hook any imported function from the IAT (works only in x64)
+- [**10**Star][9m] [ObjC] [elegantliar/wechathook](https://github.com/ElegantLiar/WeChatHook) iOS非越狱 逆向微信实现防撤回, 修改步数
+- [**10**Star][3m] [C] [u2400/libc_hook_demo](https://github.com/u2400/libc_hook_demo) 一个HIDS agent端的demo
+- [**9**Star][9m] [C++] [david-grs/mtrace](https://github.com/david-grs/mtrace) simple c++ hooks around malloc/realloc/free
+- [**8**Star][10m] [coolervoid/bank_mitigations](https://github.com/coolervoid/bank_mitigations) Anti keylogger, anti screen logger... Strategy to protect with hookings or improve your sandbox with spyware detection... - Demo
+- [**8**Star][2m] [C++] [cyrex1337/hook.lib](https://github.com/cyrex1337/hook.lib) easy detour-, vftable-, iat- and eathooking
+- [**8**Star][2m] [C] [david-reguera-garcia-dreg/cgaty](https://github.com/david-reguera-garcia-dreg/cgaty) Hooking the GDT - Installing a Call Gate. POC for Rootkit Arsenal Book Second Edition
+- [**8**Star][3y] [C] [hollydi/ring0hook](https://github.com/hollydi/ring0hook) 
+- [**8**Star][1y] [Swift] [zhangkn/hookingcmethods](https://github.com/zhangkn/hookingcmethods) Hooking & Executing Code with dlopen & dlsym ---Easy mode:hooking C methods
+- [**7**Star][1y] [C++] [codereversing/sehveh_hook](https://github.com/codereversing/sehveh_hook) Hooking functions with structured and vectored exception handling
+- [**7**Star][3y] [Java] [fuhuiliu/xposedhooktarget](https://github.com/fuhuiliu/xposedhooktarget) Xposed 插件基础开发之Hook目标
+- [**7**Star][8y] [C++] [wyyqyl/hookiat](https://github.com/wyyqyl/hookiat) 
+- [**6**Star][6y] [C#] [aristocat/keyhook](https://github.com/aristocat/keyhook) A C# library for general hot keys.
+- [**6**Star][5m] [Java] [lailune/slrrmultiplayer](https://github.com/lailune/slrrmultiplayer) Street Legal: Redline hook-based Multiplayer modification
+- [**4**Star][3y] [C++] [blaquee/apchook](https://github.com/blaquee/apchook) hooking KiUserApcDispatcher
+- [**4**Star][2y] [ObjC] [corzfree/hookwx](https://github.com/corzfree/hookwx) 逆向工具
+- [**4**Star][2y] [C++] [m0rtale/universal-wndproc-hook](https://github.com/m0rtale/universal-wndproc-hook) Universal WndProc Hook for x86 and x64
+- [**4**Star][1y] [C] [nikolait/chess-com-cheat](https://github.com/nikolait/chess-com-cheat) Library that hooks into PR_Write() and PR_Read() in firefox processes and manipulates WebSocket Messages to cheat on chess.com
+- [**4**Star][6y] [C++] [simonberson/chromeurlsniffer](https://github.com/simonberson/chromeurlsniffer) Hook to Chrome Browser URL and show the current URL on simple textbox
+- [**3**Star][2y] [ObjC] [susnmos/xituhook](https://github.com/susnmos/xituhook) 逆向分析及修复稀土掘金iOS版客户端闪退bug
+- [**2**Star][4m] [Py] [swarren/uboot-test-hooks](https://github.com/swarren/uboot-test-hooks) Example "hook" scripts for the U-Boot test framework
+- [**2**Star][2y] [C] [synestraa/archultimate.hooklib](https://github.com/synestraa/archultimate.hooklib) ArchUltimate hook library
+- [**2**Star][2m] [C] [carlomara/qemu-ioctl-hooks](https://github.com/carlomara/qemu-ioctl-hooks) Code samples for blog post
+- [**1**Star][1y] [TS] [larkintuckerllc/hello-hooks](https://github.com/larkintuckerllc/hello-hooks) 
+- [**1**Star][1y] [C++] [smore007/remote-iat-hook](https://github.com/smore007/remote-iat-hook) Remote IAT hook example. Useful for code injection
+- [**1**Star][2y] [ObjC] [wpstarnice/hookstatistics](https://github.com/wpstarnice/hookstatistics) 
+- [**1**Star][2y] [C++] [zuhhcsg0/nebulahook](https://github.com/zuhhcsg0/nebulahook) 
+- [**1**Star][2y] [C] [chocolateboy/b-hooks-op-annotation](https://github.com/chocolateboy/b-hooks-op-annotation) A Perl module which allows XS modules to annotate and delegate hooked OPs
+- [**1**Star][5m] [C++] [fireboyd78/d3hook](https://github.com/fireboyd78/d3hook) The magnificent hooking framework for Driv3r.
+- [**0**Star][1y] [Rust] [badboy/travis-after-all-rs](https://github.com/badboy/travis-after-all-rs) The missing `after_all_success` hook for Travis
+- [**0**Star][2y] [C] [cblack-r7/hashcat-hook](https://github.com/cblack-r7/hashcat-hook) A few LD_PRELOAD hooks to fix specific issues with hashcat
+- [**0**Star][2y] [Py] [ciscose/sparkhelper](https://github.com/ciscose/sparkhelper) A few of functions that help with checking that your bot is being used by an approved organization and for verifying the signature of a web hook request.
+- [**0**Star][2y] [JS] [yazeedb/responsive-fdt2-hooks](https://github.com/yazeedb/responsive-fdt2-hooks) Created with CodeSandbox
+- [**0**Star][10m] [zhulmin/iosapphook](https://github.com/zhulmin/iosapphook) iOS 逆向开发学习笔记
+- [**0**Star][1y] [shell] [keychest/certbot-hooks](https://gitlab.com/keychest/certbot-hooks) 
+- [**0**Star][5y] [Py] [nikseetharaman/grapplinghook](https://github.com/nikseetharaman/grapplinghook) Open Source 802.11 Direction Finder
+- [**None**Star][C] [tandasat/uefivarmonitor](https://github.com/tandasat/uefivarmonitor) The runtime DXE driver monitoring access to the UEFI variables by hooking the runtime service table.
+- [**None**Star][C] [shoumikhin/elf-hook](https://github.com/shoumikhin/elf-hook) ELF shared library import table patching for function redirection.
+
+
+***
+
+
+## <a id="35bcd6dfdf8eb61a1c5f41cf90eed31f"></a>Post
+
+
+- 2020.02 [zoom] [‘We Were Hooked From Day One’: How Zoom, Zoom Rooms Helped Save the Children Transform Communications](https://blog.zoom.us/wordpress/2020/02/28/zoom-save-the-children-transform-communications/)
+- 2020.02 [cqureacademy] [[RSA USA 2020] Explore Adventures in the Underland: Forensic Techniques Against Hackers Evading the Hook](https://cqureacademy.com/blog/other/rsa-usa-2020-explore-adventures-in-the-underland-forensic-techniques-against-hackers-evading-the-hook)
+- 2020.01 [WarrantyVoider] [RE with WV - Episode #8 Taking over functions with detouring/hooking](https://www.youtube.com/watch?v=GfN5fCf7tGU)
+- 2019.08 [webroot] [Cyber News Rundown: Hookup App Exposes Users](https://www.webroot.com/blog/2019/08/16/cyber-news-rundown-hookup-app-exposes-users/)
+- 2019.07 [0x00sec] [Hooking in x64 bits](https://0x00sec.org/t/hooking-in-x64-bits/14940)
+- 2019.05 [logrocket] [How to migrate from HOCs to Hooks](https://medium.com/p/d0f7675fd600)
+- 2019.05 [codeinsecurity] [Using uMod Patcher to create new hooks for Rust (the game)](https://codeinsecurity.wordpress.com/2019/05/14/using-umod-patcher-to-create-new-hooks-for-rust-the-game/)
+- 2019.04 [logrocket] [Experimental Node.js: testing the new performance hooks](https://medium.com/p/31fcdd2a747e)
+- 2019.04 [malware] [2019-04-03 - QUICK POST: HOOKADS CAMPAIGN RIG EK SENDS AZORULT](http://malware-traffic-analysis.net/2019/04/03/index.html)
+- 2019.03 [0x00sec] [Defeating Userland Hooks (ft. Bitdefender)](https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/12496/)
+- 2019.03 [illuminati] [Why does EpicGamesLauncher hook into every process on my machine? (and keep them open after they close?)](https://illuminati.services/2019/03/20/why-does-epicgameslauncher-hook-into-every-process-on-my-machine-and-keep-them-open-after-they-close/)
+- 2019.02 [malware] [2019-02-28 - FALLOUT EK FROM HOOKADS CAMPAIGN](http://malware-traffic-analysis.net/2019/02/28/index.html)
+- 2019.02 [Fig] [Hookshotless GTG](https://www.youtube.com/watch?v=awxiJwEA-qs)
+- 2019.02 [kaspersky] [How pirates hook gamers](https://www.kaspersky.com/blog/how-pirates-hook-gamers/25634/)
+- 2019.01 [fsx30] [Bypass EDR’s memory protection, introduction to hooking](https://medium.com/p/2efb21acffd6)
+- 2019.01 [fsx30] [Vectored Exception Handling, Hooking Via Forced Exception](https://medium.com/p/f888754549c6)
+- 2019.01 [malware] [2019-01-10 - HOOKADS CAMPAIGN RIG EK PUSHES VIDAR](http://malware-traffic-analysis.net/2019/01/10/index2.html)
+- 2019.01 [malware] [2019-01-04 - HOOKADS CAMPAIGN RIG EK PUSHES SMOKELOADER](http://malware-traffic-analysis.net/2019/01/04/index2.html)
+- 2018.11 [traffic] [[2018-11-22] HookAds->FalloutEK->KPOT](https://traffic.moe/2018/11/22/index.html)
+- 2018.11 [traffic] [[2018-11-21] HookAds->FalloutEK->AZORult->NetWireRAT](https://traffic.moe/2018/11/21/index.html)
+- 2018.11 [nao] [HookAds->FalloutEK pushes Nocturnal Stealer, And new GlobeImposter](https://www.nao-sec.org/2018/11/hookads-fallout-ek-pushes-nocturnal.html)
+- 2018.11 [traffic] [[2018-11-10] HookAds->FalloutEK->Vidar->GlobeImposter](https://traffic.moe/2018/11/10/index.html)
+- 2018.11 [traffic] [[2018-11-08] HookAds->FalloutEK->DanaBot](https://traffic.moe/2018/11/08/index.html)
+- 2018.10 [vkremez] [Let's Learn: Exploring ZeusVM Banking Malware Hooking Engine](https://www.vkremez.com/2018/10/lets-learn-exploring-zeusvm-banking.html)
+- 2018.10 [traffic] [[2018-10-29] HookAds->FalloutEK->AZORult->GlobeImposter+CoalaBot](https://traffic.moe/2018/10/29/index.html)
+- 2018.10 [pentest] [Offensive IAT Hooking](https://pentest.blog/offensive-iat-hooking/)
+- 2018.10 [traffic] [[2018-10-09] HookAds->FalloutEK->AZORult](https://traffic.moe/2018/10/09/index.html)
+- 2018.10 [traffic] [[2018-10-06] HookAds->FalloutEK->SmokeLoader->Miner](https://traffic.moe/2018/10/06/index.html)
+- 2018.10 [traffic] [[2018-10-04] HookAds->FalloutEK->Kraken](https://traffic.moe/2018/10/04/index.html)
+- 2018.09 [auth0] [Validate User Emails Fast using Kickbox and Auth0 Hooks](https://auth0.com/blog/validate-user-emails-fast-using-kickbox-and-auth0-hooks/)
+- 2018.08 [thedebuggers] [Minify  HTML in CodeIgniter using Hooks](https://thedebuggers.com/minify-html-codeigniter-using-hooks/)
+- 2018.08 [badtrace] [Anti-Hooking checks of SmokeLoader 2018](https://blog.badtrace.com/post/anti-hooking-checks-of-smokeloader-2018/)
+- 2018.07 [BSidesTLV] [Deep hooks - Assaf Carlsbad & Yarden Shafir](https://www.youtube.com/watch?v=z1AfUL8BxXI)
+- 2018.07 [Fig] [Suns Grave Keese (Chus+Hook)](https://www.youtube.com/watch?v=35woQK19yQE)
+- 2018.07 [Fig] [Hoverbooots vs Hookshot First (version 2)](https://www.youtube.com/watch?v=WTUWW-UzNv4)
+- 2018.07 [Fig] [Hovers First vs Hookshot First (new vc equip dupe route)](https://www.youtube.com/watch?v=EYxDZr1gOms)
+- 2018.05 [pierrchen] [Understand Container 6: Hooks and Network](http://pierrchen.blogspot.mk/2018/05/understand-container-6-hooks-and-network.html)
+- 2018.05 [apriorit] [Detecting Hook and ROP Attacks: Methods with Examples](https://www.apriorit.com/dev-blog/536-detecting-hook-and-rop-attacks)
+- 2018.04 [cqureacademy] [RSA 2018: Adventures In The Underland: Techniques Against Hackers Evading The Hook](https://cqureacademy.com/blog/forensics/rsa-2018-san-francisco)
+- 2018.03 [traffic] [[2018-03-20] HookAds->RigEK->Miner](https://traffic.moe/2018/03/20/index.html)
+- 2018.03 [malwarebreakdown] [Fobos Campaign Uses HookAds Template and Delivers Bunitu Proxy Trojan via RIG EK](https://malwarebreakdown.com/2018/03/12/hookads-or-fobos-campaign-delivers-bunitu-proxy-trojan-via-rig-ek/)
+- 2018.03 [sentinelone] [Next Post:](https://www.sentinelone.com/blog/deep-hooks-monitoring-native-execution-wow64-applications-part-1/)
+- 2018.03 [Fig] [Spirit BK Skip: Hookshot Jump vs Superslide](https://www.youtube.com/watch?v=0h7D_1pVlu8)
+- 2018.03 [malwarebreakdown] [HookAds Campaign Is Back And Using RIG EK to Deliver Bunitu Proxy Trojan](https://malwarebreakdown.com/2018/03/07/hookads-campaign-is-back-and-using-rig-ek-to-deliver-bunitu-proxy-trojan/)
+- 2018.02 [nytrosecurity] [Hooking Chrome’s SSL functions](https://nytrosecurity.com/2018/02/26/hooking-chromes-ssl-functions/)
+- 2018.02 [HACKADAY] [Brilliant path to stronger wall hooks through 3D printing with reinfocement](https://www.youtube.com/watch?v=Imb3uvQZkIE)
+- 2017.12 [hasherezade] [hook finder vs Process Doppelganging](https://www.youtube.com/watch?v=T9pWqYGHqLM)
+- 2017.12 [hasherezade] [Unpacking Magniber ransomware with PE-sieve (former: 'hook_finder')](https://www.youtube.com/watch?v=lqWJaaofNf4)
+- 2017.12 [hshrzd] [Hook the planet! Solving FlareOn4 Challenge6 with libPeConv](https://hshrzd.wordpress.com/2017/12/01/hook-the-planet-solving-flareon4-challenge6-with-libpeconv/)
+- 2017.11 [Fig] [Hookshotless Chuslide Teleport Explanation](https://www.youtube.com/watch?v=wM6q87bGLuA)
+- 2017.11 [Fig] [Hovers First vs Hook First in 100%](https://www.youtube.com/watch?v=enCXCBm5jxo)
+- 2017.10 [ccsinet] [Cybersecurity Trends That Shook 2017](https://www.ccsinet.com/blog/cybersecurity-trends-2017/)
+- 2017.09 [nickcano] [Hooking LuaJIT](https://nickcano.com/hooking-luajit/)
+- 2017.09 [arxiv] [[1709.08331] By Hook or by Crook: Exposing the Diverse Abuse Tactics of Technical Support Scammers](https://arxiv.org/abs/1709.08331)
+- 2017.09 [malwarebreakdown] [HookAds Campaign Leads to RIG EK and Drops ZeuS Panda.](https://malwarebreakdown.com/2017/09/14/hookads-campaign-leads-to-rig-ek-and-drops-zeus-panda/)
+- 2017.09 [hackersgrid] [BeEF – Hooking Browser using Classic 2048 HTML Game](http://hackersgrid.com/2017/09/beef-adding-hook-to-a-website.html)
+- 2017.08 [hasherezade] [hook_finder - a small tool for investigating in-memory patches](https://www.youtube.com/watch?v=CIdhgOjOC4k)
+- 2017.08 [malwarebreakdown] [Malvertising Chain Leads to the HookAds Campaign. RIG Drops Dreambot.](https://malwarebreakdown.com/2017/08/03/malvertising-chain-leads-to-the-hookads-campaign-rig-drops-dreambot/)
+- 2017.07 [malwarebreakdown] [Dreambot Dropped by HookAds](https://malwarebreakdown.com/2017/07/27/dreambot-dropped-by-hookads/)
+- 2017.07 [malwarebreakdown] [HookAds Continues to use RIG EK to Drop Dreambot](https://malwarebreakdown.com/2017/07/18/hookads-continues-to-use-rig-ek-to-drop-dreambot/)
+- 2017.06 [malwarebreakdown] [Malvertising Leads to HookAds Campaign Which Redirects to RIG EK at 188.225.74.13. RIG EK Drops Dreambot.](https://malwarebreakdown.com/2017/06/25/malvertising-leads-to-hookads-campaign-which-redirects-to-rig-ek-at-188-225-74-13-rig-ek-drops-dreambot/)
+- 2017.06 [malwarebreakdown] [HookAds Campaign Leads to RIG EK at 188.225.78.240. RIG EK Drops Dreambot.](https://malwarebreakdown.com/2017/06/20/hookads-campaign-leads-to-rig-ek-at-188-225-78-240-rig-ek-drops-dreambot/)
+- 2017.06 [malwarebreakdown] [HookAds Malvertising Campaign Leads to RIG EK at 194.87.93.114 and Drops Dreambot](https://malwarebreakdown.com/2017/06/06/hookads-malvertising-campaign-leads-to-rig-ek-at-194-87-93-114-and-drops-dreambot/)
+- 2017.06 [blacksunhackers] [Leveraging Application Verifier for Function Hooking and Persistence](http://blacksunhackers.club/2017/06/leveraging-application-verifier-for-function-hooking-and-persistence/)
+- 2017.05 [malwarebreakdown] [HookAds Campaign Leads to RIG EK at 188.227.74.169 and 5.200.52.203, Drops Dreambot](https://malwarebreakdown.com/2017/05/31/hookads-campaign-leads-to-rig-ek-at-188-227-74-169-and-5-200-52-203-drops-dreambot/)
+- 2017.05 [Fig] [Shadow Early with Hookshot Jump Tutorial](https://www.youtube.com/watch?v=HTU0fKl-6uQ)
+- 2017.05 [malwarebreakdown] [HookAds Malvertising Campaign Leads to RIG EK at 185.154.53.33, Drops LatentBot](https://malwarebreakdown.com/2017/05/18/hookads-malvertising-campaign-leads-to-rig-ek-at-185-154-53-33-drops-latentbot/)
+- 2017.05 [csyssec] [使用LRB(最近分支记录)特性检测IDT Hooking](http://www.csyssec.org/20170504/lbr-idthooking/)
+- 2017.04 [MalwareAnalysisForHedgehogs] [Malware Analysis - Hook Injection PoC by Robert Kuster](https://www.youtube.com/watch?v=oS54M2GMXNY)
+- 2017.04 [Fig] [skip bombable wall in dc with hookshot jump [useless]](https://www.youtube.com/watch?v=6leP8AmKUhA)
+- 2017.03 [malwarebreakdown] [HookAds Campaign Leads to RIG EK at 92.53.104.78](https://malwarebreakdown.com/2017/03/21/hookads-campaign-leads-to-rig-ek-at-92-53-104-78/)
+- 2017.02 [malwarebreakdown] [HookAds Malvertising Redirects to RIG-v EK at 217.107.219.99. EK Drops Ursnif Variant Dreambot.](https://malwarebreakdown.com/2017/02/19/hookads-malvertising-redirects-to-rig-v-ek-at-217-107-219-99-ek-drops-ursnif-variant-dreambot/)
+- 2017.02 [auth0] [Introducing Auth0 Hooks](https://auth0.com/blog/introducing-auth0-hooks/)
+- 2017.02 [anitian] [RSA Conference 2017 – By Hook Or By Crook, We Will](https://www.anitian.com/blog/rsa-conference-2017-hook-crook-will/)
+- 2017.02 [cqureacademy] [Forensic techniques against hackers evading the hook (notes from NIC conference)](https://cqureacademy.com/blog/forensics/forensic-techniques)
+- 2017.01 [engineeringblog] [Announcing Docker Hook Support for Pre-Commit](https://engineeringblog.yelp.com/2017/01/announcing-docker-hook-support-for-pre-commit.html)
+- 2016.11 [malwarebytes] [The HookAds malvertising campaign](https://blog.malwarebytes.com/cybercrime/exploits/2016/11/the-hookads-malvertising-campaign/)
+- 2016.10 [criteo] [Criteo to Acquire HookLogic – Strengthening its Performance Marketing Platform](http://labs.criteo.com/2016/10/criteo-acquire-hooklogic-strengthening-performance-marketing-platform/)
+- 2016.08 [securityintelligence] [The Increasing Dangers of Code Hooking](https://securityintelligence.com/the-increasing-dangers-of-code-hooking/)
+- 2016.08 [scorchsecurity] [Bypassing user-mode hooks the sneaky way](https://scorchsecurity.wordpress.com/2016/08/26/bypassing-user-mode-the-sneaky-way/)
+- 2016.07 [ensilo] [Intrusive Applications: 6 Security Issues to Watch Out for in Hooking](https://blog.ensilo.com/intrusive-applications-6-security-to-watch-out-for-in-hooking)
+- 2016.04 [f] [Unprotected WiFi Hook-Ups in action at Collision](https://blog.f-secure.com/unprotected-wifi-hook-ups-in-action-at-collision/)
+- 2016.04 [f] [Unprotected WiFi Hook-Ups in action at Collision](https://safeandsavvy.f-secure.com/2016/04/28/unprotected-wifi-hook-ups-in-action-at-collision/)
+- 2016.03 [talosintelligence] [Angler Attempts to Slip the Hook](https://blog.talosintelligence.com/2016/03/angler-slips-hook.html)
+- 2016.01 [beefproject] [Hooked Browser Network with BeEF and Google Drive](http://blog.beefproject.com/2016/01/hooked-browser-network-with-beef-and.html)
+- 2015.12 [bhconsulting] [The ransomware of Christmas present: 60,000 hooked by festive imagery](http://bhconsulting.ie/the-ransomware-of-christmas-present-60000-hooked-by-festive-imagery/)
+- 2015.12 [sparkfun] [Shapeoko hookup guides and tutorials](https://www.sparkfun.com/news/1983)
+- 2015.08 [MalwareTech] [Hook Scanner Test (Zeus)](https://www.youtube.com/watch?v=Cp5x68zJQI0)
+- 2015.08 [malwaretech] [User Mode Hook Scanner (Alpha)](https://www.malwaretech.com/2015/08/user-mode-hook-scanner-alpha.html)
+- 2015.08 [checkpoint] [JavaScript Hooking as a Malicious Website Research Tool | Check Point Software Blog](https://blog.checkpoint.com/2015/08/18/javascript-hooking-malicious-website-research-tool/)
+- 2015.08 [mwrinfosecurity] [Dynamic Hooking Techniques: User Mode](https://www.mwrinfosecurity.com/our-thinking/dynamic-hooking-techniques-user-mode/)
+- 2015.08 [holisticinfosec] [toolsmith: There Is No Privacy - Hook Analyser vs. Hacking Team](https://holisticinfosec.blogspot.com/2015/08/toolsmith-there-is-no-privacy-hook.html)
+- 2015.07 [inopinatus] [Hook AWS notifications into Slack with a Lambda function](https://inopinatus.org/2015/07/13/hook-aws-notifications-into-slack-with-a-lambda-function/)
+- 2015.06 [talosintelligence] [Hook, Line & Sinker: Catching Unsuspecting Users Off Guard](https://blog.talosintelligence.com/2015/06/hook-line-sinker-catching-unsuspecting.html)
+- 2015.05 [malwarebytes] [Scams Within Facebook Press On, Use “Facebook for Business” Hook](https://blog.malwarebytes.com/cybercrime/2015/05/scams-within-facebook-press-on-use-facebook-for-business-hook/)
+- 2015.04 [rtl] [Hooking up an Si5351A Voltage Controlled Oscillator to the Local Oscillator Input on an RTL-SDR](https://www.rtl-sdr.com/hooking-up-an-si5351a-voltage-controlled-oscillator-to-the-local-oscillator-input-on-an-rtl-sdr/)
+- 2015.04 [nabla] [Hooking Variadic Functions With Substrate](https://nabla-c0d3.github.io/blog/2015/04/24/hooking-variadic-functions/)
+- 2015.04 [malwaretech] [Intercepting all System Calls by Hooking KiFastSystemCall](https://www.malwaretech.com/2015/04/intercepting-all-system-calls-by.html)
+- 2015.03 [securify] [Hooking Swift methods for fun and profit](https://securify.nl/en/blog/SFY20150302/hooking-swift-methods-for-fun-and-profit.html)
+- 2015.01 [codereversing] [Virtual Method Table (VMT) Hooking](http://www.codereversing.com/blog/archives/181)
+- 2014.12 [arduino] [How to print a Pirate Hook with your Materia 101](https://blog.arduino.cc/2014/12/10/how-to-print-a-pirate-hook/)
+- 2014.11 [siliconblade] [Finding Call Reference Hooks in Mac Memory](http://siliconblade.blogspot.com/2014/11/finding-call-reference-hooks-in-mac.html)
+- 2014.11 [mcafee] [Hooking the Mac - Mac OS X Wirelurker malware](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hooking-mac/)
+- 2014.11 [mcafee] [Chinese Trojan Hooks Macs, iPhones](https://securingtomorrow.mcafee.com/mcafee-labs/hooking-mac/)
+- 2014.10 [quequero] [Kaspersky Hooking Engine Analysis](https://quequero.org/2014/10/kaspersky-hooking-engine-analysis/)
+- 2014.09 [christophertruncer] [Getting Hooked up with Responder and Beef](https://www.christophertruncer.com/getting-hooked-responder-beef/)
+- 2014.09 [sparkfun] [Electricute - Conductive Velcro-Style Hook and Loop](https://www.sparkfun.com/news/1597)
+- 2014.08 [engineeringblog] [Announcing pre-commit: Yelp’s Multi-Language Package Manager For Pre-Commit Hooks](https://engineeringblog.yelp.com/2014/08/announcing-pre-commit-yelps-multi-language-package-manager-for-pre-commit-hooks.html)
+- 2014.06 [malwarebytes] [Scammers Continue to Hook Users with Free Facebook Hacking](https://blog.malwarebytes.com/cybercrime/2014/06/scammers-continue-to-hook-users-with-free-facebook-hacking/)
+- 2014.06 [malwaretech] [Usermode System Call hooking – Betabot Style](https://www.malwaretech.com/2014/06/usermode-system-call-hooking-betabo.html)
+- 2014.05 [toolswatch] [Hook Analyser v3.1 Released](http://www.toolswatch.org/2014/05/hook-analyser-v3-1-released/)
+- 2014.01 [toolswatch] [Hook Analyser v3.0 The malware analysis utility released with the support of Cyber Threat Intelligence](http://www.toolswatch.org/2014/01/hook-analyser-v3-0-the-malware-analysis-utility-released-with-the-support-of-cyber-threat-intelligence/)
+- 2014.01 [HackersSecurity] [DEFCON 17: Managed Code Rootkits Hooking into Runtime Enviroments](https://www.youtube.com/watch?v=bBA-XCXNsY8)
+- 2013.12 [publicintelligence] [(U//FOUO) New Jersey Fusion Center: School Attacks and Plots Since Sandy Hook](https://publicintelligence.net/njroic-school-shootings-2013/)
+- 2013.12 [incolumitas] [IAT hooking](http://incolumitas.com/2013/12/07/iat-hooking/)
+- 2013.11 [publicintelligence] [Connecticut State’s Attorney Report on Sandy Hook Elementary School Mass Shooting](https://publicintelligence.net/ct-sandy-hook/)
+- 2013.11 [rsa] [Detecting New 50-Troting Shell Hook Malware](https://community.rsa.com/community/products/netwitness/blog/2013/11/08/detecting-new-50-troting-shell-hook-malware)
+- 2013.10 [malwaretech] [Ring3 / Ring0 Rootkit Hook Detection 2/2](https://www.malwaretech.com/2013/10/ring3-ring0-rootkit-hook-detection-22.html)
+- 2013.09 [toolswatch] [Hook Analyser v2.6 Released](http://www.toolswatch.org/2013/09/hook-analyser-v2-6-released/)
+- 2013.09 [malwaretech] [Ring3 / Ring0 Rootkit Hook Detection 1/2](https://www.malwaretech.com/2013/09/ring3-ring0-rootkit-hook-detection-12.html)
+- 2013.09 [malwaretech] [Fighting Hooks With Hooks – Sandbox Escape](https://www.malwaretech.com/2013/09/fighting-hooks-with-hooks-sandbox-escape.html)
+- 2013.07 [siliconblade] [Hooking IDT in OS X and Detection](http://siliconblade.blogspot.com/2013/07/idt-hooks-and-detecting-them-in-osx.html)
+- 2013.07 [siliconblade] [Back to Defense: Finding Hooks in OS X with Volatility](http://siliconblade.blogspot.com/2013/07/back-to-defense-finding-hooks-in-os-x.html)
+- 2013.05 [toolswatch] [Hook Analyser v2.5 Released](http://www.toolswatch.org/2013/05/hook-analyser-v2-5-released/)
+- 2013.04 [WarrantyVoider] [ME3OTH - Hooking Sequence Objects](https://www.youtube.com/watch?v=VfGqEDVRZ0o)
+- 2013.03 [trustwave] [Hooked on Packets: Reading PCAPs for D Students - Preview](https://www.trustwave.com/Resources/SpiderLabs-Blog/Hooked-on-Packets--Reading-PCAPs-for-D-Students---Preview/)
+- 2013.03 [kaspersky] [10 arrests that shook the cybercrime underworld](https://www.kaspersky.com/blog/10-arrests-that-shook-the-cybercrime-underworld/1397/)
+- 2013.03 [toolswatch] [Hook Analyser v2.4 Released](http://www.toolswatch.org/2013/03/hook-analyser-v2-4-released/)
+- 2013.02 [freebuf] [恶意软件分析工具—Hook Analyser v2.3](http://www.freebuf.com/sectool/7362.html)
+- 2013.02 [toolswatch] [Hook Analyser v2.3 Released](http://www.toolswatch.org/2013/02/hook-analyser-v2-3-released/)
+- 2013.01 [nengx] [QQ2013 聊天记录获取(Hook)](https://blog.csdn.net/nengx/article/details/8481307)
+- 2012.12 [rapid7] [Introduction to Metasploit Hooks](https://blog.rapid7.com/2012/12/17/metasploit-hooks/)
+- 2012.10 [toolswatch] [Tools in The Hook – Issue #1 (Ghost in the Wires Review & NetworkMiner Author Interview)](http://www.toolswatch.org/2012/10/tools-in-the-hook-issue-sept-2012/)
+- 2012.10 [forcepoint] [Hook, line and sinker: the dangers of Location-Based Services](https://www.forcepoint.com/blog/security-labs/hook-line-and-sinker-dangers-location-based-services)
+- 2012.08 [securesolutions] [Guide to understanding XSS – Payloads, attack vectors, BeEF hooking, MiTM with Shank and some history](https://www.securesolutions.no/xss-explained/)
+- 2012.08 [zonealarm] [Don’t Get Hooked: Anatomy of an Email Scam](https://www.zonealarm.com/blog/2012/08/anatomy-of-an-email-scam/)
+- 2012.08 [zonealarm] [Don’t Get Hooked: Anatomy of an Email Scam](https://blog.zonealarm.com/2012/08/anatomy-of-an-email-scam/)
+- 2012.08 [redplait] [MsgHookLister](http://redplait.blogspot.com/2012/08/msghooklister.html)
+- 2012.06 [redplait] [CoRegisterChannelHook in w8 consumer preview](http://redplait.blogspot.com/2012/06/coregisterchannelhook-in-w8-consumer.html)
+- 2012.03 [rachelbythebay] [Hooking up a school to a T1 on the cheap](http://rachelbythebay.com/w/2012/03/01/ppp/)
+- 2011.10 [redplait] [w8 DelayLoadFailureHookImplementation](http://redplait.blogspot.com/2011/10/w8-delayloadfailurehookimplementation.html)
+- 2011.09 [a1logic] [Reversing Stuxnet: 5 (Kernel Hooking)](https://www.a1logic.com/2011/09/27/reversing-stuxnet-5-kernel-hooking/)
+- 2011.08 [a1logic] [Reversing Stuxnet: 3 (Filesystem hooking)](https://www.a1logic.com/2011/08/20/reversing-stuxnet-3-filesystem-hooking/)
+- 2011.03 [redplait] [IERT_DelayLoadFailureHook](http://redplait.blogspot.com/2011/03/iertdelayloadfailurehook.html)
+- 2011.03 [androidcracking] [original smalihook java source](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
+- 2010.11 [e] [One safe hook handler - E8 Method](http://e-omidfar.blogspot.com/2010/11/one-safe-hook-handler-e8-method.html)
+- 2010.05 [cleanbytes] [A new attack method–Kernel HOok Bypassing Engine ?](http://cleanbytes.net/a-new-attack-method-kernel-hook-bypassing-engine)
+- 2010.03 [imthezuk] [hooking for fun and profit 2 - logging function calls](https://imthezuk.blogspot.com/2010/03/hooking-for-fun-and-profit-2-logging.html)
+- 2009.10 [vexillium] [TraceHook v0.0.2](http://j00ru.vexillium.org/?p=175)
+- 2009.10 [vexillium] [TraceHook v0.0.2](https://j00ru.vexillium.org/2009/10/tracehook-v0-0-2/)
+- 2009.09 [webroot] [Roman Polanski Arrest Spawns Headline-Hooking Rogues](https://www.webroot.com/blog/2009/09/28/roman-polanski-arrest-spawns-headline-hooking-rogues/)
+- 2009.08 [vexillium] [TraceHook v0.0.1 release](http://j00ru.vexillium.org/?p=141)
+- 2009.08 [vexillium] [TraceHook v0.0.1 release](https://j00ru.vexillium.org/2009/08/tracehook-v0-0-1-release/)
+- 2009.02 [coldwind] [ExcpHook ver 0.0.5-rc2](http://gynvael.coldwind.pl/?id=148)
+- 2008.09 [coldwind] [Is function hooking in Chrome really a security mechanism?](http://gynvael.coldwind.pl/?id=57)
+- 2008.04 [evilcodecave] [Hooking the Hook](https://evilcodecave.wordpress.com/2008/04/03/82/)
+- 2007.11 [bhconsulting] [Spammers use religion as a hook](http://bhconsulting.ie/spammers-use-religion-as-a-hook/)
+- 2007.08 [evilcodecave] [Something about Firewall hooking and Packet Filtering #2](https://evilcodecave.wordpress.com/2007/08/27/something-about-firewall-hooking-and-packet-filtering-2/)
+- 2007.08 [evilcodecave] [Something about Firewall hooking and Packet Filtering](https://evilcodecave.wordpress.com/2007/08/26/something-about-firewall-hooking-and-packet-filtering/)
+- 2006.12 [pediy] [Attacks on Themida AntiHook Protection](https://bbs.pediy.com/thread-35724.htm)
+- 2006.08 [pediy] [[已解决]如何用全局Hook记录鼠标滚轮的动作?](https://bbs.pediy.com/thread-29995.htm)
+- 2005.07 [mckeay] [Cisco lets researcher off the hook](http://www.mckeay.net/2005/07/29/cisco-lets-researcher-off-the-hook/)
+- 2004.08 [infosecblog] [Long Range Hookup](https://www.infosecblog.org/2004/08/long-range-hookup/)
+
+
+# Contribute
+Contents auto exported by Our System, please raise Issue if you have any question.
